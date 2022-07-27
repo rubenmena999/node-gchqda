@@ -1,0 +1,6762 @@
+[
+  {
+    "uuid": "23702e58-7ac9-4553-8f63-cdba3bb84bab",
+    "creationDate": "2022-03-04 10:49:20",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "5d71a0bc-a0e2-5037-8955-92972acca788",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "0ba4ba93-d5cb-4aa3-9097-36a1f3c681ea",
+    "creationDate": "2022-03-04 10:49:26",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "d5d68a1f-52e5-514e-92d0-b3573fd36198",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-11-09",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-02",
+        "underlyings": [
+          "ES0177542018"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "cc164884-abb6-4fda-aa47-ab13aa831bd1",
+    "creationDate": "2022-03-04 10:49:29",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "063bc3eb-8192-58ee-baff-0b90c3a5638f",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1300000",
+        "issueDate": "2021-12-27",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1bfd1273-9c6c-47e8-975a-a91a6341c6ec",
+    "creationDate": "2022-03-04 10:49:32",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "feb6f06f-9492-53cd-8cf5-92942fcd5cfe",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-26",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "b239981b-50b7-4794-a658-9e8cbab5cbfa",
+    "creationDate": "2022-03-04 10:49:36",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "1fda3b42-3139-5b79-93a2-2c4c0256cf95",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "4500000",
+        "issueDate": "2022-02-01",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-01-20",
+        "underlyings": [
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d2fae8d0-ad41-4a6b-813b-0e706ee9afff",
+    "creationDate": "2022-03-04 10:49:38",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "e69818c6-e6ad-5448-95ff-6ba2ded92e6c",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1200000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0144580Y14",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "af4582c2-8c6f-4d6a-9ce3-9c338a461647",
+    "creationDate": "2022-03-04 10:49:41",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "d6a4a121-1c5d-507f-a474-c7671bb8800f",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1825000",
+        "issueDate": "2021-12-24",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0173516115",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "834951bb-6125-464b-b71c-5216f9250a8f",
+    "creationDate": "2022-03-04 10:49:46",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "433449d2-b619-54b4-b9ba-b3ab8ae60396",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-11-09",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-26",
+        "underlyings": [
+          "ES0167050915"
+        ]
+      }
+    },
+    "issuers": [
+      "bgc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bgc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "26c2024b-2d4c-4b25-a21a-f9d78782cb9e",
+    "creationDate": "2022-03-04 10:49:48",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "6d1f35a5-23cd-568e-bbbf-4d3f1d2d4015",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "1300000",
+        "issueDate": "2021-11-15",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-01",
+        "underlyings": [
+          "US02079K1079",
+          "US0231351067",
+          "US0378331005",
+          "US30303M1027",
+          "US5949181045",
+          "US64110L1061",
+          "US67066G1040"
+        ]
+      }
+    },
+    "issuers": [
+      "creditsuisse"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "creditsuisse": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "60cc6eba-cf1a-464c-b41e-14d57a9b3fd2",
+    "creationDate": "2022-03-04 10:49:43",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "productUuid": "c44ffdee-d596-5c3b-bd4c-d5a22984165d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1100000",
+        "issueDate": "2021-12-27",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "GB0001383545"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "f2e94376-6802-431a-a950-7173d4d36d4f",
+    "creationDate": "2022-03-04 12:22:19",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "278a6925-5dd0-51b3-897f-41ed2e49ea12",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0178430E18"
+        ],
+        "issueDate": "2022-03-04",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-04"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "9a302300-6b5c-4343-b0ba-15d3bcde1573",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "2d6b13e0-a8a9-4dcf-9c03-86ba4e6b90f9",
+    "creationDate": "2022-03-04 13:32:20",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "278a6925-5dd0-51b3-897f-41ed2e49ea12",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0178430E18"
+        ],
+        "issueDate": "2022-03-04",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-04"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "9a302300-6b5c-4343-b0ba-15d3bcde1573",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3977de88-3f99-4b6f-894a-d553d1b011e6",
+    "creationDate": "2022-03-04 17:59:53",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "748b3357-c634-55fe-b843-e6fe0669fb40",
+    "product": {
+      "generalParams": {
+        "notional": "10000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-04",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-04"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "0ff1bfe4-2b8b-49de-b6b2-df7e49433738",
+    "creationDate": "2022-03-07 08:59:02",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "e03b4743-ed6f-532e-ba8c-69e1f5b11ffb",
+    "product": {
+      "generalParams": {
+        "notional": "10000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-07",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-07"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "9bbe6e06-835c-4066-bd64-02dc0f3e6518",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4f1d5eca-14d9-42cf-a339-a0fd09043bce",
+    "creationDate": "2022-03-07 10:10:21",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "278a6925-5dd0-51b3-897f-41ed2e49ea12",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0178430E18"
+        ],
+        "issueDate": "2022-03-04",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-07"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "9a302300-6b5c-4343-b0ba-15d3bcde1573",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "cd3d3e13-08cc-4b84-95af-14061b03efb0",
+    "creationDate": "2022-03-07 16:47:46",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "c3a84259-034b-5b66-884d-d7798c56d17d",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0178430E18"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-07"
+      }
+    },
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "issuers": [
+      "barclays",
+      "societe"
+    ],
+    "productCatalogUuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      },
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012062716",
+        "value": "103.86"
+      }
+    }
+  },
+  {
+    "uuid": "2d704df2-3016-4a47-ae5a-cfd61765fe45",
+    "creationDate": "2022-03-07 21:26:29",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "a2f39557-da80-5207-9910-f5f5d6aed803",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-07"
+      }
+    },
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "issuers": [
+      "morgan-plc",
+      "bbva"
+    ],
+    "productCatalogUuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+    "result": {
+      "morgan-plc": {
+        "status": "quoteRejected",
+        "error": {
+          "issuerMessage": "Failed to price, please contact sales.",
+          "asnMessage": "multipricer.error.issuerError"
+        },
+        "externalId": "24426480"
+      },
+      "bbva": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "fdc7d28f-089a-4137-895a-48df4550e449",
+    "creationDate": "2022-03-08 12:48:21",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "e07165f2-859e-5536-ae3f-a9957f988d8e",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "AT0000743059"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-08"
+      }
+    },
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "creditagricole",
+      "marex",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012090119",
+        "value": "90.82"
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "86.72",
+        "externalId": "24458507"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "86.69",
+        "externalId": "24458506"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "error": {
+          "issuerMessage": "Error: 1060. Unknown Underlying OMV AV. Please contact your BBVA sales representative.",
+          "asnMessage": "Error"
+        },
+        "externalId": ""
+      },
+      "creditagricole": {
+        "status": "requestSent"
+      },
+      "marex": {
+        "status": "quoteRejected",
+        "error": {
+          "issuerMessage": "Error Field Value"
+        }
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "c19a5aa9-dd2c-4af1-ab9e-8d2ca3198f2f",
+    "creationDate": "2022-03-08 12:55:25",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "68aff6f8-8502-5608-9634-779cab8961f0",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-08"
+      }
+    },
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "ubs",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012090244",
+        "value": "92.34"
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "92.20",
+        "externalId": "24458532"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "92.06",
+        "externalId": "24458535"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "value": "94.07",
+        "externalId": "306583"
+      },
+      "ubs": {
+        "status": "quoteReceived",
+        "value": "NaN",
+        "externalId": ""
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "59d8d6fc-0db3-4e6b-9b1e-9eb24609751c",
+    "creationDate": "2022-03-08 12:55:09",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "3e1dbf9e-e5be-5063-8880-58b14a23bfe7",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0178430E18"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-08"
+      }
+    },
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "ubs",
+      "marex",
+      "barclays",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012090241",
+        "value": "95.28"
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "91.35",
+        "externalId": "24458534"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "91.21",
+        "externalId": "24458533"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "value": "89.79",
+        "externalId": "306584"
+      },
+      "ubs": {
+        "status": "quoteReceived",
+        "value": "NaN",
+        "externalId": ""
+      },
+      "marex": {
+        "status": "quoteReceived",
+        "value": "90.30",
+        "externalId": "PemaAciirrlgeEli_20220308125727"
+      },
+      "barclays": {
+        "status": "newRequest"
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "ffe52a92-1b17-41d5-9f2b-ff9ef4dd4190",
+    "creationDate": "2022-03-08 18:06:58",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "82e14573-a23a-5a15-922f-4e2894a2ef1a",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "ES0148396007"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-08"
+      }
+    },
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "issuers": [
+      "societe",
+      "morgan-plc"
+    ],
+    "productCatalogUuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012097384",
+        "value": "117.67"
+      },
+      "morgan-plc": {
+        "status": "quoteRejected",
+        "error": {
+          "issuerMessage": "Failed to price, please contact sales.",
+          "asnMessage": "multipricer.error.issuerError"
+        },
+        "externalId": "24461073"
+      }
+    }
+  },
+  {
+    "uuid": "1fb8d246-51e7-48b1-bc25-5970b35c2ae0",
+    "creationDate": "2022-03-09 08:26:12",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d5d68a1f-52e5-514e-92d0-b3573fd36198",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-11-09",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-02",
+        "underlyings": [
+          "ES0177542018"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "72faaf36-9743-43c1-9042-e57037141f8b",
+    "creationDate": "2022-03-09 08:26:21",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "5d71a0bc-a0e2-5037-8955-92972acca788",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "85911cda-a758-4fb6-bb31-69d81b3ef752",
+    "creationDate": "2022-03-09 08:26:24",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "063bc3eb-8192-58ee-baff-0b90c3a5638f",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1300000",
+        "issueDate": "2021-12-27",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "cc6d67b0-f6bd-463e-b266-4a025a409b09",
+    "creationDate": "2022-03-09 08:26:27",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "feb6f06f-9492-53cd-8cf5-92942fcd5cfe",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-26",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4d0bd942-7e40-4c4d-b6de-ccccf5ce14ab",
+    "creationDate": "2022-03-09 08:26:30",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1fda3b42-3139-5b79-93a2-2c4c0256cf95",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "4500000",
+        "issueDate": "2022-02-01",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-01-20",
+        "underlyings": [
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1fe7b214-289e-4ecc-94c5-20598e8b9210",
+    "creationDate": "2022-03-09 08:26:40",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "433449d2-b619-54b4-b9ba-b3ab8ae60396",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-11-09",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-26",
+        "underlyings": [
+          "ES0167050915"
+        ]
+      }
+    },
+    "issuers": [
+      "bgc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bgc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "b723ae3e-d382-4754-aede-8ecd4dc9ec2f",
+    "creationDate": "2022-03-09 08:26:34",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d6a4a121-1c5d-507f-a474-c7671bb8800f",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1825000",
+        "issueDate": "2021-12-24",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0173516115",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "c222e84a-b502-42a5-9efe-2b18b9614d1c",
+    "creationDate": "2022-03-09 08:26:37",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "c44ffdee-d596-5c3b-bd4c-d5a22984165d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1100000",
+        "issueDate": "2021-12-27",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "GB0001383545"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "388259ab-d684-4a58-b745-ffcb3ae86cda",
+    "creationDate": "2022-03-09 08:26:43",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6d1f35a5-23cd-568e-bbbf-4d3f1d2d4015",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "1300000",
+        "issueDate": "2021-11-15",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-01",
+        "underlyings": [
+          "US02079K1079",
+          "US0231351067",
+          "US0378331005",
+          "US30303M1027",
+          "US5949181045",
+          "US64110L1061",
+          "US67066G1040"
+        ]
+      }
+    },
+    "issuers": [
+      "creditsuisse"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "creditsuisse": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "a3387c71-5400-42d9-a7de-9407de775499",
+    "creationDate": "2022-03-09 08:26:45",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2bd04f43-6a15-594d-8edd-8ecf25730be4",
+    "productCatalogUuid": "d907b802-2312-5243-892b-9e98a687e0f4",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0124244E34",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "dee5e984-5c6f-4d34-93a4-ef387f138d9c",
+    "creationDate": "2022-03-09 08:26:49",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2bd04f43-6a15-594d-8edd-8ecf25730be4",
+    "productCatalogUuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d0d45972-d84e-4144-8eac-526ed9fcb8c5",
+    "creationDate": "2022-03-09 08:26:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "842d1755-7028-53dc-ac33-397a6ac4dd0c",
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "product": {
+      "generalParams": {
+        "notional": "1750000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5349fb13-4f6e-4966-8258-a59270e067ca",
+    "creationDate": "2022-03-09 08:26:56",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "bcd7ed88-f8af-51f7-9012-af7b3aaff430",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "510000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "BE0974293251",
+          "ES0178430E18",
+          "FR0000120172"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "06de2919-ebce-422c-91f5-352bd1ee025e",
+    "creationDate": "2022-03-09 08:26:58",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "953c9787-18af-55f1-bc24-e1ea81caadcf",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "2075000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "BE0974293251",
+          "NL0000009165"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4afeb025-8a53-485c-8c31-d1fe311509f1",
+    "creationDate": "2022-03-09 08:27:00",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "147310e8-5287-547e-93c7-be27b5a5be61",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1725000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "DE000BAY0017",
+          "FR0000120578"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4a3c86f3-fa85-4c34-aa8d-1ccbdd2935a2",
+    "creationDate": "2022-03-09 08:27:03",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0e4e01fa-4a2c-5ee0-b19e-d25ebc6d382a",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "500000",
+        "issueDate": "2022-02-01",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2022-01-20",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5168f9ef-d4de-4e0f-bd89-6931df5e9758",
+    "creationDate": "2022-03-09 08:27:05",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a73d6818-0ac0-54bb-8ec9-e362d423a5b0",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1125000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "ae5a5063-f263-48be-af98-f0edb8bdf9a0",
+    "creationDate": "2022-03-09 08:27:07",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "84dce9d2-c8e1-551d-8422-de98513d74a6",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1440000",
+        "issueDate": "2021-12-22",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "c13e2603-30e1-4c22-9d30-69f3d07fc2c3",
+    "creationDate": "2022-03-09 08:27:11",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "84dce9d2-c8e1-551d-8422-de98513d74a6",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1125000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3540b796-cb82-434c-977a-b78bcb2006c6",
+    "creationDate": "2022-03-09 08:27:14",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "4cc257d6-39d3-5abb-8e3d-3fd9b83ff713",
+    "productCatalogUuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "product": {
+      "generalParams": {
+        "notional": "300000",
+        "issueDate": "2022-02-04",
+        "issueDays": "15",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-01-20",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "f1d171cd-fc26-4f35-b00b-fa92007b267b",
+    "creationDate": "2022-03-09 08:27:15",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e89f97a3-c976-5374-9c08-ad1c6492d27c",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "FR0000120172",
+          "GB0007980591"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "6c4b117f-48e2-4ede-99f6-9fe465734225",
+    "creationDate": "2022-03-09 08:27:17",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "95ea0c71-e6d4-5f48-87ae-0de7be85eb28",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-18",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "NL0010773842",
+          "NL0011821202"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3e1d71e5-b39b-46f2-a1d7-c1a0ec7198b8",
+    "creationDate": "2022-03-09 08:27:19",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "25e6c928-ddc6-5e02-900a-e1d08031a8ce",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "FR0000120271",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "808c5801-99f8-43f5-98d3-3af85f73b605",
+    "creationDate": "2022-03-09 08:27:22",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "bb0d627e-841d-53b7-aeba-af2346548b61",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-21",
+        "issueDays": "11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "BE0974293251",
+          "NL0000009165"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "71d5da6b-783c-4814-8aa1-4e0f451f412f",
+    "creationDate": "2022-03-09 08:26:32",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e69818c6-e6ad-5448-95ff-6ba2ded92e6c",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1200000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0144580Y14",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "ea01e331-53c3-449e-8b8d-2584a708b101",
+    "creationDate": "2022-03-09 08:27:28",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "9121c21e-9a66-525b-bd2a-b3e34bd3ac77",
+    "productCatalogUuid": "2ea87ed7-240e-557c-9102-6366c25cd42d",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "3154a34e-84e1-410a-ac90-5b54b7429453",
+    "creationDate": "2022-03-09 08:27:30",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "62424e48-0029-5f9e-b9d0-678aba86e00c",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1100000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "b95f86a1-be44-41fa-ab32-c0adea44f476",
+    "creationDate": "2022-03-09 08:27:33",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "07e8c52e-2b54-53e2-8399-0e7512b167f0",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "2000000",
+        "issueDate": "2022-02-10",
+        "issueDays": "21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-01-20",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "dc903149-3645-4db4-ac2d-aa37b0c3c28b",
+    "creationDate": "2022-03-09 08:27:32",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "b967c55c-48a6-54db-a8e1-00cdf5acd5bc",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "642000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "68a034fa-60ec-42c6-983d-1f7f3f00108c",
+    "creationDate": "2022-03-09 08:27:35",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6018f3bc-2309-5ab5-8611-3655829b5b55",
+    "productCatalogUuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0132105018"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "4fe4ef22-8790-45e7-9ef5-a84cd25482c1",
+    "creationDate": "2022-03-09 08:27:26",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d8a9f51d-07d5-54e1-9fcb-78bd4f1169f6",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-12-24",
+        "issueDays": "14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "c87b8e5f-ede1-42e1-b7c0-85bbdbae3200",
+    "creationDate": "2022-03-09 08:27:24",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "66214486-da59-5a9c-9095-6e0c3716e8de",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "2700000",
+        "issueDate": "2021-11-16",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-02",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "0105ea3b-909b-49e8-bdd6-7c71ca64ebe3",
+    "creationDate": "2022-03-09 08:28:20",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "99822545-01f2-5730-8402-1f8a79f9d459",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "5000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "barclays"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d1a5b5b2-99e3-4ac4-aef0-b2ebcb352c71",
+    "creationDate": "2022-03-09 08:28:25",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2ae6dec8-13e6-5451-b849-0356c3740748",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "5000000",
+        "issueDate": "2021-11-02",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-26",
+        "underlyings": [
+          "US92189F1066"
+        ]
+      }
+    },
+    "issuers": [
+      "bgc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bgc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "118f9341-535e-47de-829a-453b673dc26d",
+    "creationDate": "2022-03-09 08:28:27",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d2a2bf20-6d67-5508-95db-5d830c39aa10",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007100000",
+          "ES0177542018",
+          "FR0000120172"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "fb49aaf2-e8e9-4123-a49f-6f1a9933801e",
+    "creationDate": "2022-03-09 08:28:29",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "adc4614d-aa76-5e4f-826f-1450af9c939a",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0177542018",
+          "FR0000120172",
+          "FR0000131104"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "070b5057-4f31-4c73-8dca-a52b5894ac89",
+    "creationDate": "2022-03-09 08:28:33",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "07c96ad8-56c7-5fe8-8cc0-8ee3bb9c8f27",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0178430E18",
+          "FR0000120172",
+          "NL0010273215"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "162f22e6-97d6-47b6-8dde-809aa63ee757",
+    "creationDate": "2022-03-09 08:28:35",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cd92fdbd-77b3-5ede-b768-a85235557d51",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0132105018",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9d821bf7-cfb3-44ed-b55e-d843a0e004b7",
+    "creationDate": "2022-03-09 08:28:38",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1699242a-dd13-597a-8008-9bbec321f48f",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113860A34",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9d339feb-f3ae-4866-8fe0-6dbdc8480161",
+    "creationDate": "2022-03-09 08:28:41",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "24da0215-5721-530f-b99c-64d1ee6a7d83",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0005190003",
+          "ES0178430E18",
+          "GB00B03MLX29"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "c3a51114-c8b4-4258-8107-ee7d7849e0cb",
+    "creationDate": "2022-03-09 08:28:43",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a7c1653a-87ea-5f9b-bcef-f19683088bdb",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0005190003",
+          "ES0113211835",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "f4a580b5-2237-4ea2-b9b8-45df120f0a5a",
+    "creationDate": "2022-03-09 08:28:45",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "f83831bb-0c20-50ec-83f1-23795af8fdbf",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-19",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0178430E18",
+          "GB00B03MLX29"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "a5350a35-cfa2-49fa-a098-ce65307a8e92",
+    "creationDate": "2022-03-09 08:28:48",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "4b9d86a9-690f-52ba-bcea-94d60da2d976",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113860A34",
+          "ES0173516115",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9633b8c4-1d2d-446e-805b-891bf57c8579",
+    "creationDate": "2022-03-09 08:28:50",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "ee53139a-749f-5f1a-8ec2-40c75be4485c",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0005190003",
+          "LU1598757687",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5c825374-96e6-4503-a4c5-89269e7f4adf",
+    "creationDate": "2022-03-09 08:28:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "ab672712-ecb8-5504-96a3-76f700846f79",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0178430E18",
+          "GB00B03MLX29"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1f96f24b-431a-4155-85cc-85f7e09ac28c",
+    "creationDate": "2022-03-09 08:28:54",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "dc5ebc60-fdb0-564c-8de8-b79c7bd69be8",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0132105018",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7a5dd1ea-c552-44f4-86f7-e340c8b2b6e4",
+    "creationDate": "2022-03-09 08:28:56",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "166f7fcf-0a48-5ace-9e69-6d4c6327ef53",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "2af83fdc-a887-462d-a2dd-0e6f179bed20",
+    "creationDate": "2022-03-09 08:28:59",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "fc4eac74-6b43-574d-8ac3-f40708a589d6",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0132105018",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "69f0f052-d8d8-41a2-848e-5d58620c66ee",
+    "creationDate": "2022-03-09 08:29:01",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "c43948a1-bb90-5521-88cb-0bead0b72238",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007100000",
+          "ES0173516115",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "45ee0348-7ab1-471a-baf2-6ba6f4ef9c10",
+    "creationDate": "2022-03-09 08:29:10",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "fde4252d-146a-5dce-94e9-35daa2fd64e0",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007100000",
+          "ES0132105018",
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "6761bc40-1ec5-4c14-99c5-5353c6e7716a",
+    "creationDate": "2022-03-09 08:29:12",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d289d983-437a-5679-be4a-6f8d8af2c23b",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "DE0007037129",
+          "ES0113860A34",
+          "ES0126775032"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "b577c421-1cbf-4e57-a56a-ad31d72ce42e",
+    "creationDate": "2022-03-09 08:28:23",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1dbdda8d-aa79-5bcf-8d4c-21f1bc287062",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1275000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0144580Y14",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "bbva"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "bbva": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "d0c02f5c-ad75-4d99-9301-c86227ef85cc",
+    "creationDate": "2022-03-09 08:29:14",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "57fd1cc1-6275-5209-988c-7ee751687831",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3fd6d6ac-4613-4d74-b87f-255ed1437298",
+    "creationDate": "2022-03-09 08:29:16",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "4f3ace95-70f3-5bdd-9dff-0a720a3bb130",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007664039",
+          "ES0113211835",
+          "ES0177542018"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9009af6d-e5f7-4b70-81cd-5d166112e694",
+    "creationDate": "2022-03-09 08:29:19",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "5908925e-33a5-5ab6-9e7e-fadae80f054e",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "ES0126775032",
+          "ES0178430E18",
+          "FR0000120578"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "b138b600-0536-4cbe-b116-3c0f9654570f",
+    "creationDate": "2022-03-09 08:29:21",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "8c335882-124f-5f73-8598-d3062cdcc39e",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-28",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "510d3dee-1b06-4aeb-a0dc-18dfa928828f",
+    "creationDate": "2022-03-09 08:29:23",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "44a78f47-eae1-55e7-9ca7-936c8b22b68c",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007664039",
+          "ES0113211835",
+          "FR0010208488"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9d2ee2d5-8d33-4cc9-9f15-afa60c3a4116",
+    "creationDate": "2022-03-09 08:29:03",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "ea1288be-bdf0-55cc-8521-a754aaadfc5e",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0178430E18",
+          "FR0000127771",
+          "GB00B03MLX29"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "98210db0-ac49-4223-86b9-deb43521c19e",
+    "creationDate": "2022-03-09 08:29:06",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "645d3836-60f4-5c76-9859-507802b2d06b",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007664039",
+          "ES0132105018",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7a9e1a6d-6d38-4dad-a6f0-631fcd654fe3",
+    "creationDate": "2022-03-09 08:29:08",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1ad67419-7785-57fa-a135-a7191f8ea745",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "FR0000127771",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "6dbd98d7-b8f1-4882-b0f3-584a70715004",
+    "creationDate": "2022-03-09 08:29:55",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "12bb07da-0429-52b2-8464-dc9ffa7cf848",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "b0838e4f-93d0-472d-8e49-8daac1f11875",
+    "creationDate": "2022-03-09 08:29:58",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "78406a27-9d69-5eee-aa3e-5ae15c4be62f",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "DE0005190003",
+          "ES0116870314",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7e169b17-80b6-4633-af8e-c5e19bfd8149",
+    "creationDate": "2022-03-09 08:30:01",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "277031e7-1de5-55fa-9034-3c4146500ab1",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE000ENAG999",
+          "ES0113860A34",
+          "FR0010208488"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "279a686f-cebb-4280-a475-a9f8e6421917",
+    "creationDate": "2022-03-09 08:30:04",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "24df1ea5-daa6-5d44-b1bc-9510c2c13956",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0173516115",
+          "FR0000127771"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7765d19f-eb44-4664-b624-b19d90727e62",
+    "creationDate": "2022-03-09 08:30:07",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "fba6ea41-c711-581b-b4b3-cdad20dbcaf3",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "DE000ENAG999",
+          "IT0000062072",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "c77a13a5-6df3-4e4b-9efa-517ea116f138",
+    "creationDate": "2022-03-09 08:30:09",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "677e772e-0fba-5f70-bbb0-ca9e88e02621",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE000ENAG999",
+          "ES0113860A34",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "12a94db6-2caa-48fa-b270-d2db5dd68ed2",
+    "creationDate": "2022-03-09 08:29:25",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "385b51f8-d673-52e9-84b0-82d5f4ab5f77",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113860A34",
+          "ES0178430E18",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1ebf24aa-864c-4918-aa20-3c80b89649c9",
+    "creationDate": "2022-03-09 08:29:28",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0d6354f4-5f9a-5d03-ad9a-427de4646185",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "GB00BH4HKS39",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3582e2c2-7d6c-488d-8746-ce53af745dee",
+    "creationDate": "2022-03-09 08:29:30",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "32eb49f1-d09c-5858-ab3a-d6a228bc0cfd",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4807b899-0477-4845-b986-0912e1a0ac6e",
+    "creationDate": "2022-03-09 08:29:32",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2653a78a-efaa-5b0f-8b21-38d57b9f1de3",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "997a4b38-07f4-4515-aa65-a5c59ff49eb7",
+    "creationDate": "2022-03-09 08:29:34",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2a939588-2ecc-509e-b40a-10d21263ea55",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "c45a14eb-56c4-423e-84f9-aa033fbb0fea",
+    "creationDate": "2022-03-09 08:29:36",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cd928de4-bb86-5cae-8e26-ca7580a9ea0c",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "f68b055f-7a4f-49bc-ae41-0dda72979e59",
+    "creationDate": "2022-03-09 08:29:38",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "24b7decf-c04d-5d72-a96e-8725872d34f2",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0132105018",
+          "ES0140609019",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "18fb33a8-e28e-479c-aeca-535c1223c980",
+    "creationDate": "2022-03-09 08:29:41",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d397ecb8-1fbe-512e-97fc-c486f8ac92e3",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007664039",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "0e763410-312c-427b-9261-1d8db68358dc",
+    "creationDate": "2022-03-09 08:29:43",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "397e9769-1194-5370-8c50-65a2547e9c7f",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113860A34",
+          "ES0132105018",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "da0f9cca-3249-4b08-b43f-2656bce7fcbe",
+    "creationDate": "2022-03-09 08:29:45",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0e31115b-9573-5659-8aa8-12f592e9aa71",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007100000",
+          "ES0140609019",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "4622533c-b45a-44dd-9a5f-73477fa42a70",
+    "creationDate": "2022-03-09 08:29:47",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "7ed6d5d1-1603-505c-b612-e9db3f08677d",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0148396007",
+          "ES0173516115",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "36c8b5f8-c42e-435c-a39a-7ad5aa62d014",
+    "creationDate": "2022-03-09 08:29:50",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d58d69b0-e35c-5d3a-911a-77126ffe1e7f",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007037129",
+          "ES0113211835",
+          "FR0013176526"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5ad8ac98-45bc-4946-a9ec-2d431db006f4",
+    "creationDate": "2022-03-09 08:29:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "ef1877f8-aa7e-5a84-9e6c-c558bab3e4d4",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-22",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "LU1681046931"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5a042f65-920e-4370-8331-3399d9cd14d1",
+    "creationDate": "2022-03-09 08:30:33",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20c3cac8-d941-553e-a83b-3daceffd58ad",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "aeb5219d-6fcf-4ff9-9a83-0812320b5746",
+    "creationDate": "2022-03-09 08:30:36",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d0de6f9e-a713-53c7-a7b9-33e5ec087561",
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-25",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "ce3a65de-eb28-4f42-9828-5ebc94065963",
+    "creationDate": "2022-03-09 08:30:38",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "29cd7e81-d368-55fe-989f-87612b399357",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "e2d456de-9f16-446b-8f4e-a5de7e7d4d35",
+    "creationDate": "2022-03-09 08:30:41",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "dd097559-6d47-5ea4-87d0-09d3a58525e5",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "bbb36f51-08eb-4ff2-b7e5-953ff1155401",
+    "creationDate": "2022-03-09 08:30:43",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "b5b13a1a-42fd-5977-89ef-e6010f7a3041",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "8ea86e07-6522-461e-9a3b-53af9d88246f",
+    "creationDate": "2022-03-09 08:30:12",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a6618f13-7b50-59a4-ac0e-ba307f0a44e8",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "ES0116870314",
+          "ES0132105018",
+          "FR0010208488"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "bfb70e24-dd02-4143-830f-65da867c8120",
+    "creationDate": "2022-03-09 08:30:14",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a7d7e055-8a31-5c81-b450-1242ee9e0b17",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007100000",
+          "ES0113860A34",
+          "FR0010208488"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "2a6ce3e1-7b67-4d8d-aaa7-d424e0aecbce",
+    "creationDate": "2022-03-09 08:30:17",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "96fd0cd8-4178-5a16-889c-96e052cd3a96",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-27",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "FR0003500008",
+          "JP9010C00002"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "033d28e3-4d8c-46dc-9c4d-148f89be3fe6",
+    "creationDate": "2022-03-09 08:30:19",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "15e09b60-8aa8-5138-bd22-f56eaa7ddcfa",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "72cd3561-21a8-4021-a58b-d6de61e69e0a",
+    "creationDate": "2022-03-09 08:30:22",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6ed5bbf9-114c-57b4-819c-fad1b603acb5",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE000ENAG999",
+          "FR0000127771",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "217a6375-9201-465a-93db-c971110a10f9",
+    "creationDate": "2022-03-09 08:30:25",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "446aef6e-cfae-53ca-83a3-acfc011b14df",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0007037129",
+          "DE0007664039",
+          "GB00B03MLX29"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "937ceb37-9bb4-44e5-a607-84fe925d0250",
+    "creationDate": "2022-03-09 08:30:28",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "fcbfc875-8606-55a4-971b-8cdb75cea20d",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "DE0008469008",
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "f853251e-d419-4229-9a94-baed0d85594c",
+    "creationDate": "2022-03-09 08:30:30",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e86b74cf-4e3e-5916-8196-4aef61ef86e8",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "85321336-4930-4854-afd4-e8478770a9db",
+    "creationDate": "2022-03-09 08:30:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a042c25f-611c-5cb3-9c14-714e00db1597",
+    "productCatalogUuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-12",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-29",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1a4a4179-ab05-4b88-ae76-c5dc9ce5f086",
+    "creationDate": "2022-03-09 08:30:46",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "014ec5a2-143e-50e5-932e-b1b5125097aa",
+    "productCatalogUuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-20",
+        "issueDays": "9",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "639f2813-22a4-487d-b21a-ce3cf3a1fa35",
+    "creationDate": "2022-03-09 08:30:48",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "5202bda0-1027-5c0e-971d-3d6f244de7fd",
+    "productCatalogUuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "bb9c6c27-a8e5-45d5-9c34-bcaa29cba02f",
+    "creationDate": "2022-03-09 08:30:51",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2bd11b68-1b48-5a04-8e3b-a47bffa3eb3e",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-19",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "CH0020751589",
+          "ES0SI0000005"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "849592c1-dc7c-42d5-9cf1-e0a075eee266",
+    "creationDate": "2022-03-09 08:30:54",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "c71e8b9d-f11f-556d-90aa-0690cbc9b4cd",
+    "productCatalogUuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "issueDate": "2021-11-12",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-08",
+        "underlyings": [
+          "EU0009658202"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7f870fe5-37b6-499d-a8c0-6664e2cc8681",
+    "creationDate": "2022-03-09 08:30:57",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cdf6b95d-0924-52ce-ab25-cbb463c06198",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-27",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-13",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "a09cab93-cbe5-4d0d-b08d-9ec3bd0c34be",
+    "creationDate": "2022-03-09 08:31:00",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a1d68b40-787b-53cc-a85a-90850fbe7909",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-01",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-18",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "fd6ed41c-0ee7-4fc0-a2e6-553bdf0561ad",
+    "creationDate": "2022-03-09 08:34:06",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "3bda280f-3282-5c96-a953-d3ee59dd0a96",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-31",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-18",
+        "underlyings": [
+          "DE0005140008",
+          "ES0113211835",
+          "ES0140609019",
+          "ES0177542018"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "35ea9501-9376-4947-9987-0a974adba9f8",
+    "creationDate": "2022-03-09 08:34:08",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "832c5bd8-5a42-5f9d-8bb1-054aac693d5e",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-01",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-18",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "1ee3fab5-ceca-42a0-93b2-6b55080dde0a",
+    "creationDate": "2022-03-09 08:34:11",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6b52e0ad-07f8-5a0a-9cde-13eec2cd5e7d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-03",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-20",
+        "underlyings": [
+          "ES0148396007",
+          "ES0173516115",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "576c54ca-0080-4e06-afac-461a79a97690",
+    "creationDate": "2022-03-09 08:34:13",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "7b70f69a-387b-537e-ba82-a4ae03db1560",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-20",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "61d75e34-9f2d-460c-a1ad-2f9c8691d210",
+    "creationDate": "2022-03-09 08:34:15",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "17b417a5-b4b2-5748-a8c2-b10c900a8b18",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "DE000ENAG999",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "2cb507c8-5f78-488f-8e19-7770230c43b6",
+    "creationDate": "2022-03-09 08:34:17",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "829aa7b0-e159-5a06-affe-73263739ab57",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "f91b7651-cd9d-43fd-882f-eaa9a265fd65",
+    "creationDate": "2022-03-09 08:34:19",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6380df97-4022-5c24-8214-58f7b9bf6a46",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0113211835"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "dffb29a7-5a6e-489a-a071-c363cd9ad8d5",
+    "creationDate": "2022-03-09 08:34:21",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "da2b1f35-4127-5ff3-86c1-d66b9f43c612",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "baf13caf-a0c8-43fe-a0c1-02278c6b62a7",
+    "creationDate": "2022-03-09 08:34:24",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e1390b82-6764-55b0-8ff2-3cf13fef82ef",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-03",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "DE000A1EWWW0",
+          "ES0113211835",
+          "ES0178430E18",
+          "US9581021055"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "8187f202-555b-48af-a832-af1c43d4cf92",
+    "creationDate": "2022-03-09 08:34:26",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "da6d8e48-6d01-5717-a9a5-20ae284f65ed",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "LU1681046931"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "088ecc24-97e1-40f0-a0b5-dea00db9ba94",
+    "creationDate": "2022-03-09 08:34:28",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "5da23f54-c34d-56d3-971c-65cbc7a6ed2d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-28",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "cef143e2-d303-4428-b0bb-36ffa0912d7b",
+    "creationDate": "2022-03-09 08:34:30",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "da0a3643-9372-5e52-b378-0df56e0e1ac8",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "22901f3f-3c93-4aa3-92d1-c89c3a4d6017",
+    "creationDate": "2022-03-09 08:34:34",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cf5ca4f9-bd8e-5ccf-8b98-d4a6cd6b2aa2",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-01",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0144580Y14",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "52f73be9-28ef-4271-a98d-d9b6097d1844",
+    "creationDate": "2022-03-09 08:34:36",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "63e63c2d-71b0-5d6c-9584-775dee0b2f3b",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-21",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "e9fa7390-6b89-4a0f-bd7d-dd3b4c9abccb",
+    "creationDate": "2022-03-09 08:34:38",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6db158a2-1194-55aa-9eb7-11d555f00727",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-03",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "bd855df0-2c0f-40cd-82f1-15cb246d063f",
+    "creationDate": "2022-03-09 08:34:40",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "742e0684-ab4b-5ef4-8bb8-7549f31aea7d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-29",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "IE0005042456",
+          "LU1681046931"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "041c27d5-4c17-4a6e-844a-6d841f79eafa",
+    "creationDate": "2022-03-09 08:34:42",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "9c706043-0a31-5d3f-ba22-45d1bdf1a836",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9c96c590-0539-47b3-a886-8312932b733e",
+    "creationDate": "2022-03-09 08:34:44",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "b5bdbc80-feed-5c68-bcce-874dfab8e041",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0007664039",
+          "GB00B019KW72",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "af2fb64b-2c2f-4270-bdce-d369ab3f2014",
+    "creationDate": "2022-03-09 08:34:46",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "f228e4eb-4038-5094-ba10-11cfb514718e",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-02",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0148396007",
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "55939780-2819-4c4d-84ac-e59e5c2bbf92",
+    "creationDate": "2022-03-09 08:34:48",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "a5a30ce4-6ffb-5cca-90e1-87fafd75c578",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0148396007",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "78872dc8-9ece-401d-a9bf-f6888e40ffe2",
+    "creationDate": "2022-03-09 08:34:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20d976d6-b5a0-5a42-9e92-d8df10e45408",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "GB00BH4HKS39",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "23ca9609-e6ff-4649-bdcc-c94aa42d1b6d",
+    "creationDate": "2022-03-09 08:34:54",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20d976d6-b5a0-5a42-9e92-d8df10e45408",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0007100000",
+          "ES0140609019",
+          "NL0000009082"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "70a3d79e-c5cb-442a-8c16-f227bbcb0d77",
+    "creationDate": "2022-03-09 08:34:56",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20d976d6-b5a0-5a42-9e92-d8df10e45408",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0007037129",
+          "DE0007664039",
+          "ES0113860A34"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "ee6e7bf7-2e7c-48a3-92b4-5003bf215b92",
+    "creationDate": "2022-03-09 08:34:58",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "40a947e4-4615-5e29-ba48-ee3c55154bb0",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3856f09d-02ac-460a-b017-fd4f76f5d323",
+    "creationDate": "2022-03-09 08:35:00",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d9f1330f-20d7-547c-9ce9-b57a3038d6f1",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "a4d8363a-24bf-46c6-b9ab-c6dcbc4061f6",
+    "creationDate": "2022-03-09 08:35:02",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "25aef398-8e75-5d13-8f9b-aedbc32f0442",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0113211835",
+          "FR0000120172",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "aff78fd4-ba41-48c8-b7c9-15424915799b",
+    "creationDate": "2022-03-09 08:35:04",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0c8bd2eb-2236-5541-8467-4821d0ca01c5",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-29",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "IE0005042456",
+          "LU1681046931"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d4b9b86f-7672-48c5-aee2-504808e72565",
+    "creationDate": "2022-03-09 08:35:06",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e79b22d6-5d50-5cad-bfa1-6033abfd73aa",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "DE000A1EWWW0",
+          "ES0173516115",
+          "FR0000120172",
+          "LU1598757687"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "9fc3d536-6a11-452e-a743-6b00832643f2",
+    "creationDate": "2022-03-09 08:35:08",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "17c97089-2445-5442-a722-70a46f36c654",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-05",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "939ca065-9862-4211-8cee-0d17c43350c8",
+    "creationDate": "2022-03-09 08:35:10",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "ed898df2-a243-58ae-8fcd-a449addf072d",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-22",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "US78378X1072"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "209668fd-86c6-46d0-9981-af9b2ea42114",
+    "creationDate": "2022-03-09 08:35:15",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "829aa7b0-e159-5a06-affe-73263739ab57",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d013f159-0176-4da3-a1f6-946ef2f76b68",
+    "creationDate": "2022-03-09 08:35:17",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "46902753-07f4-573e-868e-3138fe15566e",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7292bcb3-4e48-4003-83d3-5c4a5d61f0c9",
+    "creationDate": "2022-03-09 08:35:21",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "b5bdbc80-feed-5c68-bcce-874dfab8e041",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0007100000",
+          "ES0113860A34",
+          "GB00BH4HKS39"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "861f35de-02d0-4419-a585-10dd0fcec6fc",
+    "creationDate": "2022-03-09 08:35:23",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cca9ae34-ef90-509c-8782-eba180d48797",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d0cd7501-1250-4f2d-815b-49b66062f369",
+    "creationDate": "2022-03-09 08:35:26",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "3adab711-acaa-5ea5-9423-b7c68b85ded4",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-03",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0148396007",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3d410584-7048-4b1f-9c66-03165b85f277",
+    "creationDate": "2022-03-09 08:35:29",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "7372e2f8-0993-595e-8038-aedee1d10695",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "0d58c5a7-196f-4f4f-a141-1399a6c50bef",
+    "creationDate": "2022-03-09 08:35:31",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "335f77e9-4ef2-5746-99ab-c6c3711afca0",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0173516115",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5e155d0a-c843-49fc-9ad2-385ebcca4463",
+    "creationDate": "2022-03-09 08:35:34",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "cca9ae34-ef90-509c-8782-eba180d48797",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "14695c43-47a0-407e-b7a8-668035f223cd",
+    "creationDate": "2022-03-09 08:35:37",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d66db429-ea80-51d1-81a3-f97809a24102",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "FR0003500008",
+          "GB0001383545"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5461ae70-21b4-451c-b8cc-4423bcf45e91",
+    "creationDate": "2022-03-09 08:35:39",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "b5bdbc80-feed-5c68-bcce-874dfab8e041",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "FR0000125486",
+          "FR0000131104",
+          "FR0010208488"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "c2db1421-6bd2-4313-8742-8b22558fa325",
+    "creationDate": "2022-03-09 08:35:42",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20d976d6-b5a0-5a42-9e92-d8df10e45408",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0007664039",
+          "ES0148396007",
+          "FR0013176526"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "ce4cb3b4-9b1c-4f11-bd3d-6ea958a7da24",
+    "creationDate": "2022-03-09 08:35:45",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "e3fa4436-36e3-5000-855e-41728e97c430",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "CH0038863350",
+          "ES0113211835",
+          "FR0000120693"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "86f32920-e80c-4af3-8042-dd25424c3f58",
+    "creationDate": "2022-03-09 08:36:40",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "781ddc3b-ef9a-5971-abd1-ac1113268353",
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "leonteq"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "leonteq": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "34a8b60e-c6d6-474e-9685-6c5509cc5fc9",
+    "creationDate": "2022-03-09 08:35:47",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6eae9edc-669c-5b17-98d1-bb748aff43bc",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0124244E34"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7acbbdf6-09db-453d-99df-9fa1fff3349a",
+    "creationDate": "2022-03-09 08:35:49",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20d976d6-b5a0-5a42-9e92-d8df10e45408",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE000BASF111",
+          "DE000ENAG999",
+          "ES0148396007"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "cfc55599-21df-4079-b048-c1185a5bb925",
+    "creationDate": "2022-03-09 08:35:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6176ffe5-8c51-54b8-b82d-2a555729f590",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "0f0631bc-e7c6-40c0-a1a9-f786cbfcad2b",
+    "creationDate": "2022-03-09 08:35:55",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "41b95a39-2a1d-5863-bbb8-833f5f5e2dbf",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113900J37",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "8395aff0-0d9b-40c0-b7d3-39338b754185",
+    "creationDate": "2022-03-09 08:35:58",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6c73609d-4872-56eb-9f2d-7c33a287d55a",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-01",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113211835",
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "39bbdcb4-4119-4859-94c4-4a913ab07491",
+    "creationDate": "2022-03-09 08:36:00",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1fe8e027-7c87-5af0-a7b5-2d70967d5a87",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "288dc1f2-a272-4629-a5d5-3e0c0908e850",
+    "creationDate": "2022-03-09 08:36:03",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "d852b863-4902-5ec8-b915-7240c957c747",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-27",
+        "issueDays": "17",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "940bd9f2-069a-40a0-8a4b-264c28b7bb76",
+    "creationDate": "2022-03-09 08:36:06",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "252d28c3-ab3d-584b-a40a-605a9a7bb0f0",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "EU0009658145",
+          "US78378X1072"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "ba730ba5-1023-41fe-ad76-bc9ad425359a",
+    "creationDate": "2022-03-09 08:36:08",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "db0b22df-8f19-5d8e-8076-bf2b033fb027",
+    "productCatalogUuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-23",
+        "issueDays": "13",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "CH0020751589",
+          "US78378X1072"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d3f63c88-ec03-470f-bbb1-dd8f856206c6",
+    "creationDate": "2022-03-09 08:36:11",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "3aef35ba-acaf-588e-80ad-3d619d46c48f",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-25",
+        "underlyings": [
+          "ES0113211835",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "732da02f-245d-4c91-8421-24dba9f39af3",
+    "creationDate": "2022-03-09 08:36:14",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "35531dbb-3d61-5a10-af88-7ab6781bb14e",
+    "productCatalogUuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-24",
+        "issueDays": "11",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-13",
+        "underlyings": [
+          "US78378X1072"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7663b32c-e77f-4a1d-96af-9bdc93adbd20",
+    "creationDate": "2022-03-09 08:36:16",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0ebeaf6d-6042-5a75-b4c8-dcb86f18dc6f",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "1100000",
+        "issueDate": "2021-12-24",
+        "issueDays": "14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658145",
+          "US6311011026"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "2630293d-a6bc-48f1-89fe-b10c39420693",
+    "creationDate": "2022-03-09 08:36:19",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "8194afc9-0346-5f05-a1ef-440a667af01a",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "600000",
+        "issueDate": "2021-11-15",
+        "strikeFixingType": "multipricer.minimun",
+        "initialFixingDate": "2021-11-02",
+        "strikeInitialDate": "2020-06-05",
+        "strikeLastTenor": "2020-06-09",
+        "strikeLastDate": "2020-06-09",
+        "underlyings": [
+          "ES0177542018"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "455d3537-dca0-416a-bdb6-da325fe92987",
+    "creationDate": "2022-03-09 08:36:22",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "bff7ae5c-2828-5ee3-b84d-76d47c92669e",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "1500000",
+        "issueDate": "2021-12-24",
+        "issueDays": "14",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0005190003",
+          "DE0007664039"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "85661630-5615-4062-a768-812cc7905045",
+    "creationDate": "2022-03-09 08:36:25",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "51185ca3-0cfb-537b-aa53-5f58cb0a97a4",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "950000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0126775032"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5f036742-5e8f-4b1c-ac91-4f6fe543f761",
+    "creationDate": "2022-03-09 08:36:27",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "017aa6d0-999c-5aef-94c1-a90239fde7fe",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "700000",
+        "issueDate": "2021-11-08",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-27",
+        "underlyings": [
+          "ES0SI0000005",
+          "EU0009658145",
+          "JP9010C00002"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "3a9bd554-2741-4ea2-b2b8-cd6d5c90974c",
+    "creationDate": "2022-03-09 08:36:29",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "84dce9d2-c8e1-551d-8422-de98513d74a6",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1025000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "DE0005190003",
+          "DE0007236101"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "d10dde7c-e1db-480a-95cf-ee04c3ede147",
+    "creationDate": "2022-03-09 08:36:32",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "5bcc85cf-9c2b-531b-bc10-48c51df345e2",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "2000000",
+        "issueDate": "2021-12-22",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658145",
+          "US6311011026"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "5aa2a57a-3a95-4088-af0b-79546e1c8881",
+    "creationDate": "2022-03-09 08:36:35",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "7b26d35f-d4e6-5b7f-8601-0d7d836d08a0",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "1450000",
+        "issueDate": "2021-12-22",
+        "issueDays": "12",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "EU0009658145"
+        ]
+      }
+    },
+    "issuers": [
+      "hsbc"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "hsbc": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "8ab3c765-f24a-4cb2-ba57-231277c4285b",
+    "creationDate": "2022-03-09 08:36:38",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "c44a981b-2df2-54ab-9d52-5c566f499540",
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-17",
+        "issueDays": "7",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "ES0148396007",
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "leonteq"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "leonteq": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "093c77d6-2dea-4fc4-9936-6900c244c6bd",
+    "creationDate": "2022-03-09 08:36:42",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "6d746e09-6dce-5713-9277-920a142cd760",
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-14",
+        "strikeFixingType": "multipricer.live",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0SI0000005"
+        ]
+      }
+    },
+    "issuers": [
+      "leonteq"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "leonteq": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "45900381-124b-492f-bad6-e4e8c07b7b92",
+    "creationDate": "2022-03-09 08:36:44",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "93969a3f-986f-5af5-a283-6df4b09d77b6",
+    "productCatalogUuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-12-20",
+        "issueDays": "10",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-12-10",
+        "underlyings": [
+          "FR0000120172",
+          "FR0000120578",
+          "FR0000121014"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "7cd9d891-a548-4075-8431-98e31d2e6592",
+    "creationDate": "2022-03-09 08:36:46",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "2aba2d53-e961-5e59-b70e-62520c7c390a",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-11-04",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-28",
+        "underlyings": [
+          "DE0005140008",
+          "ES0113900J37",
+          "ES0173516115"
+        ]
+      }
+    },
+    "issuers": [
+      "raiffeisen"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "raiffeisen": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "e56c4885-9386-4c18-a29c-76a5b4377d02",
+    "creationDate": "2022-03-09 08:36:48",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "1b28c8b5-756e-550c-86ab-77c91d7da632",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "120000",
+        "issueDate": "2021-10-20",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-13",
+        "underlyings": [
+          "ES0148396007"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "716aa27c-9aef-4387-b99e-32f4a10d0ba5",
+    "creationDate": "2022-03-09 08:36:50",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "20c3cac8-d941-553e-a83b-3daceffd58ad",
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "product": {
+      "generalParams": {
+        "notional": "174000",
+        "issueDate": "2021-10-22",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-13",
+        "underlyings": [
+          "EU0009658426"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "fb294ac6-bb6a-4481-b91a-afdff107a16d",
+    "creationDate": "2022-03-09 08:36:53",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "4fcac3ad-7002-5ed5-816c-6fbb0e865019",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "120000",
+        "issueDate": "2021-11-16",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-11-02",
+        "underlyings": [
+          "ES0178430E18"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "fc1ff10a-a67c-43c3-98e7-5587f9e9dcee",
+    "creationDate": "2022-03-09 08:36:52",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "0cd075c4-5fe6-5299-9f50-122bc01f44b2",
+    "productCatalogUuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "product": {
+      "generalParams": {
+        "notional": "2000000",
+        "issueDate": "2021-12-15",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.minimun",
+        "initialFixingDate": "2021-12-10",
+        "strikeInitialDate": "2021-12-10",
+        "strikeLastTenor": "2021-12-13",
+        "strikeLastDate": "2021-12-13",
+        "underlyings": [
+          "ES0109067019"
+        ]
+      }
+    },
+    "issuers": [
+      "societe"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "societe": {
+        "status": "sandbox"
+      }
+    }
+  },
+  {
+    "uuid": "d96a7b42-e1a1-4bec-8df0-efce38b0e725",
+    "creationDate": "2022-03-09 08:34:03",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "userUuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "productUuid": "91361f42-a466-5bfe-8403-5990b9398a0e",
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "product": {
+      "generalParams": {
+        "notional": "10000000",
+        "issueDate": "2021-10-21",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2021-10-07",
+        "underlyings": [
+          "ES0113900J37"
+        ]
+      }
+    },
+    "issuers": [
+      "efg"
+    ],
+    "sandbox": true,
+    "tags": [
+      "external",
+      "loader"
+    ],
+    "result": {
+      "efg": {
+        "status": "newRequest"
+      }
+    }
+  },
+  {
+    "uuid": "fe3f1b0b-f27e-4ba3-a5a9-744769ac5012",
+    "creationDate": "2022-03-09 14:05:33",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "fe448181-8ac5-54b3-9090-6229616ffd3b",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "issuers": [
+      "ubs"
+    ],
+    "productCatalogUuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "result": {
+      "ubs": {
+        "status": "quoteReceived",
+        "value": "NaN",
+        "externalId": ""
+      }
+    }
+  },
+  {
+    "uuid": "b75ff7b9-de45-4062-a95c-eb6d052be3dd",
+    "creationDate": "2022-03-09 12:06:31",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "33e03ea9-3663-571e-bc37-8879e7932e6c",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "creditagricole",
+      "marex",
+      "barclays",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "result": {
+      "societe": {
+        "status": "requestSent",
+        "error": {
+          "issuerMessage": "\"Issuer societe on ERROR: multipricer.error.issuerError\"",
+          "asnMessage": "multipricer.error.issuerError"
+        }
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "7.72",
+        "externalId": "24494134"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "7.80",
+        "externalId": "24494135"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "value": "7.50",
+        "externalId": "306832"
+      },
+      "creditagricole": {
+        "status": "requestSent"
+      },
+      "marex": {
+        "status": "quoteReceived",
+        "value": "7.54",
+        "externalId": "iaceegEAirllirPm_20220309120759"
+      },
+      "barclays": {
+        "status": "newRequest"
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "266f3f68-30a6-4e6d-b06c-1566b94629f6",
+    "creationDate": "2022-03-09 12:12:03",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "c620dfd5-43d9-509f-8e2c-59f20b93dea2",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "creditagricole",
+      "marex",
+      "barclays",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012121465",
+        "value": "101.30"
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "100.94",
+        "externalId": "24494158"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "100.88",
+        "externalId": "24494159"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "value": "101.13",
+        "externalId": "306834"
+      },
+      "creditagricole": {
+        "status": "requestSent"
+      },
+      "marex": {
+        "status": "quoteReceived",
+        "value": "99.79",
+        "externalId": "mPleaglrAciiirEe_20220309121333"
+      },
+      "barclays": {
+        "status": "newRequest"
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "9d092f8c-8220-4ea2-bc94-a537ed40d207",
+    "creationDate": "2022-03-09 12:11:54",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "c620dfd5-43d9-509f-8e2c-59f20b93dea2",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "issuers": [
+      "ubs"
+    ],
+    "productCatalogUuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "result": {
+      "ubs": {
+        "status": "quoteReceived",
+        "value": "NaN",
+        "externalId": ""
+      }
+    }
+  },
+  {
+    "uuid": "ab4c26fd-afdd-441d-9a36-133681c191b8",
+    "creationDate": "2022-03-09 14:05:43",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "fe448181-8ac5-54b3-9090-6229616ffd3b",
+    "product": {
+      "generalParams": {
+        "notional": "1000000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-14",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "issuers": [
+      "societe",
+      "morgan-plc",
+      "morgan-bv",
+      "bbva",
+      "marex",
+      "barclays",
+      "goldmansachs"
+    ],
+    "productCatalogUuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "result": {
+      "societe": {
+        "status": "quoteReceived",
+        "externalId": "SGM-00012123758",
+        "value": "3.05"
+      },
+      "morgan-plc": {
+        "status": "quoteReceived",
+        "value": "2.94",
+        "externalId": "24495038"
+      },
+      "morgan-bv": {
+        "status": "quoteReceived",
+        "value": "2.99",
+        "externalId": "24495037"
+      },
+      "bbva": {
+        "status": "quoteReceived",
+        "value": "2.24",
+        "externalId": "306886"
+      },
+      "marex": {
+        "status": "quoteReceived",
+        "value": "2.94",
+        "externalId": "lierEgecmiirlAPa_20220309140858"
+      },
+      "barclays": {
+        "status": "newRequest"
+      },
+      "goldmansachs": {
+        "status": "requestSent"
+      }
+    }
+  },
+  {
+    "uuid": "16ca9f65-0296-4241-8241-b2594f794603",
+    "creationDate": "2022-03-09 15:06:31",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "productUuid": "a99b90ab-97e6-5cef-a525-3846b2b9420a",
+    "product": {
+      "generalParams": {
+        "notional": "100000",
+        "underlyings": [
+          "EU0009658145"
+        ],
+        "issueDate": "2022-03-09",
+        "issueDays": "5",
+        "strikeFixingType": "multipricer.todayAtClose",
+        "initialFixingDate": "2022-03-09"
+      }
+    },
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "issuers": [
+      "barclays"
+    ],
+    "productCatalogUuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "sandbox": true,
+    "result": {
+      "barclays": {
+        "status": "newRequest"
+      }
+    }
+  }
+]

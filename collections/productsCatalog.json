@@ -1,0 +1,872 @@
+[
+  {
+    "uuid": "90621324-0b88-5aae-9565-4461cfee636f",
+    "index": 27,
+    "group": "product.group.callput",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.call",
+    "description": "Call Spread",
+    "dealParams": {
+      "switchCallPut": "Call",
+      "switchCapFloor": "true"
+    }
+  },
+  {
+    "uuid": "5ab0a486-2a75-5394-8ff1-9b43802959e3",
+    "index": 28,
+    "group": "product.group.callput",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.call",
+    "description": "Call Barrera"
+  },
+  {
+    "uuid": "222828dd-4644-5751-9bee-1a95cc1171af",
+    "index": 30,
+    "group": "product.group.callput",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.put",
+    "description": "Put Spread",
+    "dealParams": {
+      "switchCallPut": "Put",
+      "switchCapFloor": "true"
+    }
+  },
+  {
+    "uuid": "ce8370c7-0cf6-5b00-adee-9cded1d02b08",
+    "index": 26,
+    "group": "product.group.callput",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.call",
+    "description": "Call",
+    "dealParams": {
+      "switchCallPut": "Call",
+      "switchCapFloor": "false"
+    }
+  },
+  {
+    "uuid": "4ab5dab2-894b-56f4-abda-15e1740d5c83",
+    "index": 29,
+    "group": "product.group.callput",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.put",
+    "description": "Put",
+    "dealParams": {
+      "switchCallPut": "Put",
+      "switchCapFloor": "false"
+    }
+  },
+  {
+    "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+    "index": 1,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocall",
+    "description": "Autocall Cupon Cancelacion sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "false",
+      "couponMinPct": "0"
+    }
+  },
+  {
+    "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+    "index": 2,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocall",
+    "description": "Autocall Cupon Cancelacion con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "true",
+      "couponMinPct": "0"
+    }
+  },
+  {
+    "uuid": "51d6eb70-1d11-5e09-ab4c-d632496e51d8",
+    "index": 3,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocall",
+    "description": "Autocall Cupon Cancelacion sin memoria + Cupon minimo",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "false",
+      "couponMinPct": "!0"
+    }
+  },
+  {
+    "uuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+    "index": 4,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocall",
+    "description": "Autocall Cupon Cancelacion con memoria + Cupon mínimo",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "true",
+      "couponMinPct": "!0"
+    }
+  },
+  {
+    "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+    "index": 5,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+    "index": 6,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "29c9db21-eee4-50d7-bcdf-1d72fab3f0f9",
+    "index": 7,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria + Cupón minimo",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "a76d22c0-ffc0-5722-ba3d-6e822037d150",
+    "index": 8,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria + Cupón minimo",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+    "index": 9,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria + Cupón Cancelación sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+    "index": 10,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria + Cupón Cancelación con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+    "index": 31,
+    "group": "product.group.reverseConvertible",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.reverseConvertible",
+    "description": "Reverse Convertible (a descuento)",
+    "dealParams": {
+      "frequency": "multipricer.discount"
+    }
+  },
+  {
+    "uuid": "2ea87ed7-240e-557c-9102-6366c25cd42d",
+    "index": 11,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria + Cupón Cancelación sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "d907b802-2312-5243-892b-9e98a687e0f4",
+    "index": 12,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria + Cupón Cancelación con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "9e10eaf9-a6dd-5f30-8b17-eca1b36dc2fe",
+    "index": 13,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria + Cupón minimo+ Cupon Cancelación sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "6d10ca10-f64d-5222-bcf2-a772c8a26701",
+    "index": 14,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera sin memoria + Cupón minimo+ Cupon Cancelación con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+    "index": 15,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocallrc",
+    "description": "Reverse Convertible Autocall",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "38e2eb48-1ea7-537b-b7f5-0c119db36f1a",
+    "index": 16,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocallrc",
+    "description": "Reverse Convertible Autocall + Cupon Extra de cancelación sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "efb30af6-2603-584d-86b0-c79a9dd7cecd",
+    "index": 17,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.autocallrc",
+    "description": "Reverse Convertible Autocall + Cupon Extra de cancelación con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+    "index": 19,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.tracker",
+    "description": "Tracker",
+    "riskParams": {
+      "riskBarrierType": "multipricer.not",
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "100"
+    },
+    "dealParams": {
+      "callParticipationPct": "100",
+      "bonus": "false"
+    }
+  },
+  {
+    "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+    "index": 20,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.outperformer",
+    "description": "Outperformer",
+    "riskParams": {
+      "riskBarrierType": "multipricer.not",
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "100"
+    },
+    "dealParams": {
+      "callParticipationPct": ">100",
+      "bonus": "false"
+    }
+  },
+  {
+    "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+    "index": 21,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.bonusNotes",
+    "description": "Bonus Notes",
+    "riskParams": {
+      "riskBarrierType": "!multipricer.not",
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "100"
+    },
+    "dealParams": {
+      "cap": "false"
+    }
+  },
+  {
+    "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+    "index": 22,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.bonusNotes",
+    "description": "Con Cap",
+    "riskParams": {
+      "riskBarrierType": "!multipricer.not",
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "100"
+    },
+    "dealParams": {
+      "cap": "true"
+    }
+  },
+  {
+    "uuid": "2c450c29-c54b-54e7-ba96-6ed405bf4318",
+    "index": 23,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.booster",
+    "description": "Booster Put Spread",
+    "riskParams": {
+      "riskBarrierType": "multipricer.not",
+      "switchLowStrikePutSpread": "true"
+    },
+    "dealParams": {
+      "bonus": "false"
+    }
+  },
+  {
+    "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+    "index": 24,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.booster",
+    "description": "Booster Lev Put con o sin Barrera",
+    "riskParams": {
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "!100"
+    }
+  },
+  {
+    "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+    "index": 25,
+    "group": "product.group.trackerOutperformerBonusBooster",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.booster",
+    "description": "Booster ATM PUT sin barrera",
+    "riskParams": {
+      "riskBarrierType": "multipricer.not",
+      "switchLowStrikePutSpread": "false",
+      "riskStrikePct": "100"
+    },
+    "dealParams": {
+      "callParticipationPct": "<100",
+      "bonus": "false"
+    }
+  },
+  {
+    "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+    "index": 32,
+    "group": "product.group.reverseConvertible",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.reverseConvertible",
+    "description": "Reverse Convertible a vencimiento (a descuento)",
+    "dealParams": {
+      "frequency": "multipricer.atExpiry"
+    }
+  },
+  {
+    "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+    "index": 33,
+    "group": "product.group.reverseConvertible",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.reverseConvertible",
+    "description": "Reverse Convertible con pagos periódicos (a descuento)",
+    "dealParams": {
+      "frequency": "multipricer.periodPayment"
+    }
+  },
+  {
+    "uuid": "a59a1a0c-e01e-513e-8c5b-9ec116de3628",
+    "index": 34,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Cupon Cancelacion sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "false",
+      "couponMinPct": "0"
+    }
+  },
+  {
+    "uuid": "ca3be8d7-a1c4-5b06-a666-cbe419b00636",
+    "index": 35,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Cupon Cancelacion con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "true",
+      "couponMinPct": "0"
+    }
+  },
+  {
+    "uuid": "a6a49419-e51a-597d-b022-3cb57dd48a0c",
+    "index": 36,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Cupon Cancelacion sin memoria + Cupon minimo",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "false",
+      "couponMinPct": "!0"
+    }
+  },
+  {
+    "uuid": "1cc4ddde-799e-5fa0-ac07-eca11666ba83",
+    "index": 37,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Cupon Cancelacion con memoria + Cupon mínimo",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "true",
+      "couponMinPct": "!0"
+    }
+  },
+  {
+    "uuid": "69a9877e-7afd-50ae-9760-2ea023fd151e",
+    "index": 38,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "9927039f-c949-50b9-b73b-c19990d95dea",
+    "index": 39,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "ca1a967c-1289-5ba2-863b-f5c11fd16029",
+    "index": 40,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria + Cupón minimo",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "36fbcd69-ca03-53ba-bb89-7cb151b72993",
+    "index": 41,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera con memoria + Cupón minimo",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "8d927608-a515-5d28-873b-fb2c8d0f12b5",
+    "index": 42,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria + Cupón Cancelación sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "673cfdc4-2c1e-5d4a-a4d4-b15696e05a89",
+    "index": 43,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria + Cupón Cancelación con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "d40f796b-744d-5c97-af20-2751653f7f43",
+    "index": 44,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera con memoria + Cupón Cancelación sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "8c1e2c35-bbda-532f-a7c0-521d92550017",
+    "index": 45,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera con memoria + Cupón Cancelación con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "b044be75-3941-50d6-bac0-8843e1b7a444",
+    "index": 46,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria + Cupón minimo+ Cupon Cancelación sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "da66cb80-4587-53a8-a5e5-84a38a5d4ddd",
+    "index": 47,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Con Cupon Barrera sin memoria + Cupón minimo+ Cupon Cancelación con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "false",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "f837faf4-b45d-5d1b-90f1-c0ad806b6e0e",
+    "index": 48,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Reverse Convertible Autocall",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "0"
+    }
+  },
+  {
+    "uuid": "d82355ed-4f7f-5a73-b86a-4426578b89a2",
+    "index": 49,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Reverse Convertible Autocall + Cupon Extra de cancelación sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "7e06e175-c398-5eb7-b622-0c5494e12ca7",
+    "index": 50,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable Reverse Convertible Autocall + Cupon Extra de cancelación con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.guaranteed",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "2bbbaf4e-b7c6-4c55-8285-f96263240ef6",
+    "index": 51,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable con Cupon Barrera con memoria + Cupón minimo+ Cupon Cancelación sin memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "81bf1f29-ee8c-4257-b14f-7194dcee687e",
+    "index": 52,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.callable",
+    "description": "Callable con Cupon Barrera con memoria + Cupón minimo+ Cupon Cancelación con memoria",
+    "dealParams": {
+      "callability": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "3f6b2ddd-f3c9-4a1c-8223-175c69ca6885",
+    "index": 53,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria + Cupón minimo+ Cupon Cancelación sin memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "false"
+    }
+  },
+  {
+    "uuid": "be336bde-539f-4e36-8dbd-3c1127f18477",
+    "index": 54,
+    "group": "product.group.autocallPhoenixCallable",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.phoenix",
+    "description": "Phoenix Con Cupon Barrera con memoria + Cupón minimo+ Cupon Cancelación con memoria",
+    "dealParams": {
+      "callability": "false",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.couponBarrierPct",
+      "memory": "true",
+      "couponMinPct": "!0",
+      "extraCancelCouponPct": "!0",
+      "extraCancelCouponMemory": "true"
+    }
+  },
+  {
+    "uuid": "c7e3945c-0756-4e61-acc5-935ab4b42497",
+    "index": 58,
+    "group": "product.group.cln",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.cln",
+    "description": "CLN Trancha",
+    "dealParams": {}
+  },
+  {
+    "uuid": "a657d44d-75ea-4e20-8311-42cb16b73579",
+    "index": 59,
+    "group": "product.group.cln",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.cln",
+    "description": "CLN Cesta o SU",
+    "dealParams": {}
+  },
+  {
+    "uuid": "9bbe6e06-835c-4066-bd64-02dc0f3e6518",
+    "index": 18,
+    "group": "product.group.twinwin",
+    "type": "product.type.yield",
+    "subtype": "product.subtype.twinwin",
+    "description": "Twin Win",
+    "dealParams": {
+      "switchAutocallEffect": "false"
+    }
+  },
+  {
+    "uuid": "9a302300-6b5c-4343-b0ba-15d3bcde1573",
+    "index": 55,
+    "group": "product.group.twinwin",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.twinwin",
+    "description": "Twin Win Autocall con Cupon de cancelación sin memoria",
+    "dealParams": {
+      "switchAutocallEffect": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "false"
+    }
+  },
+  {
+    "uuid": "53feae31-292e-4233-b8f6-fb82fb8c1782",
+    "index": 57,
+    "group": "product.group.twinwin",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.twinwin",
+    "description": "Twin Win Autocall con Cupon garantizado",
+    "dealParams": {
+      "switchAutocallEffect": "true",
+      "guaranteed": "multipricer.guaranteed"
+    }
+  },
+  {
+    "uuid": "b36de116-1d31-4bb6-9e58-2229811af4d6",
+    "index": 56,
+    "group": "product.group.twinwin",
+    "type": "product.type.participation",
+    "subtype": "product.subtype.twinwin",
+    "description": "Twin Win Autocall con Cupon de cancelación con memoria",
+    "dealParams": {
+      "switchAutocallEffect": "true",
+      "guaranteed": "multipricer.conditional",
+      "switchCouponBarrier": "multipricer.redemptionLevel",
+      "memory": "true"
+    }
+  }
+]

@@ -1,0 +1,1318 @@
+[
+  {
+    "issuerName": "bbva",
+    "errorList": [
+      {
+        "issuerError": "20258",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20257",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20255",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20254",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20253",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20252",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20251",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20250",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20247",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20246",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20245",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20244",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20243",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20242",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20241",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20240",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20239",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20238",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20237",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20236",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20235",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20234",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20233",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20232",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20231",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20230",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20229",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20227",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20226",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20225",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20224",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20223",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20222",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20221",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20220",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20219",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20218",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20217",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20215",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "20214",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20213",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20212",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "20210",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20209",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20208",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20207",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "20206",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20205",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20204",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20203",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20202",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20201",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20200",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20122",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20121",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20120",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20114",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20113",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20112",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20111",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20110",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20106",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20105",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20104",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20103",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20102",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20101",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20100",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20092",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20091",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20090",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20089",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20088",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20087",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20086",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20085",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20084",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20083",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20082",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20081",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20080",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20071",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20070",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20065",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20064",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20063",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20062",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20061",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20060",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20056",
+        "asnError": "multipricer.error.maturityNotSupported"
+      },
+      {
+        "issuerError": "20055",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20054",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20053",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20052",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20051",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20050",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20046",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20045",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20044",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20043",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20042",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20041",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20040",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20036",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20035",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20034",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20033",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20032",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20031",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20030",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20028",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20021",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20020",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20011",
+        "asnError": "multipricer.error.duplicatedUnderlyings"
+      },
+      {
+        "issuerError": "20010",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20008",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20007",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20006",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20005",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20004",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20003",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20002",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "20001",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "9999",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "9998",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "9997",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "5058",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5057",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5056",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5055",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5054",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5053",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "5052",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2105",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2104",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2103",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2102",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2101",
+        "asnError": "multipricer.error.underlyingCurrentlyNotSupported"
+      },
+      {
+        "issuerError": "2043",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2042",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2041",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2040",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2039",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2038",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2037",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2036",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2035",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2034",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2033",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2032",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2031",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2030",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2029",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2028",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2027",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2026",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2025",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2024",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2023",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2022",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2021",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2020",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2019",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2018",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2017",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2016",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2015",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2014",
+        "asnError": "multipricer.error.duplicatedUnderlyings"
+      },
+      {
+        "issuerError": "2013",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2011",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2010",
+        "asnError": "multipricer.error.underlyingCurrentlyNotSupported"
+      },
+      {
+        "issuerError": "2009",
+        "asnError": "multipricer.error.notionalNotSupported"
+      },
+      {
+        "issuerError": "2008",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2007",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2005",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2004",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2003",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "2002",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "1100",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1066",
+        "asnError": "multipricer.error.issuerNotAvailableRetry"
+      },
+      {
+        "issuerError": "1065",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "1064",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "1063",
+        "asnError": "multipricer.error.underlyingCurrentlyNotSupported"
+      },
+      {
+        "issuerError": "1062",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "1061",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "1060",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "1056",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1055",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1054",
+        "asnError": "multipricer.error.issuerNotAvailableRetry"
+      },
+      {
+        "issuerError": "1053",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1042",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1041",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1040",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1039",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1038",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1037",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1036",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1035",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1034",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1033",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1032",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1031",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1030",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1020",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1010",
+        "asnError": "multipricer.error.issuerNotAvailableRetry"
+      },
+      {
+        "issuerError": "1004",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1003",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1002",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "1000",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "-5001",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "-5002",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-5003",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-5004",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "-5005",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "-5010",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-5011",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-5012",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-6001",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-6002",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-6003",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "-6005",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-6011",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-9719",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "-11000",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Solvable value not found!",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "A problem has occurred while pricing.",
+        "asnError": "multipricer.error.issuerError"
+      }
+    ]
+  },
+  {
+    "issuerName": "morgan-plc",
+    "errorList": [
+      {
+        "issuerError": "ERROR - PRICER: Error encountered while pricing, please contact sales desk",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "ERROR - PRODUCT_SERVICE_VALIDATOR: Error encountered while pricing, please contact sales desk",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Solvable value not found!",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Failed to price, please contact sales.",
+        "asnError": "multipricer.error.issuerError"
+      }
+    ]
+  },
+  {
+    "issuerName": "morgan-bv",
+    "errorList": [
+      {
+        "issuerError": "ERROR - PRICER: Error encountered while pricing, please contact sales desk",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "ERROR - PRODUCT_SERVICE_VALIDATOR: Error encountered while pricing, please contact sales desk",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Solvable value not found!",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Failed to price, please contact sales.",
+        "asnError": "multipricer.error.issuerError"
+      }
+    ]
+  },
+  {
+    "issuerName": "societe",
+    "errorList": [
+      {
+        "issuerError": "400",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "401",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "403",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "404",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "429",
+        "asnError": "multipricer.error.issuerNotAvailable"
+      },
+      {
+        "issuerError": "500",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "501",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "502",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "503",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "504",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Please check your underlying universe: /api/v1/underlying-universe",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "The recall coupon result is out of range. Please change your product settings",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "Solving is not relevant according to current payoff parameters",
+        "asnError": "multipricer.error.solverNotFound"
+      }
+    ]
+  },
+  {
+    "issuerName": "marex",
+    "errorList": [
+      {
+        "issuerError": "Coupon is to low",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "Coupon is to high",
+        "asnError": "multipricer.error.solverNotFound"
+      },
+      {
+        "issuerError": "Failed to price, please contact sales.",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Solvable value not found!",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Error Field Value",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      }
+    ]
+  },
+  {
+    "issuerName": "juliusbaer",
+    "errorList": [
+      {
+        "issuerError": "-Tenor not supported. Supported Tenors ([1, 2, 3, 6,= 9, 12, 15, 18, 24]).",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Daily Limit",
+        "asnError": "multipricer.error.underlyingCurrentlyNotSupported"
+      },
+      {
+        "issuerError": "Couldn't map the e-mail field",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": ". Early Termination Level must be [70.00 -130.00]% and number of values has to be 1",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "-Unable to determine solveFor due to 2 fields empty to solve.",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "ERROR: Unexpected datatype 95/90/85/80 for field TriggerLevel",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": ". Reoffer must be > 95.7000 %;",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": ". Coupon Frequency supported values are [Monthly, Quarterly, SemiAnnually, Annually, Final]",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Strike must be[55.00 - 100.00] %;",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": ". Early Termination Level must be specified.",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "Unable to process the Quote Request.",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "not recognised",
+        "asnError": "multipricer.error.issuerError"
+      }
+    ]
+  },
+  {
+    "issuerName": "creditagricole",
+    "errorList": [
+      {
+        "issuerError": "Underlying(s)",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      }
+    ]
+  },
+  {
+    "issuerName": "barclays",
+    "errorList": [
+      {
+        "issuerError": "P-101",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-102",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-103",
+        "asnError": "multipricer.error.maturityNotSupported"
+      },
+      {
+        "issuerError": "P-104",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-105",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-106",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-107",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-107",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-108",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-109",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-110",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-111",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-112",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "P-113",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-201",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-202",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-203",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-204",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "C-205",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "C-206",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-207",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-208",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-209",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-210",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-211",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-212",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-213",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "C-214",
+        "asnError": "multipricer.error.reoffer"
+      },
+      {
+        "issuerError": "C-215",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "I-301",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "I-302",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "I-303",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "I-304",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "L-401",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "L-402",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "L-403",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "T-501",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "T-502",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "U-601",
+        "asnError": "multipricer.error.underlyingNotSupported"
+      },
+      {
+        "issuerError": "U-602",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "S-701",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "S-702",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "D-801",
+        "asnError": "multipricer.error.technicalError"
+      },
+      {
+        "issuerError": "D-802",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Error processing quote",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "Re-offer price is below the maximum threshold levels",
+        "asnError": "multipricer.error.reofferBelow"
+      },
+      {
+        "issuerError": "Unable to price - Please contact your Sales Representative",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "400",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "401",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "404",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "500",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "502",
+        "asnError": "multipricer.error.issuerError"
+      },
+      {
+        "issuerError": "503",
+        "asnError": "multipricer.error.issuerError"
+      }
+    ]
+  },
+  {
+    "issuerName": "goldmansachs",
+    "errorList": []
+  }
+]

@@ -1,0 +1,1143 @@
+[
+  {
+    "uuid": "a526e51a-ee34-433d-aa6f-97fd589e6248",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "f2a820e8-d567-4d03-b5e6-85c7d47cbc17",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "fa2b8653-6022-4b5a-99b6-b1bcc88a9bf0",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.View",
+    "multilanguageLabel": "menu.administration.title",
+    "multilanguageDescription": "menu.administration.title.description"
+  },
+  {
+    "uuid": "2a520344-041d-4f6c-84a4-3c19f62e51f1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.ASNActivityReport.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "caba9a18-e6ac-4aa0-8b72-d84252b3d275",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.ASNActivityReport.View",
+    "multilanguageLabel": "menu.administration.myAsnActivity",
+    "multilanguageDescription": "menu.administration.myAsnActivity.description"
+  },
+  {
+    "uuid": "b5056e1b-dba7-4303-ba92-da299d51b3b2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Billing.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "1d12f257-1481-4ac3-b71e-5bc23006f408",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Billing.View",
+    "multilanguageLabel": "menu.administration.turnover",
+    "multilanguageDescription": "menu.administration.turnover.description"
+  },
+  {
+    "uuid": "ea2df3da-dcd9-4167-bc9a-ed7ab8610d7c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Audit.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "a6699c8f-7fb6-47d3-a236-7732f5dc9120",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Audit.View",
+    "multilanguageLabel": "menu.administration.audit",
+    "multilanguageDescription": "menu.administration.audit.description"
+  },
+  {
+    "uuid": "b676c0ae-0cd8-4e73-bb93-44757aef5dfe",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Issuers.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "e72fc325-e6a0-4fa5-938f-dac6e9a0aa78",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Issuers.View",
+    "multilanguageLabel": "menu.administration.issuer",
+    "multilanguageDescription": "menu.administration.issuer.description"
+  },
+  {
+    "uuid": "57a9391a-4bd3-4726-9dc8-233bf16e5a82",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Custodians.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "08e1d207-9586-487b-9b35-f299f5666b4f",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Custodians.View",
+    "multilanguageLabel": "menu.administration.custodians",
+    "multilanguageDescription": "menu.administration.custodians.description"
+  },
+  {
+    "uuid": "84c05e49-750e-4449-a03b-7a8578122770",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.NotesValuators.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "ed784854-3051-4834-91bf-9b4ee047590e",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.NotesValuators.View",
+    "multilanguageLabel": "menu.administration.notesValuators",
+    "multilanguageDescription": "menu.administration.notesValuators.description"
+  },
+  {
+    "uuid": "7e68d564-1822-4962-b461-2aa0c7b7ee66",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.MarketData.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "465673ac-ca2d-490c-a76e-5c64639ef426",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.MarketData.View",
+    "multilanguageLabel": "menu.administration.marketData",
+    "multilanguageDescription": "menu.administration.marketData.description"
+  },
+  {
+    "uuid": "bc75fb44-5962-43b7-93ec-279e068e0090",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.IAM.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "bd61855b-3126-434b-9fac-b26c4ff57c01",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.IAM.View",
+    "multilanguageLabel": "menu.administration.permitsManagement",
+    "multilanguageDescription": "menu.administration.permitsManagement.description"
+  },
+  {
+    "uuid": "c282598d-af63-4b01-ad6c-912056883447",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.SuppliersInASN.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "96204814-5be5-4af8-b13e-b23c1bb12eca",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.SuppliersInASN.View",
+    "multilanguageLabel": "menu.administration.suppliers",
+    "multilanguageDescription": "menu.administration.suppliers.description"
+  },
+  {
+    "uuid": "437fdd2a-cf88-4650-a2f5-96154c32c6e3",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.DocumentManager.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "a2e6323d-37ca-4471-952a-7b87fa9e1aa9",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.DocumentManager.View",
+    "multilanguageLabel": "menu.administration.docManager",
+    "multilanguageDescription": "menu.administration.docManager.description"
+  },
+  {
+    "uuid": "75da6a57-f014-49d6-9b10-900f384cf3d5",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Modules.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "3bfdaba4-1017-4237-97b6-890298da14f7",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Administration.Modules.View",
+    "multilanguageLabel": "menu.administration.modules",
+    "multilanguageDescription": "menu.administration.modules.description"
+  },
+  {
+    "uuid": "118be40e-dafc-4688-88c9-9f66424eb9b2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Dashboard.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "799d86ac-0b65-4b26-ac38-4d022472875d",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Dashboard.View",
+    "multilanguageLabel": "menu.dashboard.title",
+    "multilanguageDescription": "menu.dashboard.title.description"
+  },
+  {
+    "uuid": "837321c7-5ac9-441f-a15a-3f73e60dfac5",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Dashboard.DashboardConfiguration.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "34d38fdd-0216-4c67-b9d1-c3310fdcb6d3",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Dashboard.DashboardConfiguration.View",
+    "multilanguageLabel": "menu.dashboard.configuration",
+    "multilanguageDescription": "menu.dashboard.configuration.description"
+  },
+  {
+    "uuid": "a3ef4a62-55c6-46c3-87dc-0de24f993848",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "102c8d78-a0b6-4b7a-bb9e-06e3c9c841a2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.View",
+    "multilanguageLabel": "menu.marketPlace.title",
+    "multilanguageDescription": "menu.marketPlace.title.description"
+  },
+  {
+    "uuid": "de50e523-61d3-4ae0-807a-a276947170c6",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.OrganizationOffers.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "e9de6248-d3e4-41d5-9012-c3132e26ddff",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.OrganizationOffers.View",
+    "multilanguageLabel": "menu.marketPlace.organizationOffers",
+    "multilanguageDescription": "menu.marketPlace.organizationOffers.description"
+  },
+  {
+    "uuid": "27a12521-d20d-401b-ac85-52e2138b5e93",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.Community.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "c0fa5cf5-c9b2-44ed-afa8-60efacfc8483",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.Community.View",
+    "multilanguageLabel": "menu.marketPlace.community",
+    "multilanguageDescription": "menu.marketPlace.community.description"
+  },
+  {
+    "uuid": "1406c393-045b-49e0-89d1-3a6691390f69",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.MyWatchlist.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "b7cd520d-652c-4871-9604-3637b88102b6",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "MarketPlace.MyWatchlist.View",
+    "multilanguageLabel": "menu.marketPlace.myWatchList",
+    "multilanguageDescription": "menu.marketPlace.myWatchList.description"
+  },
+  {
+    "uuid": "a67d0083-01c8-47ef-af4a-f262b67fb014",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "307ac22a-d80a-4384-97d0-c3f53c42352a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.View",
+    "multilanguageLabel": "menu.notificactions.title",
+    "multilanguageDescription": "menu.notificactions.title.description"
+  },
+  {
+    "uuid": "31df60e2-6846-4661-8cce-f71b61ce5b64",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.NextSteps.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "26bb9960-0415-4f38-9125-5887ecb69e2c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.NextSteps.View",
+    "multilanguageLabel": "menu.notificactions.nextSteps",
+    "multilanguageDescription": "menu.notificactions.nextSteps.description"
+  },
+  {
+    "uuid": "9cd46ab7-d4c8-4d2a-96db-c39b355ea6e1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.NextMaturityDate.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "2af6e116-dbfb-49a0-8843-f87c1a45ee1b",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.NextMaturityDate.View",
+    "multilanguageLabel": "menu.notificactions.nextMaturityDate",
+    "multilanguageDescription": "menu.notificactions.nextMaturityDate.description"
+  },
+  {
+    "uuid": "c2c176eb-a932-41cf-bdc9-1a87fd143882",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.WatchList.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "cf27d057-a2a9-4573-8113-9649c2ef67af",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.WatchList.View",
+    "multilanguageLabel": "menu.notificactions.watchList",
+    "multilanguageDescription": "menu.notificactions.watchList.description"
+  },
+  {
+    "uuid": "60338a0b-112d-4537-97bc-9963bae57120",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.RollOverOpportunities.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "b87ee56b-39cc-4771-b77a-3c34d9d9d0cc",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.RollOverOpportunities.View",
+    "multilanguageLabel": "menu.notificactions.rollOverOpportunities",
+    "multilanguageDescription": "menu.notificactions.rollOverOpportunities.description"
+  },
+  {
+    "uuid": "d559c1f4-220a-424c-990e-2390e3235768",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.SecondaryOpportunities.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "85ecf62e-8264-46f9-a771-766b697f11d9",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.SecondaryOpportunities.View",
+    "multilanguageLabel": "menu.notificactions.secondaryOpportunities",
+    "multilanguageDescription": "menu.notificactions.secondaryOpportunities.description"
+  },
+  {
+    "uuid": "294a5452-e06a-41fe-a8c3-9dcaa3e6e46b",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.ProductOffers.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "f584df11-74c8-4b91-8d7f-6ce688c42760",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Notifications.ProductOffers.View",
+    "multilanguageLabel": "menu.notificactions.ProductOffers",
+    "multilanguageDescription": "menu.notificactions.ProductOffers.description"
+  },
+  {
+    "uuid": "9891eb3c-ab59-47b5-a186-dec0824c65a4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.View",
+    "multilanguageLabel": "menu.portfolio.title",
+    "multilanguageDescription": "menu.portfolio.title.description"
+  },
+  {
+    "uuid": "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.MyPortfolio.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "5373c7c6-01d1-45d3-b67c-6aec38f58bfc",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.MyPortfolio.View",
+    "multilanguageLabel": "menu.portfolio.myPortfolio",
+    "multilanguageDescription": "menu.portfolio.myPortfolio.description"
+  },
+  {
+    "uuid": "5e8bf18b-ac6a-4358-b38e-88162a0b5963",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.ExposureAnalysis.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "977efcb3-9fc6-4018-857b-9b357922acd3",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.ExposureAnalysis.View",
+    "multilanguageLabel": "menu.portfolio.exposureAnalysis",
+    "multilanguageDescription": "menu.portfolio.exposureAnalysis.description"
+  },
+  {
+    "uuid": "94898de9-18d9-4bb8-9f90-ac79a2d30e96",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.Calendar.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "0418b745-46c5-4697-921b-a6d4a99d4ade",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.Calendar.View",
+    "multilanguageLabel": "menu.portfolio.calendar",
+    "multilanguageDescription": "menu.portfolio.calendar.description"
+  },
+  {
+    "uuid": "13df4e07-a7db-4dc7-99e2-e3e8ec02afe2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.LifeCycle.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "de7d51fc-c712-4b94-9df7-19e32fa2e0f2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.LifeCycle.View",
+    "multilanguageLabel": "menu.portfolio.lifecycle",
+    "multilanguageDescription": "menu.portfolio.lifecycle.description"
+  },
+  {
+    "uuid": "d015e3f4-cd67-451d-b5cb-caa15f5e4e91",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.Reports.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "4cdbee08-f0d2-49e6-91f7-28da81a1adff",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.Reports.View",
+    "multilanguageLabel": "menu.portfolio.report",
+    "multilanguageDescription": "menu.portfolio.report.description"
+  },
+  {
+    "uuid": "6e191fc0-4150-437f-b2c3-8c4db5b16a35",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.RollOver.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "b079770e-bd86-4259-a505-0023d2d507f9",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.RollOver.View",
+    "multilanguageLabel": "menu.portfolio.rollOver",
+    "multilanguageDescription": "menu.portfolio.rollOver.description"
+  },
+  {
+    "uuid": "1b6e6baf-9eab-4ea2-820e-e7567487c3bc",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.SecondaryMarket.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "8a9a1aeb-d780-4721-ad0b-e9ee0243d6e4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Portfolio.SecondaryMarket.View",
+    "multilanguageLabel": "menu.portfolio.secondaryMarket",
+    "multilanguageDescription": "menu.portfolio.secondaryMarket.description"
+  },
+  {
+    "uuid": "40f18178-b5bd-4ddd-a25f-47d1d385f655",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "d193dcee-f54b-4d01-8871-c0c343db7153",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.View",
+    "multilanguageLabel": "menu.productPricer.title",
+    "multilanguageDescription": "menu.productPricer.title.description"
+  },
+  {
+    "uuid": "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.Multipricer.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "1f938635-24de-474e-9fdd-8bd717150ccc",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.Multipricer.View",
+    "multilanguageLabel": "menu.productPricer.multipricer",
+    "multilanguageDescription": "menu.productPricer.multipricer.description"
+  },
+  {
+    "uuid": "4648963d-f927-4bed-aa57-7daceb52be24",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Notifications.View",
+    "multilanguageLabel": "menu.training.notifications",
+    "multilanguageDescription": "menu.training.notifications.description"
+  },
+  {
+    "uuid": "6bdec110-53e9-43f5-bc6b-c12f99a93223",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.HistoricPrice.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "1d62039c-ad73-464d-8128-b69537c918ad",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.HistoricPrice.View",
+    "multilanguageLabel": "menu.productPricer.historicPrice",
+    "multilanguageDescription": "menu.productPricer.historicPrice.description"
+  },
+  {
+    "uuid": "3853612c-ee0e-423e-83f2-e581977c94cf",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.ProductMatrix.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "bd02378a-9504-47f0-ad10-9404e24daec4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.ProductMatrix.View",
+    "multilanguageLabel": "menu.productPricer.productMatrix",
+    "multilanguageDescription": "menu.productPricer.productMatrix.description"
+  },
+  {
+    "uuid": "f9ed30d8-01ac-4cc1-aaf4-d5d8d0161376",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.ExecutionBlotter.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "c66dd8db-b181-4f9a-8b98-91d23e0c1e3f",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "ProductPricer.ExecutionBlotter.View",
+    "multilanguageLabel": "menu.productPricer.executionBlotter",
+    "multilanguageDescription": "menu.productPricer.executionBlotter.description"
+  },
+  {
+    "uuid": "fabfd99a-1cda-47a0-a35b-080798c210bd",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "ed2f2c72-8701-4e14-a5d9-23f669f15be2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.View",
+    "multilanguageLabel": "menu.training.title",
+    "multilanguageDescription": "menu.training.title.description"
+  },
+  {
+    "uuid": "cb8711d1-9998-4fc2-b253-47ebf6737d68",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.StructuredNotes.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "bcb3e729-4c6b-4424-8488-2a5d4a6885f7",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.StructuredNotes.View",
+    "multilanguageLabel": "menu.training.structuredNotes",
+    "multilanguageDescription": "menu.training.structuredNotes.description"
+  },
+  {
+    "uuid": "03c57450-28fe-44b1-9bc9-dd9049fe874c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "daade2c6-47c5-4d5f-b08a-ac45b135c964",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.View",
+    "multilanguageLabel": "menu.training.profitabilityTypes",
+    "multilanguageDescription": "menu.training.profitabilityTypes.description"
+  },
+  {
+    "uuid": "2a19b5d9-d9de-46a0-8526-f1b6c3000d34",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.ReverseConvertible.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "996847d3-f1c2-4afa-9c50-1a6b68237a22",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.ReverseConvertible.View",
+    "multilanguageLabel": "menu.training.reverse",
+    "multilanguageDescription": "menu.training.reverse.description"
+  },
+  {
+    "uuid": "9d8264dc-a260-482d-9b90-6806b68c696c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.Autocallable.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "cf2272f0-967a-4608-9836-ea116c110ca9",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.Autocallable.View",
+    "multilanguageLabel": "menu.training.autocallable",
+    "multilanguageDescription": "menu.training.autocallable.description"
+  },
+  {
+    "uuid": "86f43bd9-a1c5-4263-b1ed-1273e7318f73",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.TwinWin.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "4294dab6-2454-4e77-aa75-d0e4d5d36f05",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.TwinWin.View",
+    "multilanguageLabel": "menu.training.twinwin",
+    "multilanguageDescription": "menu.training.twinwin.description"
+  },
+  {
+    "uuid": "59fbcfca-9ba0-4db0-a6ed-4cd3dc497bec",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.Booster.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "aa946a6f-dabb-4c05-a371-b0cecd571fb1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ProfitabilityTypes.Booster.View",
+    "multilanguageLabel": "menu.training.booster",
+    "multilanguageDescription": "menu.training.booster.description"
+  },
+  {
+    "uuid": "da4736f9-f855-4b04-8608-9702eec39f6c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.KnowledgeTest.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "f908e063-313f-41fa-9e63-05675bc0a76d",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.KnowledgeTest.View",
+    "multilanguageLabel": "menu.training.knowledgeTest",
+    "multilanguageDescription": "menu.training.knowledgeTest.description"
+  },
+  {
+    "uuid": "d2aab5dd-8fdc-4d24-80eb-0cdcb62ba7d8",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "8412583c-37ff-46e8-a760-bff7dc4df3c5",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.View",
+    "multilanguageLabel": "menu.training.asnPlatfotm",
+    "multilanguageDescription": "menu.training.asnPlatfotm.description"
+  },
+  {
+    "uuid": "f24a0fa2-c977-4d9e-bc17-d01d5762c4c4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Notifications.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "efb178bd-434c-421c-842f-7c53cd8a5cb4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Account.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "cf65b875-36a7-4a0f-8cc0-a453c499b891",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Account.View",
+    "multilanguageLabel": "menu.training.account",
+    "multilanguageDescription": "menu.training.account.description"
+  },
+  {
+    "uuid": "7c57cec6-4cc0-43eb-b3dd-c256c057619e",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Administration.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "6e944cdc-a69c-4d28-979a-1f5b519014f1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.Administration.View",
+    "multilanguageLabel": "menu.training.admin",
+    "multilanguageDescription": "menu.training.admin.description"
+  },
+  {
+    "uuid": "8f522ed4-9e6a-4b1f-9b61-0f3b67674459",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.MarketPlace.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "0fb4d7ce-b2f0-4444-88ac-05cf8c0000bd",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.MarketPlace.View",
+    "multilanguageLabel": "menu.training.marketplace",
+    "multilanguageDescription": "menu.training.marketplace.description"
+  },
+  {
+    "uuid": "d8db1292-07b9-4212-93d5-a7efe185c99c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.ProductPricer.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "36a74030-53b4-43bd-87db-655d1550a6e4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "Training.ASNPlatform.ProductPricer.View",
+    "multilanguageLabel": "menu.training.priceGenerator",
+    "multilanguageDescription": "menu.training.priceGenerator.description"
+  },
+  {
+    "uuid": "9110b576-a861-4d57-aa91-0900e97920f4",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.View",
+    "multilanguageLabel": "menu.user.title",
+    "multilanguageDescription": "menu.user.title.description"
+  },
+  {
+    "uuid": "d5c3c4c1-ee5b-4fcf-89f0-8cc2f7a26c3a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.Onboarding.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "96e4cd24-1877-4cb8-bf93-531735aaf346",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.Onboarding.View",
+    "multilanguageLabel": "menu.user.onboarding",
+    "multilanguageDescription": "menu.user.onboarding.description"
+  },
+  {
+    "uuid": "72bfc1ea-bc70-4150-a866-e04b1af84db8",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.User.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "ad82019e-5bcc-4351-bb69-b408ec89e12a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "f656d80d-af22-418b-b189-d0d86afe7a41",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "1b474401-a5c6-4ff1-8ca8-bdcfe8ffff6c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.View",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.description"
+  },
+  {
+    "uuid": "3cdfbcd0-2024-4ff2-b1b4-af4a8fd2e21e",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.AddUnit",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.addUnit",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.addUnit.description"
+  },
+  {
+    "uuid": "abc66361-ebc3-47b4-ae0b-ea325872850b",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.EditUnit",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.editUnit",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.editUnit.description"
+  },
+  {
+    "uuid": "91bf4349-9b42-48e7-9868-0f178c4e8248",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.DeleteUnit",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.deleteUnit",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.deleteUnit.description"
+  },
+  {
+    "uuid": "2ece509c-424e-4abe-b131-ffdddfe55f9f",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.InviteNewUser",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.inviteNewUser",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.inviteNewUser.description"
+  },
+  {
+    "uuid": "a17bdf03-954e-45b7-b64e-d0e16f11cecb",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.AddMember",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.addMember",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.addMember.description"
+  },
+  {
+    "uuid": "a6bccc25-01a0-4836-bc4b-8d36624e920a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.DeleteMember",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.deleteMember",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.deleteMember.description"
+  },
+  {
+    "uuid": "e902d8db-c44a-4080-bc6f-a2a767d04833",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.User.View",
+    "multilanguageLabel": "menu.user.userSettings",
+    "multilanguageDescription": "menu.user.userSettings.description"
+  },
+  {
+    "uuid": "789734b6-09bc-406d-ba7a-02890be1bc4c",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.AddPortfolio",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.addPortfolio",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.addPortfolio.description"
+  },
+  {
+    "uuid": "3b7cf96b-8b76-4b4f-a90a-5abf37be6ceb",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.EditPortfolio",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.editPortfolio",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.editPortfolio.description"
+  },
+  {
+    "uuid": "1c857129-af36-4fc8-b98f-580bb7249f16",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.MyOrganizationTab.DeletePortfolio",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.deletePortfolio",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.deletePortfolio.description"
+  },
+  {
+    "uuid": "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "4f7ba759-b1eb-4d63-adf3-ef19c388b3bd",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.View",
+    "multilanguageLabel": "user.myOrganization.userTab",
+    "multilanguageDescription": "user.myOrganization.userTab.description"
+  },
+  {
+    "uuid": "69feaf91-fd2d-4b91-905f-bf7d64fbae81",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.InviteNewUser",
+    "multilanguageLabel": "user.myOrganization.userTab.inviteNewUser",
+    "multilanguageDescription": "user.myOrganization.userTab.inviteNewUser.description"
+  },
+  {
+    "uuid": "9e75be67-d4e4-44cb-bdbd-708064440b3a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.EditUserInfo",
+    "multilanguageLabel": "user.myOrganization.userTab.editUserInfo",
+    "multilanguageDescription": "user.myOrganization.userTab.editUserInfo.description"
+  },
+  {
+    "uuid": "3bbcfc3a-4db3-4e7a-b799-93ebd42ec3c6",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.EditUserBoundaries",
+    "multilanguageLabel": "user.myOrganization.userTab.editUserBoundaries",
+    "multilanguageDescription": "user.myOrganization.userTab.editUserBoundaries.description"
+  },
+  {
+    "uuid": "3434385a-d636-4601-a5b2-fb87ad668977",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.UserTab.DeleteUser",
+    "multilanguageLabel": "user.myOrganization.userTab.deleteUser",
+    "multilanguageDescription": "user.myOrganization.userTab.deleteUser.description"
+  },
+  {
+    "uuid": "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.PortfolioTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "0a7cd51d-0193-4025-8821-5fceb7bf2916",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.PortfolioTab.View",
+    "multilanguageLabel": "user.myOrganization.portfolioTab",
+    "multilanguageDescription": "user.myOrganization.portfolioTab.description"
+  },
+  {
+    "uuid": "90a3fbf0-4f25-485f-b752-3c760026050b",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.PortfolioTab.EditPortfolio",
+    "multilanguageLabel": "user.myOrganization.portfolioTab.editPortfolio",
+    "multilanguageDescription": "user.myOrganization.portfolioTab.editPortfolio.description"
+  },
+  {
+    "uuid": "ccdc4664-da9a-4aa0-ab67-2afdf0b6e86a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.PortfolioTab.DeletePortfolio",
+    "multilanguageLabel": "user.myOrganization.portfolioTab.deletePortfolio",
+    "multilanguageDescription": "user.myOrganization.portfolioTab.deletePortfolio.description"
+  },
+  {
+    "uuid": "dce27260-1c56-4916-b38c-e02f808b58e6",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.CustodianTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "548fe979-6a9d-4cbc-9e9c-13a637c42d1a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.CustodianTab.View",
+    "multilanguageLabel": "user.myOrganization.custodianTab",
+    "multilanguageDescription": "user.myOrganization.custodianTab.description"
+  },
+  {
+    "uuid": "d1ff96d5-c1d5-4484-b236-3d0d51fb2fb7",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.CustodianTab.AddCustodian",
+    "multilanguageLabel": "user.myOrganization.custodianTab.addCustodian",
+    "multilanguageDescription": "user.myOrganization.custodianTab.addCustodian.description"
+  },
+  {
+    "uuid": "2cbddcf7-5c75-4093-90ef-5d8d935401d1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.CustodianTab.EditCustodian",
+    "multilanguageLabel": "user.myOrganization.custodianTab.editCustodian",
+    "multilanguageDescription": "user.myOrganization.custodianTab.editCustodian.description"
+  },
+  {
+    "uuid": "b9525ea8-df78-438a-af4d-c6c9d10d6ca3",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.CustodianTab.DeleteCustodian",
+    "multilanguageLabel": "user.myOrganization.custodianTab.deleteCustodian",
+    "multilanguageDescription": "user.myOrganization.custodianTab.deleteCustodian.description"
+  },
+  {
+    "uuid": "42182125-f434-41d8-8ac3-71743c5bba82",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.IssuerTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "d1dbd67e-a0c0-4d52-bb4e-7d66806a111a",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.IssuerTab.View",
+    "multilanguageLabel": "user.myOrganization.issuerTab",
+    "multilanguageDescription": "user.myOrganization.issuerTab.description"
+  },
+  {
+    "uuid": "2e8c0145-87ce-4f7a-9d16-25784a5da6ea",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.IssuerTab.EditIssuer",
+    "multilanguageLabel": "user.myOrganization.issuerTab.editIssuer",
+    "multilanguageDescription": "user.myOrganization.issuerTab.editIssuer.description"
+  },
+  {
+    "uuid": "2380a0ec-5aba-4f1b-bb4e-e1aa178e168d",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.IssuerTab.DeleteIssuer",
+    "multilanguageLabel": "user.myOrganization.issuerTab.deleteIssuer",
+    "multilanguageDescription": "user.myOrganization.issuerTab.deleteIssuer.description"
+  },
+  {
+    "uuid": "4a4821fc-e181-4c24-ad1d-330dbc16a3c2",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.RoleTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "fb191412-ae7b-4623-bab7-1d0b910efc6e",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.RoleTab.View",
+    "multilanguageLabel": "user.myOrganization.roleTab",
+    "multilanguageDescription": "user.myOrganization.roleTab.description"
+  },
+  {
+    "uuid": "ceabe570-e21b-4101-9d6f-636e47dc71da",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.RoleTab.AddRole",
+    "multilanguageLabel": "user.myOrganization.roleTab.addRole",
+    "multilanguageDescription": "user.myOrganization.roleTab.addRole.description"
+  },
+  {
+    "uuid": "f290cb50-0d08-448f-8a44-774de9889edb",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.RoleTab.EditRole",
+    "multilanguageLabel": "user.myOrganization.roleTab.editRole",
+    "multilanguageDescription": "user.myOrganization.roleTab.editRole.description"
+  },
+  {
+    "uuid": "256e18a0-1836-4f5b-b056-1f6d433e62c1",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.RoleTab.DeleteRole",
+    "multilanguageLabel": "user.myOrganization.roleTab.deleteRole",
+    "multilanguageDescription": "user.myOrganization.roleTab.deleteRole.description"
+  },
+  {
+    "uuid": "00e2d23f-80b8-482e-869a-6e97969b12ef",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.View",
+    "multilanguageLabel": "menu.user.orgSettings",
+    "multilanguageDescription": "menu.user.orgSettings.description"
+  },
+  {
+    "creationDate": "2021-12-11 16:31:00",
+    "uuid": "5952b2e9-c024-4925-bfbe-0ddf97ab4478",
+    "action": "User.MyOrganization.MyOrganizationTab.AddSubdistributor",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.addSubdistributor",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.addSubdistributor.description"
+  },
+  {
+    "uuid": "c7821010-638b-47c2-9c60-82327dbdec49",
+    "creationDate": "2021-10-13 16:00:08",
+    "action": "User.MyOrganization.SubdistributorTab.*",
+    "multilanguageLabel": "",
+    "multilanguageDescription": ""
+  },
+  {
+    "uuid": "3f27e1bc-1eed-48da-ac5e-d6251ef45d3e",
+    "creationDate": "2021-12-11 16:31:00",
+    "action": "User.MyOrganization.SubdistributorTab.View",
+    "multilanguageLabel": "user.myOrganization.SubdistributorTab",
+    "multilanguageDescription": "user.myOrganization.SubdistributorTab.description"
+  },
+  {
+    "uuid": "470cf36d-2583-4a1b-b95d-b132bc768a29",
+    "creationDate": "2021-12-11 16:31:00",
+    "action": "User.MyOrganization.SubdistributorTab.EditSubdistributor",
+    "multilanguageLabel": "user.myOrganization.SubdistributorTab.editSubdistributor",
+    "multilanguageDescription": "user.myOrganization.SubdistributorTab.editSubdistributor.description"
+  },
+  {
+    "uuid": "3fb76ecb-94e7-497c-95c6-06d3fdaae9a8",
+    "creationDate": "2021-12-11 16:31:00",
+    "action": "User.MyOrganization.SubdistributorTab.DeleteSubdistributor",
+    "multilanguageLabel": "user.myOrganization.SubdistributorTab.deleteSubdistributor",
+    "multilanguageDescription": "user.myOrganization.SubdistributorTab.deleteSubdistributor.description"
+  },
+  {
+    "uuid": "9edcea22-8e7c-4e2c-84ff-5d28232d05d4",
+    "creationDate": "2021-12-28 08:00:00",
+    "action": "User.MyOrganization.MyOrganizationTab.CanSeeSubdistributorsNodes",
+    "multilanguageLabel": "user.myOrganization.myOrganizationTab.canSeeSubdistributorsNodes",
+    "multilanguageDescription": "user.myOrganization.myOrganizationTab.canSeeSubdistributorsNodes.description"
+  },
+  {
+    "uuid": "25fb161f-861b-474f-b14f-db0a789c2935",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.advancedSearch",
+    "multilanguageLabel": "productPricer.historicPrice.advancedSearch",
+    "multilanguageDescription": "productPricer.historicPrice.advancedSearch.description"
+  },
+  {
+    "uuid": "42dd6b09-33d3-4e78-af40-63546f209721",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.canSeeMissed",
+    "multilanguageLabel": "productPricer.historicPrice.canSeeMissed",
+    "multilanguageDescription": "productPricer.historicPrice.canSeeMissed.description"
+  },
+  {
+    "uuid": "bc0fc305-5a21-46b2-8c6c-d090490c47c5",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.canSeeUONames",
+    "multilanguageLabel": "productPricer.historicPrice.canSeeUONames",
+    "multilanguageDescription": "productPricer.historicPrice.canSeeUONames.description"
+  },
+  {
+    "uuid": "95b2e288-e5f0-4694-aeb7-c974e315bcbf",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.canSeeUserNames",
+    "multilanguageLabel": "productPricer.historicPrice.canSeeUserNames",
+    "multilanguageDescription": "productPricer.historicPrice.canSeeUserNames.description"
+  },
+  {
+    "uuid": "c7a684e8-499d-4ad4-a8ca-4365417a6acd",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.canSeeSubdistributorPrices",
+    "multilanguageLabel": "productPricer.historicPrice.canSeeSubdistributorPrices",
+    "multilanguageDescription": "productPricer.historicPrice.canSeeSubdistributorPrices.description"
+  },
+  {
+    "uuid": "ba75a776-c16f-45d1-a0d5-b66d5d53b909",
+    "creationDate": "2022-01-01 11:00:00",
+    "action": "ProductPricer.HistoricPrice.details",
+    "multilanguageLabel": "productPricer.historicPrice.details",
+    "multilanguageDescription": "productPricer.historicPrice.details.description"
+  },
+  {
+    "uuid": "ea2de13d-53a1-4df1-b09d-0dc75c5bc17a",
+    "creationDate": "2022-03-01 09:36:00",
+    "action": "User.MyOrganization.SubdistributorTab.canAddCoverage",
+    "multilanguageLabel": "organization.data.add.coverage",
+    "multilanguageDescription": "organization.data.coverage.tooltip"
+  },
+  {
+    "uuid": "6bd4d12e-e14d-410f-92e7-498cf721b3ce",
+    "creationDate": "2022-03-01 09:36:00",
+    "action": "User.MyOrganization.SubdistributorTab.canAddMargin",
+    "multilanguageLabel": "organization.data.add.margin",
+    "multilanguageDescription": "organization.data.margin.tooltip"
+  },
+  {
+    "uuid": "5805f497-d798-45b1-859c-2abea5f6464b",
+    "creationDate": "2022-03-01 09:36:00",
+    "action": "User.MyOrganization.SubdistributorTab.canAddAssurance",
+    "multilanguageLabel": "organization.data.asn.add.assurance",
+    "multilanguageDescription": "organization.data.asn.assurance.tooltip"
+  }
+]

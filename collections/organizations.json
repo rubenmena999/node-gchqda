@@ -1,0 +1,864 @@
+[
+  {
+    "uuid": "663e66a0-4837-415b-a13f-719b5f7e8e86",
+    "creationDate": "2021-12-10 11:03:21",
+    "class": "organizations.class.subdistributor",
+    "country": "GX",
+    "maxIssuers": 19,
+    "data": {
+      "organizationUuid": "663e66a0-4837-415b-a13f-719b5f7e8e86",
+      "name": "Distribuidora",
+      "shortName": "Distribu",
+      "legalName": "Distribuidora",
+      "leiNumber": "qw213423423343",
+      "fiscalAddress": "Rua das Gales",
+      "contactNumber": "3423432432432"
+    },
+    "units": [
+      {
+        "uuid": "e0675afa-f66b-4f1e-8859-2f4587113dca",
+        "creationDate": "2021-12-10 11:03:21",
+        "class": "organizations.unit.class.root",
+        "name": "root",
+        "country": "GX",
+        "usersUuids": [
+          "77165965-0631-4119-9444-1c4002fd2092",
+          "6986da15-d054-4cee-811b-798b658768ab"
+        ]
+      },
+      {
+        "uuid": "5396369f-ae18-4df8-a2c8-7713cdc82b5c",
+        "creationDate": "2021-12-11 15:59:23",
+        "class": "organizations.unit.class.unit",
+        "country": "MX",
+        "name": "Unidad Latam",
+        "parentUuid": "e0675afa-f66b-4f1e-8859-2f4587113dca",
+        "usersUuids": []
+      },
+      {
+        "uuid": "d67992fc-9e1a-4099-99ca-08f565df61ec",
+        "creationDate": "2021-12-28 12:00:42",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Retail",
+          "externalId": "ext-0123",
+          "class": "complex"
+        },
+        "name": "Cartera",
+        "parentUuid": "5396369f-ae18-4df8-a2c8-7713cdc82b5c",
+        "country": "GX",
+        "class": "organizations.unit.class.portfolio"
+      },
+      {
+        "uuid": "12a13d49-622a-4da8-91b1-68bb7a5cf5e0",
+        "creationDate": "2021-12-28 12:12:50",
+        "class": "organizations.unit.class.unit",
+        "country": "ES",
+        "name": "Unidad España",
+        "parentUuid": "e0675afa-f66b-4f1e-8859-2f4587113dca",
+        "usersUuids": []
+      }
+    ],
+    "issuers": [
+      {
+        "uuid": "022335a0-8029-48f6-ae6f-7ead462f20f2",
+        "creationDate": "2021-12-10 11:03:21",
+        "issuerUuid": "f1a8f2df-c348-418d-a1cc-10a23e6c49fa",
+        "settings": {}
+      },
+      {
+        "uuid": "728d68a6-a43c-49e3-8f67-836a0afb0175",
+        "creationDate": "2021-12-10 11:03:21",
+        "issuerUuid": "5e72463a-d8ba-43a8-bec3-818d0ffc4050",
+        "settings": {}
+      },
+      {
+        "uuid": "096d036e-b8ec-41db-a903-d14ae685ac5b",
+        "creationDate": "2021-12-10 11:03:27",
+        "issuerUuid": "ff1a789d-17f4-4b49-9980-8ef109d5ffa9",
+        "settings": {}
+      },
+      {
+        "uuid": "afbcba8d-058e-4923-8eaf-933b56087c01",
+        "creationDate": "2021-12-10 11:03:27",
+        "issuerUuid": "54f0b149-da8e-4846-969e-fcb3216a74a9",
+        "settings": {}
+      }
+    ],
+    "roles": [
+      {
+        "uuid": "0847cd8e-bc7b-47a9-90ea-7aa12beb1c46",
+        "creationDate": "2021-12-10 11:03:28",
+        "name": "Owner",
+        "description": "role.owner.description",
+        "grantedPolicies": [
+          "102c8d78-a0b6-4b7a-bb9e-06e3c9c841a2",
+          "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+          "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+          "1d62039c-ad73-464d-8128-b69537c918ad",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "1b474401-a5c6-4ff1-8ca8-bdcfe8ffff6c",
+          "3cdfbcd0-2024-4ff2-b1b4-af4a8fd2e21e",
+          "abc66361-ebc3-47b4-ae0b-ea325872850b",
+          "91bf4349-9b42-48e7-9868-0f178c4e8248",
+          "2ece509c-424e-4abe-b131-ffdddfe55f9f",
+          "a17bdf03-954e-45b7-b64e-d0e16f11cecb",
+          "a6bccc25-01a0-4836-bc4b-8d36624e920a",
+          "789734b6-09bc-406d-ba7a-02890be1bc4c",
+          "3b7cf96b-8b76-4b4f-a90a-5abf37be6ceb",
+          "1c857129-af36-4fc8-b98f-580bb7249f16",
+          "5952b2e9-c024-4925-bfbe-0ddf97ab4478",
+          "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "42182125-f434-41d8-8ac3-71743c5bba82",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2"
+        ]
+      },
+      {
+        "uuid": "24cf7061-6633-4376-a52a-595325dd221f",
+        "creationDate": "2021-12-29 19:03:56",
+        "name": "Otro permiso",
+        "description": "Otro permiso"
+      }
+    ]
+  },
+  {
+    "uuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "creationDate": "2021-11-05 13:17:25",
+    "class": "organizations.class.asn",
+    "country": "GX",
+    "maxIssuers": 6,
+    "data": {
+      "name": "ASN",
+      "shortName": "ASN",
+      "legalName": "All Structured Notes",
+      "leiNumber": "0000001",
+      "fiscalAddress": "Paseo de la castellana 23",
+      "contactNumber": "+34667331166"
+    },
+    "roles": [
+      {
+        "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9",
+        "creationDate": "2021-10-13 19:53:46",
+        "name": "Owner",
+        "grantedPolicies": [
+          "a526e51a-ee34-433d-aa6f-97fd589e6248"
+        ]
+      },
+      {
+        "uuid": "7ffea21f-da20-4942-8cd3-7e9ed1bf48c6",
+        "creationDate": "2021-11-24 17:42:43",
+        "name": "Perfil de prueba",
+        "description": "Descripción del perfil de prueba",
+        "grantedPolicies": [
+          "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+          "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "22fffdac-a0fe-433c-b7e5-967eac460c2c",
+          "ed2f2c72-8701-4e14-a5d9-23f669f15be2",
+          "cb8711d1-9998-4fc2-b253-47ebf6737d68",
+          "da4736f9-f855-4b04-8608-9702eec39f6c",
+          "8412583c-37ff-46e8-a760-bff7dc4df3c5",
+          "efb178bd-434c-421c-842f-7c53cd8a5cb4",
+          "d8db1292-07b9-4212-93d5-a7efe185c99c",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "f656d80d-af22-418b-b189-d0d86afe7a41",
+          "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2"
+        ]
+      },
+      {
+        "uuid": "347c4bc9-6b95-4939-9e42-4d29f541a317",
+        "creationDate": "2021-12-10 13:36:53",
+        "name": "No portfolios",
+        "description": "No puede ver Mi Cartera",
+        "grantedPolicies": [
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "f656d80d-af22-418b-b189-d0d86afe7a41",
+          "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2"
+        ]
+      },
+      {
+        "uuid": "411a6ddf-9ea4-4337-8e38-57d6b3091dc9",
+        "creationDate": "2022-02-09 19:55:11",
+        "name": "pepinillo"
+      }
+    ],
+    "units": [
+      {
+        "uuid": "e7736970-07e3-4feb-a1fb-0ede88ea21e9",
+        "creationDate": "2021-11-16 13:29:00",
+        "class": "organizations.unit.class.root",
+        "name": "root",
+        "country": "GX",
+        "usersUuids": [
+          "225cc382-ed8f-4d73-a58c-79cea4e14ddc",
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+          "e046611a-b9b5-4f42-acef-14138012e078",
+          "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+          "bc4410f7-b66d-4d72-802d-de7b21904329",
+          "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+          "ca9bd5f8-8a4b-402a-bf85-34f136900948"
+        ]
+      },
+      {
+        "uuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "creationDate": "2021-11-16 13:31:36",
+        "parentUuid": "e7736970-07e3-4feb-a1fb-0ede88ea21e9",
+        "class": "organizations.unit.class.unit",
+        "name": "Banqueros",
+        "country": "ES",
+        "usersUuids": [
+          "225cc382-ed8f-4d73-a58c-79cea4e14ddc",
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+          "e046611a-b9b5-4f42-acef-14138012e078",
+          "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+          "bc4410f7-b66d-4d72-802d-de7b21904329",
+          "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+          "ca9bd5f8-8a4b-402a-bf85-34f136900948"
+        ]
+      },
+      {
+        "uuid": "74ae3bdd-c6a5-45d0-8f84-604521b60d44",
+        "creationDate": "2021-11-16 13:33:18",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Valerio",
+        "country": "ES",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Retail",
+          "externalId": "1234abc",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "6fb150a0-bc5d-4bb9-b90a-403013eec4c0",
+        "creationDate": "2021-11-16 19:03:45",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Rubén",
+        "country": "ES",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Retail",
+          "externalId": "1234abc",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "aac2a5d3-d830-4c92-a201-5469492a0df3",
+        "creationDate": "2021-11-16 19:04:09",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Iván",
+        "country": "ES",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Profesional",
+          "externalId": "1234qwe",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "fe4092e1-bc87-40e3-bf6d-3f2422d816c0",
+        "creationDate": "2021-11-16 19:04:36",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Manuel",
+        "country": "ES",
+        "data": {
+          "type": "Discrecional",
+          "clientType": "Profesional",
+          "externalId": "456rew",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "1159351e-567d-4919-a8df-42e42d11064c",
+        "creationDate": "2021-11-16 19:05:02",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Sofia",
+        "country": "ES",
+        "data": {
+          "type": "Sicav",
+          "externalId": "96314ef",
+          "clientType": "Retail",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "fd1c320b-2a13-461c-8cc1-bb10d4920a68",
+        "creationDate": "2021-11-16 19:05:33",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Antonio",
+        "country": "ES",
+        "data": {
+          "type": "Asesorada dependiente",
+          "clientType": "Retail",
+          "externalId": "85432gw",
+          "class": "simple"
+        }
+      },
+      {
+        "uuid": "0bffc741-4f7c-41e8-a929-ecf1252ec694",
+        "creationDate": "2021-11-16 19:06:00",
+        "parentUuid": "454ae2d4-5332-4922-be2b-2cdecd912138",
+        "class": "organizations.unit.class.portfolio",
+        "name": "Cartera de Emilio",
+        "country": "ES",
+        "data": {
+          "type": "Fondos ucits",
+          "clientType": "Profesional",
+          "externalId": "ef458gj",
+          "class": "complex"
+        }
+      },
+      {
+        "uuid": "0f17a661-3057-44e5-b7eb-000eaa3f5749",
+        "creationDate": "2021-12-03 11:45:31",
+        "class": "organizations.unit.class.unit",
+        "country": "GX",
+        "name": "VENTAS DE ASN",
+        "parentUuid": "e7736970-07e3-4feb-a1fb-0ede88ea21e9",
+        "usersUuids": [
+          "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4"
+        ]
+      },
+      {
+        "uuid": "f3f546a1-bb1f-482c-877d-b340b9567a14",
+        "creationDate": "2021-12-03 11:46:16",
+        "class": "organizations.unit.class.unit",
+        "country": "ES",
+        "name": "VENTAS ASN ESPAÑA",
+        "parentUuid": "0f17a661-3057-44e5-b7eb-000eaa3f5749",
+        "usersUuids": [
+          "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4"
+        ]
+      },
+      {
+        "uuid": "663e66a0-4837-415b-a13f-719b5f7e8e86",
+        "creationDate": "2021-12-10 11:03:20",
+        "parentUuid": "f3f546a1-bb1f-482c-877d-b340b9567a14",
+        "class": "organizations.unit.class.subdistributor",
+        "name": "PRUEBA 2.0",
+        "country": "GX",
+        "usersUuids": [
+          "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+        ]
+      },
+      {
+        "uuid": "a54c2c3d-ef2d-4bb1-8889-49bcb69902ad",
+        "creationDate": "2022-02-14 08:39:04",
+        "class": "organizations.unit.class.unit",
+        "country": "GX",
+        "name": "Prueba",
+        "parentUuid": "e7736970-07e3-4feb-a1fb-0ede88ea21e9",
+        "usersUuids": [
+          "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+          "225cc382-ed8f-4d73-a58c-79cea4e14ddc",
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+        ]
+      },
+      {
+        "uuid": "e6804841-7c61-48ce-8f4c-5e31efb8775e",
+        "creationDate": "2022-02-22 16:40:39",
+        "parentUuid": "a54c2c3d-ef2d-4bb1-8889-49bcb69902ad",
+        "class": "organizations.unit.class.subdistributor",
+        "name": "Prueba Sub 2",
+        "country": "GX",
+        "usersUuids": [
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+        ]
+      },
+      {
+        "uuid": "687266cb-6350-4e19-86be-665bbf58782b",
+        "creationDate": "2022-03-02 10:34:07",
+        "parentUuid": "0f17a661-3057-44e5-b7eb-000eaa3f5749",
+        "class": "organizations.unit.class.subdistributor",
+        "name": "Tressis Desarrollo",
+        "country": "GX",
+        "usersUuids": [
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+        ]
+      },
+      {
+        "uuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+        "creationDate": "2022-03-09 08:12:57",
+        "parentUuid": "0f17a661-3057-44e5-b7eb-000eaa3f5749",
+        "class": "organizations.unit.class.subdistributor",
+        "name": "ASESORES Y GESTORES BANCA PRIVADA",
+        "country": "GX",
+        "usersUuids": [
+          "520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+        ]
+      }
+    ],
+    "custodians": [
+      {
+        "uuid": "61e657ba-8b6b-4102-b0aa-9017a419f5b1",
+        "creationDate": "2021-11-16 10:06:38",
+        "name": "Custodio de prueba",
+        "type": "Clearstream",
+        "account": "123456",
+        "email": "custodio@de.prueba"
+      }
+    ],
+    "issuers": [
+      {
+        "uuid": "ba4f6d41-0a5b-4daf-9cc3-14c488d47a93",
+        "creationDate": "2021-11-21 21:40:59",
+        "settings": {
+          "clearingHouse": "clearingHouses.six",
+          "codes": [
+            "issuers.codes.isin",
+            "issuers.codes.common",
+            "issuers.codes.wkn"
+          ]
+        },
+        "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+        "issuerUuid": "ff1a789d-17f4-4b49-9980-8ef109d5ffa9"
+      },
+      {
+        "uuid": "bf301792-2d75-45a0-ab8b-a60fc4eed6ef",
+        "creationDate": "2021-11-23 09:12:00",
+        "settings": {
+          "codes": [
+            "issuers.codes.isin",
+            "issuers.codes.valoren",
+            "issuers.codes.ric",
+            "issuers.codes.bloomberg"
+          ],
+          "apiKey": "7e143302-63a3-4f3f-b1e1-3bd9b4e9752a"
+        },
+        "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+        "issuerUuid": "54f0b149-da8e-4846-969e-fcb3216a74a9"
+      },
+      {
+        "uuid": "9364a983-fb70-4062-81f4-6efe662df5f5",
+        "creationDate": "2021-11-24 12:23:45",
+        "issuerUuid": "7c86ca1e-8307-4375-b1d8-740280bae6ff",
+        "settings": {
+          "codes": [
+            "issuers.codes.isin",
+            "issuers.codes.common",
+            "issuers.codes.wkn",
+            "issuers.codes.swx",
+            "issuers.codes.valoren",
+            "issuers.codes.ric",
+            "issuers.codes.bloomberg"
+          ],
+          "apiKey": "privadaa",
+          "properties": {
+            "epricerId": "40282328"
+          }
+        }
+      },
+      {
+        "uuid": "ce63b7db-aa8e-4cd9-9e5c-b4549d82543e",
+        "creationDate": "2021-11-25 16:06:24",
+        "issuerUuid": "5e72463a-d8ba-43a8-bec3-818d0ffc4050",
+        "settings": {}
+      },
+      {
+        "uuid": "4e3f6ea8-1746-4674-9d0b-7e835e600e4c",
+        "creationDate": "2021-11-25 16:06:36",
+        "issuerUuid": "b6621ec4-e294-4e8b-ab5e-e46b4459ee34",
+        "settings": {}
+      },
+      {
+        "uuid": "311eb312-4f2e-43a6-bca9-800f1773646b",
+        "creationDate": "2021-11-25 16:06:42",
+        "issuerUuid": "f1a8f2df-c348-418d-a1cc-10a23e6c49fa",
+        "settings": {}
+      },
+      {
+        "uuid": "87cb8a7a-64a5-4d65-9ff1-fb1edd0e17d2",
+        "creationDate": "2022-01-11 07:55:52",
+        "issuerUuid": "ee5fdbb6-b110-4326-9858-a3a7c86fb19d",
+        "settings": {}
+      },
+      {
+        "uuid": "381b75e4-7a11-4de3-965e-4d69bc6b3626",
+        "creationDate": "2022-01-11 07:55:57",
+        "issuerUuid": "49033a50-bd4a-417b-97cb-4a31bd828692",
+        "settings": {}
+      },
+      {
+        "uuid": "7f32ba69-c624-4aaa-8691-a36dc462732e",
+        "creationDate": "2022-02-24 12:45:43",
+        "issuerUuid": "484dcd1a-866b-42a1-b5b6-2e8e4895655a",
+        "settings": {}
+      },
+      {
+        "uuid": "0fa6d661-f048-4c70-a9d7-51db9426bebe",
+        "creationDate": "2022-02-24 12:59:51",
+        "issuerUuid": "e482566e-aaaa-4f87-8583-c04c508029cd",
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "uuid": "e6804841-7c61-48ce-8f4c-5e31efb8775e",
+    "creationDate": "2022-02-22 16:40:40",
+    "class": "organizations.class.subdistributor",
+    "country": "ES",
+    "data": {
+      "organizationUuid": "e6804841-7c61-48ce-8f4c-5e31efb8775e",
+      "name": "Prueba Sub 2",
+      "shortName": "Prueba Sub",
+      "legalName": "Prueba Sub 2",
+      "leiNumber": "123123",
+      "fiscalAddress": "Dirección",
+      "contactNumber": "123123"
+    },
+    "units": [
+      {
+        "uuid": "8af38690-4b01-4f29-a257-cc80747efe8e",
+        "creationDate": "2022-02-22 16:40:40",
+        "class": "organizations.unit.class.root",
+        "name": "root",
+        "country": "GX",
+        "usersUuids": [
+          "3485308e-008f-4424-89dc-6399eb6d5df4"
+        ]
+      },
+      {
+        "uuid": "ff19d9de-ad79-4c2f-84c3-c2d1ff3ec4bb",
+        "creationDate": "2022-02-22 16:52:19",
+        "class": "organizations.unit.class.unit",
+        "country": "GX",
+        "name": "PATATA",
+        "parentUuid": "8af38690-4b01-4f29-a257-cc80747efe8e",
+        "usersUuids": []
+      }
+    ],
+    "roles": [
+      {
+        "uuid": "2ce574b7-b834-4785-8039-7ef9df7325a4",
+        "creationDate": "2022-02-22 16:40:41",
+        "name": "Owner",
+        "grantedPolicies": [
+          "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+          "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+          "1d62039c-ad73-464d-8128-b69537c918ad",
+          "25fb161f-861b-474f-b14f-db0a789c2935",
+          "bc0fc305-5a21-46b2-8c6c-d090490c47c5",
+          "95b2e288-e5f0-4694-aeb7-c974e315bcbf",
+          "c7a684e8-499d-4ad4-a8ca-4365417a6acd",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "d5c3c4c1-ee5b-4fcf-89f0-8cc2f7a26c3a",
+          "72bfc1ea-bc70-4150-a866-e04b1af84db8",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "f656d80d-af22-418b-b189-d0d86afe7a41",
+          "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "d1dbd67e-a0c0-4d52-bb4e-7d66806a111a",
+          "2e8c0145-87ce-4f7a-9d16-25784a5da6ea",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2"
+        ]
+      },
+      {
+        "uuid": "65974094-22ab-41a6-9544-51c8640583fe",
+        "creationDate": "2022-03-01 12:44:31",
+        "name": "Melocotón",
+        "description": "Es un fruta"
+      }
+    ]
+  },
+  {
+    "uuid": "687266cb-6350-4e19-86be-665bbf58782b",
+    "creationDate": "2022-03-02 10:34:08",
+    "class": "organizations.class.subdistributor",
+    "country": "GX",
+    "maxIssuers": 3,
+    "data": {
+      "organizationUuid": "687266cb-6350-4e19-86be-665bbf58782b",
+      "name": "Tressis Desarrollo",
+      "shortName": "Tressis",
+      "legalName": "Tressis",
+      "leiNumber": "123Tressis",
+      "fiscalAddress": "Dirección",
+      "contactNumber": "123"
+    },
+    "units": [
+      {
+        "uuid": "0e0d1519-2125-44d7-8c3a-e921bcd95a9d",
+        "creationDate": "2022-03-02 10:34:08",
+        "class": "organizations.unit.class.root",
+        "name": "root",
+        "country": "GX",
+        "usersUuids": [
+          "eab4855d-79fb-4587-a4ab-36bdd1acb505",
+          "27acda28-86a5-4d5b-9134-bb78d090ba7e"
+        ]
+      },
+      {
+        "uuid": "0ff0e740-69ea-4f59-b85c-bc4b0367c8c0",
+        "creationDate": "2022-03-02 10:34:39",
+        "class": "organizations.unit.class.unit",
+        "country": "GX",
+        "name": "Banqueros",
+        "parentUuid": "0e0d1519-2125-44d7-8c3a-e921bcd95a9d",
+        "usersUuids": [
+          "eab4855d-79fb-4587-a4ab-36bdd1acb505",
+          "27acda28-86a5-4d5b-9134-bb78d090ba7e"
+        ]
+      },
+      {
+        "uuid": "1f693800-ee0b-471f-82b0-69bbc628ecfe",
+        "creationDate": "2022-03-02 10:35:37",
+        "data": {
+          "type": "Asesorada independiente",
+          "class": "simple",
+          "clientType": "Retail"
+        },
+        "name": "61940",
+        "parentUuid": "0ff0e740-69ea-4f59-b85c-bc4b0367c8c0",
+        "country": "GX",
+        "class": "organizations.unit.class.portfolio"
+      },
+      {
+        "uuid": "bfa377e3-af59-4384-87bc-c7ae8ee39fca",
+        "creationDate": "2022-03-02 10:41:49",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Retail",
+          "class": "simple"
+        },
+        "name": "53090",
+        "parentUuid": "0ff0e740-69ea-4f59-b85c-bc4b0367c8c0",
+        "country": "GX",
+        "class": "organizations.unit.class.portfolio"
+      },
+      {
+        "uuid": "cad98deb-cb42-4642-b042-b6f672d11201",
+        "creationDate": "2022-03-02 10:42:04",
+        "data": {
+          "type": "Asesorada independiente",
+          "clientType": "Retail",
+          "class": "simple"
+        },
+        "name": "57296",
+        "parentUuid": "0ff0e740-69ea-4f59-b85c-bc4b0367c8c0",
+        "country": "GX",
+        "class": "organizations.unit.class.portfolio"
+      }
+    ],
+    "issuers": [
+      {
+        "uuid": "98808801-454b-427d-8f98-5e4e9e1867cb",
+        "creationDate": "2022-03-02 10:34:08",
+        "issuerUuid": "54f0b149-da8e-4846-969e-fcb3216a74a9",
+        "settings": {}
+      },
+      {
+        "uuid": "c7fe61ef-7381-49a6-b214-26378af49e92",
+        "creationDate": "2022-03-02 10:34:15",
+        "issuerUuid": "f1a8f2df-c348-418d-a1cc-10a23e6c49fa",
+        "settings": {}
+      }
+    ],
+    "roles": [
+      {
+        "uuid": "027bbb3e-f08e-44c2-85df-91e86d2c0d9f",
+        "creationDate": "2022-03-02 10:34:16",
+        "name": "Owner",
+        "grantedPolicies": [
+          "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+          "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+          "1d62039c-ad73-464d-8128-b69537c918ad",
+          "25fb161f-861b-474f-b14f-db0a789c2935",
+          "bc0fc305-5a21-46b2-8c6c-d090490c47c5",
+          "95b2e288-e5f0-4694-aeb7-c974e315bcbf",
+          "c7a684e8-499d-4ad4-a8ca-4365417a6acd",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "f656d80d-af22-418b-b189-d0d86afe7a41",
+          "4f7ba759-b1eb-4d63-adf3-ef19c388b3bd",
+          "69feaf91-fd2d-4b91-905f-bf7d64fbae81",
+          "9e75be67-d4e4-44cb-bdbd-708064440b3a",
+          "3bbcfc3a-4db3-4e7a-b799-93ebd42ec3c6",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "d1dbd67e-a0c0-4d52-bb4e-7d66806a111a",
+          "2e8c0145-87ce-4f7a-9d16-25784a5da6ea",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2",
+          "3f27e1bc-1eed-48da-ac5e-d6251ef45d3e",
+          "470cf36d-2583-4a1b-b95d-b132bc768a29",
+          "3fb76ecb-94e7-497c-95c6-06d3fdaae9a8"
+        ]
+      }
+    ]
+  },
+  {
+    "uuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "creationDate": "2022-03-09 08:12:59",
+    "class": "organizations.class.subdistributor",
+    "country": "GX",
+    "maxIssuers": 3,
+    "data": {
+      "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+      "name": "ASESORES Y GESTORES BANCA PRIVADA",
+      "shortName": "A&G",
+      "legalName": "ASESORES Y GESTORES BANCA PRIVADA",
+      "leiNumber": "Lei number",
+      "fiscalAddress": "Dirección",
+      "contactNumber": "123456789"
+    },
+    "units": [
+      {
+        "uuid": "92fb0d49-635b-4df4-b3fd-87a6f9f427b6",
+        "creationDate": "2022-03-09 08:12:59",
+        "class": "organizations.unit.class.root",
+        "name": "root",
+        "country": "GX",
+        "usersUuids": [
+          "86244582-7085-4d4e-a2e7-a638f08ef7de",
+          "cfc75fa3-0492-45bb-a100-69916fe8f0e6"
+        ]
+      },
+      {
+        "uuid": "2fd4d515-733a-49c8-a50b-8df6bad280bc",
+        "creationDate": "2022-03-09 08:16:19",
+        "class": "organizations.unit.class.unit",
+        "country": "ES",
+        "name": "BANQUEROS",
+        "parentUuid": "92fb0d49-635b-4df4-b3fd-87a6f9f427b6"
+      },
+      {
+        "uuid": "129c50fe-a678-4839-91d6-7a98541cbef1",
+        "creationDate": "2022-03-09 08:16:28",
+        "class": "organizations.unit.class.unit",
+        "country": "ES",
+        "name": "PAUL",
+        "parentUuid": "2fd4d515-733a-49c8-a50b-8df6bad280bc"
+      },
+      {
+        "uuid": "96f0378f-ea2f-4869-bfec-be5515da59c4",
+        "creationDate": "2022-03-09 08:16:38",
+        "class": "organizations.unit.class.unit",
+        "country": "ES",
+        "name": "OTROS BANQUEROS",
+        "parentUuid": "2fd4d515-733a-49c8-a50b-8df6bad280bc"
+      },
+      {
+        "uuid": "e2152192-02f8-4f12-adaf-93978e75ea36",
+        "creationDate": "2022-03-09 08:17:08",
+        "data": {
+          "type": "Discrecional",
+          "clientType": "Profesional",
+          "externalId": "MICAELA",
+          "class": "complex"
+        },
+        "name": "CARTERA MICA",
+        "parentUuid": "129c50fe-a678-4839-91d6-7a98541cbef1",
+        "country": "ES",
+        "class": "organizations.unit.class.portfolio"
+      },
+      {
+        "uuid": "88e8d50a-9b37-4d29-a925-c6ed75146efc",
+        "creationDate": "2022-03-09 08:17:32",
+        "data": {
+          "class": "complex"
+        },
+        "name": "GENERAL A&G",
+        "parentUuid": "96f0378f-ea2f-4869-bfec-be5515da59c4",
+        "country": "ES",
+        "class": "organizations.unit.class.portfolio"
+      }
+    ],
+    "issuers": [
+      {
+        "uuid": "fde0bc9d-e023-40bb-94d1-5c53caad00d6",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "b6621ec4-e294-4e8b-ab5e-e46b4459ee34",
+        "settings": {}
+      },
+      {
+        "uuid": "1d90c627-ec42-4e71-9019-a15afb1a031f",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "ff1a789d-17f4-4b49-9980-8ef109d5ffa9",
+        "settings": {}
+      },
+      {
+        "uuid": "cecd69ff-2fa8-491d-b123-7b6250451b28",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "5e72463a-d8ba-43a8-bec3-818d0ffc4050",
+        "settings": {}
+      },
+      {
+        "uuid": "44d86672-8723-4577-9a19-4e1ed942a0b7",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "7c86ca1e-8307-4375-b1d8-740280bae6ff",
+        "settings": {}
+      },
+      {
+        "uuid": "81ad0985-734e-4fe2-95b9-c125b42d93aa",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "54f0b149-da8e-4846-969e-fcb3216a74a9",
+        "settings": {}
+      },
+      {
+        "uuid": "a5f54c7f-4a85-4d61-a5e0-97e98e1efbd2",
+        "creationDate": "2022-03-09 08:13:11",
+        "issuerUuid": "f1a8f2df-c348-418d-a1cc-10a23e6c49fa",
+        "settings": {}
+      }
+    ],
+    "roles": [
+      {
+        "uuid": "92f3681d-c276-4183-a584-ad08b95691da",
+        "creationDate": "2022-03-09 08:13:18",
+        "name": "Owner",
+        "grantedPolicies": [
+          "a1ab7eb2-728e-4f8a-ab89-aef08bb5dd30",
+          "070fdc7e-ad55-4b88-b99b-ec4daed28ecf",
+          "d193dcee-f54b-4d01-8871-c0c343db7153",
+          "50b4cd8b-7f14-4871-a836-86bb5c8e5009",
+          "1d62039c-ad73-464d-8128-b69537c918ad",
+          "25fb161f-861b-474f-b14f-db0a789c2935",
+          "95b2e288-e5f0-4694-aeb7-c974e315bcbf",
+          "53ea078c-6ee5-41da-a6be-c1c4a4cbf76f",
+          "00e2d23f-80b8-482e-869a-6e97969b12ef",
+          "1b474401-a5c6-4ff1-8ca8-bdcfe8ffff6c",
+          "3cdfbcd0-2024-4ff2-b1b4-af4a8fd2e21e",
+          "abc66361-ebc3-47b4-ae0b-ea325872850b",
+          "91bf4349-9b42-48e7-9868-0f178c4e8248",
+          "2ece509c-424e-4abe-b131-ffdddfe55f9f",
+          "a17bdf03-954e-45b7-b64e-d0e16f11cecb",
+          "a6bccc25-01a0-4836-bc4b-8d36624e920a",
+          "789734b6-09bc-406d-ba7a-02890be1bc4c",
+          "3b7cf96b-8b76-4b4f-a90a-5abf37be6ceb",
+          "1c857129-af36-4fc8-b98f-580bb7249f16",
+          "d3d1fa6b-ad99-4ac2-a939-c16ced3d4338",
+          "1cfd188e-fa26-432c-9a1c-9e534da3daf8",
+          "dce27260-1c56-4916-b38c-e02f808b58e6",
+          "d1dbd67e-a0c0-4d52-bb4e-7d66806a111a",
+          "4a4821fc-e181-4c24-ad1d-330dbc16a3c2"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "uuid": "225cc382-ed8f-4d73-a58c-79cea4e14ddc",
+    "creationDate": "2021-11-05 13:17:59",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "ruben.mena@asn-global.com",
+    "email": "ruben.mena@asn-global.com",
+    "firstname": "Ruben",
+    "surname": "Mena",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    }
+  },
+  {
+    "uuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "creationDate": "2021-11-05 13:20:34",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "valerio.delgado@asn-global.com",
+    "email": "valerio.delgado@asn-global.com",
+    "firstname": "Valerio",
+    "surname": "Delgado",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    }
+  },
+  {
+    "uuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "creationDate": "2021-11-05 13:23:31",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "emilio.sbaranda@asn-global.com",
+    "email": "emilio.sbaranda@asn-global.com",
+    "firstname": "Emilio",
+    "surname": "Sainz de Baranda",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    }
+  },
+  {
+    "uuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "creationDate": "2021-11-05 13:24:49",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "a.luna@asn-global.com",
+    "email": "a.luna@asn-global.com",
+    "firstname": "Antonio",
+    "surname": "Luna",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    }
+  },
+  {
+    "uuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "creationDate": "2021-11-05 13:25:33",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "sofia.ceno@asn-global.com",
+    "email": "sofia.ceno@asn-global.com",
+    "firstname": "Sofia",
+    "surname": "Ceno",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    }
+  },
+  {
+    "uuid": "6136f548-d1cb-4f81-b834-275afece9b40",
+    "creationDate": "2021-12-14 15:33:37",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "firstname": "Ruben",
+    "surname": "Mena",
+    "email": "rubenmena999@gmail.com",
+    "status": "onboarded",
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    },
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "language": "ES",
+    "username": "rubenmena999@gmail.com",
+    "enabled": true
+  },
+  {
+    "uuid": "77165965-0631-4119-9444-1c4002fd2092",
+    "creationDate": "2021-12-10 11:03:29",
+    "organizationUuid": "663e66a0-4837-415b-a13f-719b5f7e8e86",
+    "username": "emiliosbla@gmail.com",
+    "email": "emiliosbla@gmail.com",
+    "firstname": "Emilio",
+    "surname": "Sainz de Baranda Lopez Artamendi",
+    "status": "Onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "0847cd8e-bc7b-47a9-90ea-7aa12beb1c46"
+    },
+    "language": "ES",
+    "settings": {
+      "dealParams": {
+        "defCallabillity": false,
+        "defCouponTypeAutocall": "multipricer.nominal",
+        "defCouponTypeReverse": "multipricer.nominal",
+        "defSwitchOneStar": false,
+        "defOneStarLevelPct": "100",
+        "defAutocallBarrierPct": "100",
+        "defGuaranteed": "multipricer.conditional",
+        "defCouponBarrierPct": "50",
+        "defStepDownPct": "0",
+        "defMinAutocallBarrierPct": "80",
+        "defReversePayment": "multipricer.atExpiry",
+        "defCallParticipationPct": "100",
+        "defCapType": false,
+        "defCapLevelPct": "120",
+        "defSwitchBonus": false,
+        "defBonusLevelPct": "5",
+        "defCallLowStrikeLevelPct": "100",
+        "defPutHighStrikeLevelPct": "100",
+        "defCapFloorLevelPct": "100",
+        "defCallCapitalParticipationPct": "100",
+        "defPutParticipationPct": "100"
+      },
+      "generalParams": {
+        "defNotional": "1000000",
+        "defCurrency": "EUR",
+        "defStrikeFixingType": "multipricer.todayAtClose",
+        "defIssueDate": "5",
+        "defReoffer": "multipricer.reoffer",
+        "defSettlement": "multipricer.cash",
+        "defIssuePrice": "100",
+        "defBasket": "multipricer.worst"
+      },
+      "riskParams": {
+        "defRiskStrikePct": "100",
+        "defLowStrikePutSpreadPct": "100",
+        "defRiskBarrierType": "multipricer.european",
+        "defRiskBarrierStocksLevel": "50",
+        "defRiskBarrierIndexLevel": "50"
+      }
+    }
+  },
+  {
+    "uuid": "6986da15-d054-4cee-811b-798b658768ab",
+    "creationDate": "2021-12-10 11:18:48",
+    "organizationUuid": "663e66a0-4837-415b-a13f-719b5f7e8e86",
+    "firstname": "Emilio",
+    "surname": "2",
+    "email": "emiliosainzdebaranda@gmail.com",
+    "status": "Onboarding",
+    "language": "ES",
+    "role": {
+      "uuid": "0847cd8e-bc7b-47a9-90ea-7aa12beb1c46"
+    },
+    "username": "emiliosainzdebaranda@gmail.com",
+    "enabled": true
+  },
+  {
+    "uuid": "a4b366d3-6e07-4010-a09d-f6222ed509cd",
+    "creationDate": "2022-02-16 09:28:26",
+    "firstname": "Manuel",
+    "surname": "Menéndez",
+    "email": "manuelmenendezmarin@gmail.com",
+    "status": "Onboarded",
+    "organizationUuid": "36e350e9-7302-4d26-8cb0-74303ba69d10",
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "role": {
+      "uuid": "ec6763d9-a37d-4682-86c3-81b72338805f"
+    },
+    "language": "ES",
+    "username": "manuelmenendezmarin@gmail.com",
+    "enabled": true
+  },
+  {
+    "uuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "creationDate": "2021-11-05 13:21:33",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "manuel.menendez@asn-global.com",
+    "email": "manuel.menendez@asn-global.com",
+    "firstname": "Manuel",
+    "surname": "Menendez",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    },
+    "settings": {
+      "dealParams": {
+        "defCallabillity": false,
+        "defCouponTypeAutocall": "multipricer.nominal",
+        "defCouponTypeReverse": "multipricer.nominal",
+        "defSwitchOneStar": false,
+        "defOneStarLevelPct": "100",
+        "defAutocallBarrierPct": "100",
+        "defGuaranteed": "multipricer.guaranteed",
+        "defCouponBarrierPct": "50",
+        "defStepDownPct": "0",
+        "defMinAutocallBarrierPct": "80",
+        "defReversePayment": "multipricer.atExpiry",
+        "defCallParticipationPct": "100",
+        "defCapType": false,
+        "defCapLevelPct": "120",
+        "defSwitchBonus": false,
+        "defBonusLevelPct": "5",
+        "defCallLowStrikeLevelPct": "100",
+        "defPutHighStrikeLevelPct": "100",
+        "defCapFloorLevelPct": "100",
+        "defCallCapitalParticipationPct": "100",
+        "defPutParticipationPct": "100"
+      },
+      "generalParams": {
+        "defNotional": "1000000",
+        "defCurrency": "EUR",
+        "defStrikeFixingType": "multipricer.todayAtClose",
+        "defIssueDate": "5",
+        "defReoffer": "multipricer.reoffer",
+        "defSettlement": "multipricer.cash",
+        "defIssuePrice": "100",
+        "defBasket": "multipricer.worst"
+      },
+      "riskParams": {
+        "defRiskStrikePct": "100",
+        "defLowStrikePutSpreadPct": "100",
+        "defRiskBarrierType": "multipricer.european",
+        "defRiskBarrierStocksLevel": "50",
+        "defRiskBarrierIndexLevel": "50"
+      }
+    }
+  },
+  {
+    "uuid": "3485308e-008f-4424-89dc-6399eb6d5df4",
+    "creationDate": "2022-03-01 09:51:01",
+    "firstname": "Valerio",
+    "surname": "Delgado",
+    "email": "valeriodv82@gmail.com",
+    "status": "Onboarding",
+    "language": "ES",
+    "role": {
+      "uuid": "2ce574b7-b834-4785-8039-7ef9df7325a4"
+    },
+    "organizationUuid": "e6804841-7c61-48ce-8f4c-5e31efb8775e",
+    "username": "valeriodv82@gmail.com",
+    "enabled": true
+  },
+  {
+    "uuid": "eab4855d-79fb-4587-a4ab-36bdd1acb505",
+    "creationDate": "2022-03-02 10:34:17",
+    "firstname": "Sofia",
+    "surname": "Ceño",
+    "email": "sofia.ceno+tressis@asn-global.com",
+    "status": "Onboarded",
+    "organizationUuid": "687266cb-6350-4e19-86be-665bbf58782b",
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "role": {
+      "uuid": "027bbb3e-f08e-44c2-85df-91e86d2c0d9f"
+    },
+    "language": "ES",
+    "username": "sofia.ceno+tressis@asn-global.com",
+    "enabled": true
+  },
+  {
+    "uuid": "27acda28-86a5-4d5b-9134-bb78d090ba7e",
+    "creationDate": "2022-03-02 10:34:23",
+    "firstname": "Manuel",
+    "surname": "Menendez",
+    "email": "manuel.menendez+tressis@asn.global.com",
+    "status": "Onboarded",
+    "organizationUuid": "687266cb-6350-4e19-86be-665bbf58782b",
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "role": {
+      "uuid": "027bbb3e-f08e-44c2-85df-91e86d2c0d9f"
+    },
+    "language": "ES",
+    "username": "manuel.menendez+tressis@asn.global.com",
+    "enabled": true
+  },
+  {
+    "uuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "creationDate": "2021-11-05 13:28:51",
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "username": "ivan.fernandez@asn-global.com",
+    "email": "ivan.fernandez@asn-global.com",
+    "firstname": "Ivan",
+    "surname": "Fernandez",
+    "language": "ES",
+    "status": "onboarded",
+    "enabled": true,
+    "role": {
+      "uuid": "1df8edfa-8b0c-437a-8500-26158a51aef9"
+    },
+    "settings": {
+      "dealParams": {
+        "defCallabillity": false,
+        "defCouponTypeAutocall": "multipricer.nominal",
+        "defCouponTypeReverse": "multipricer.nominal",
+        "defSwitchOneStar": false,
+        "defOneStarLevelPct": "100",
+        "defAutocallBarrierPct": "100",
+        "defGuaranteed": "multipricer.conditional",
+        "defCouponBarrierPct": "50",
+        "defStepDownPct": "0",
+        "defMinAutocallBarrierPct": "80",
+        "defReversePayment": "multipricer.atExpiry",
+        "defCallParticipationPct": "100",
+        "defCapType": false,
+        "defCapLevelPct": "120",
+        "defSwitchBonus": true,
+        "defBonusLevelPct": "5",
+        "defCallLowStrikeLevelPct": "100",
+        "defPutHighStrikeLevelPct": "100",
+        "defCapFloorLevelPct": "100",
+        "defCallCapitalParticipationPct": "100",
+        "defPutParticipationPct": "100"
+      },
+      "generalParams": {
+        "defNotional": "1000000",
+        "defCurrency": "EUR",
+        "defStrikeFixingType": "multipricer.todayAtClose",
+        "defIssueDate": "5",
+        "defReoffer": "multipricer.reoffer",
+        "defSettlement": "multipricer.cash",
+        "defIssuePrice": "100",
+        "defBasket": "multipricer.worst"
+      },
+      "riskParams": {
+        "defRiskStrikePct": "100",
+        "defLowStrikePutSpreadPct": "100",
+        "defRiskBarrierType": "multipricer.european",
+        "defRiskBarrierStocksLevel": "50",
+        "defRiskBarrierIndexLevel": "75",
+        "defRiskBarrierLevel": "50"
+      }
+    }
+  },
+  {
+    "uuid": "f9b294b7-f8d4-4087-aa0f-fdceafb2c4a6",
+    "creationDate": "2022-03-08 16:22:05",
+    "firstname": "Manuel",
+    "surname": "Menéndez",
+    "email": "manuel.menendez+PruebaEmail@asn-global.com",
+    "status": "onboarded",
+    "role": {
+      "uuid": "7ffea21f-da20-4942-8cd3-7e9ed1bf48c6"
+    },
+    "organizationUuid": "6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4",
+    "creatorUserUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "language": "ES",
+    "username": "manuel.menendez+PruebaEmail@asn-global.com",
+    "enabled": true
+  },
+  {
+    "uuid": "86244582-7085-4d4e-a2e7-a638f08ef7de",
+    "creationDate": "2022-03-09 08:13:25",
+    "firstname": "Valerio",
+    "surname": "Delgado",
+    "email": "valerio.delgado+aygdev@asn-global.com",
+    "status": "Onboarded",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "role": {
+      "uuid": "92f3681d-c276-4183-a584-ad08b95691da"
+    },
+    "language": "ES",
+    "username": "valerio.delgado+aygdev@asn-global.com",
+    "enabled": true
+  },
+  {
+    "uuid": "cfc75fa3-0492-45bb-a100-69916fe8f0e6",
+    "creationDate": "2022-03-09 08:13:25",
+    "firstname": "Sofia",
+    "surname": "Ceño",
+    "email": "sofia.ceno+aygdev@asn-global.com",
+    "status": "Onboarded",
+    "organizationUuid": "617b9249-e32f-4bcc-ab2d-0e4e91559160",
+    "creatorUserUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "role": {
+      "uuid": "92f3681d-c276-4183-a584-ad08b95691da"
+    },
+    "language": "ES",
+    "username": "sofia.ceno+aygdev@asn-global.com",
+    "enabled": true
+  }
+]

@@ -1,0 +1,4336 @@
+[
+  {
+    "uuid": "7a20f593-afe0-4157-bed1-4537c887439e",
+    "creationDate": "2022-02-04 10:15:32",
+    "displayName": "HSBC Bank plc",
+    "shortName": "HSBC",
+    "technicalName": "hsbc",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "AA-"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa2"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "AA-"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "b4b1ddf6-2d27-424c-87dd-a32240b4c590",
+    "creationDate": "2022-02-04 10:16:17",
+    "displayName": "Leonteq Securities AG",
+    "shortName": "Leonteq",
+    "technicalName": "leonteq",
+    "enabled": false,
+    "rating": {
+      "agencies": []
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "f9e91248-b637-48b8-8ea8-65168045187a",
+    "creationDate": "2022-02-04 10:16:48",
+    "displayName": "Nomura International Funding PTE",
+    "shortName": "Nomura",
+    "technicalName": "nomura",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A3"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "549d5afd-9260-4bc9-9487-c187db7f709e",
+    "creationDate": "2022-02-04 10:12:42",
+    "displayName": "BGC",
+    "shortName": "BGC",
+    "technicalName": "bgc",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "AA-"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa3"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "de325d69-39f1-46e9-9722-26762320aff0",
+    "creationDate": "2022-02-04 10:14:09",
+    "displayName": "Credit Suisse Internation",
+    "shortName": "Credit Suisse",
+    "technicalName": "creditsuisse",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "e6dcaf92-859e-4475-9d53-fe798da6ecce",
+    "creationDate": "2022-02-04 10:14:45",
+    "displayName": "EFG International AG",
+    "shortName": "EFG",
+    "technicalName": "efg",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A3"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "8714bdb8-49f1-454d-96d2-88d0faa3f461",
+    "creationDate": "2022-02-04 10:17:47",
+    "displayName": "Raiffeisen Switzerland Cooperative",
+    "shortName": "Raiffeisen",
+    "technicalName": "raiffeisen",
+    "enabled": false,
+    "rating": {
+      "agencies": [
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A3"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        }
+      ]
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "98f0489e-7953-45c6-a822-8b3eadc274cf",
+    "creationDate": "2022-02-28 14:27:37",
+    "displayName": "BNP Paribas",
+    "shortName": "BNP",
+    "technicalName": "bnp",
+    "enabled": false,
+    "rating": {
+      "agencies": []
+    },
+    "capabilities": {
+      "quote": {
+        "indicativeScheduleTime": "undefined:undefined-undefined:undefined"
+      },
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ]
+        }
+      ]
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "54f0b149-da8e-4846-969e-fcb3216a74a9",
+    "creationDate": "2021-11-12 08:46:25",
+    "technicalName": "societe",
+    "displayName": "Société Générale",
+    "shortName": "SG",
+    "logo": "societe.png",
+    "connectionType": "connection.type.api",
+    "program": "MTN cssf eng",
+    "creditDefaultSwap": 39.7,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.sp",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 5,
+        "indicativeScheduleTime": "23:59-00:00"
+      },
+      "trade": {
+        "toTradeScheduleTime": "23:59-00:00"
+      },
+      "notional": {
+        "minEur": 100000,
+        "maxEur": 2000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 2,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 6,
+          "minTenorMonths": 2,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 1640,
+          "exchangesTickerLastNames": {
+            "XETRA": "GY",
+            "BMEX": "SQ"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Phoenix",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:37:52.226+01:00"
+            },
+            {
+              "uuid": "51d6eb70-1d11-5e09-ab4c-d632496e51d8",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.799+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.800+01:00"
+            },
+            {
+              "uuid": "29c9db21-eee4-50d7-bcdf-1d72fab3f0f9",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.800+01:00"
+            },
+            {
+              "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.800+01:00"
+            },
+            {
+              "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "a59a1a0c-e01e-513e-8c5b-9ec116de3628",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "a6a49419-e51a-597d-b022-3cb57dd48a0c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "69a9877e-7afd-50ae-9760-2ea023fd151e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "ca1a967c-1289-5ba2-863b-f5c11fd16029",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "8d927608-a515-5d28-873b-fb2c8d0f12b5",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "9e10eaf9-a6dd-5f30-8b17-eca1b36dc2fe",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-13T13:12:20.617+01:00"
+            },
+            {
+              "uuid": "b044be75-3941-50d6-bac0-8843e1b7a444",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-13T13:19:25.758+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Phoenix Plus",
+          "productsCatalog": [
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:39:41.867+01:00"
+            },
+            {
+              "uuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "a76d22c0-ffc0-5722-ba3d-6e822037d150",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.801+01:00"
+            },
+            {
+              "uuid": "ca3be8d7-a1c4-5b06-a666-cbe419b00636",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "1cc4ddde-799e-5fa0-ac07-eca11666ba83",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "9927039f-c949-50b9-b73b-c19990d95dea",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "36fbcd69-ca03-53ba-bb89-7cb151b72993",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Phoenix with Guaranteed Coupons",
+          "productsCatalog": [
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "38e2eb48-1ea7-537b-b7f5-0c119db36f1a",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "f837faf4-b45d-5d1b-90f1-c0ad806b6e0e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "d82355ed-4f7f-5a73-b86a-4426578b89a2",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Barrier Reverse Convertible",
+          "productsCatalog": [
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Outperfromance Certificate",
+          "productsCatalog": [
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Bonus Certificate",
+          "productsCatalog": [
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Capped Bonus Certificate",
+          "productsCatalog": [
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Call/Put",
+          "productsCatalog": [
+            {
+              "uuid": "ce8370c7-0cf6-5b00-adee-9cded1d02b08",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "90621324-0b88-5aae-9565-4461cfee636f",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "4ab5dab2-894b-56f4-abda-15e1740d5c83",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            },
+            {
+              "uuid": "222828dd-4644-5751-9bee-1a95cc1171af",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-15T17:58:14.802+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "solverFor": [
+            "multipricer.capLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 10
+      },
+      "specialCapabilities": [
+        "issuers.specialCapabilities.barrierOneStar",
+        "issuers.specialCapabilities.strikeMin"
+      ]
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.valoren",
+      "issuers.codes.ric",
+      "issuers.codes.bloomberg"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.trade",
+      "hours": 23
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "languages": [
+          "DE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "IT",
+          "PT",
+          "SE"
+        ],
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "valuation": {
+      "sources": [
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters"
+      ]
+    },
+    "enabled": true,
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "5e72463a-d8ba-43a8-bec3-818d0ffc4050",
+    "creationDate": "2021-11-12 08:46:32",
+    "technicalName": "morgan-plc",
+    "displayName": "Morgan Stanley PLC",
+    "shortName": "MS PLC",
+    "logo": "morgan.png",
+    "connectionType": "connection.type.email",
+    "program": "Morgan Stanley & Co International plc",
+    "creditDefaultSwap": 0,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa3"
+        },
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-08-31T22:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 5,
+        "indicativeScheduleTime": "23:59-24:00"
+      },
+      "notional": {
+        "minEur": 225000,
+        "maxEur": 20000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 1640
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Phoenix Autocall",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.745+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "51d6eb70-1d11-5e09-ab4c-d632496e51d8",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "2ea87ed7-240e-557c-9102-6366c25cd42d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "d907b802-2312-5243-892b-9e98a687e0f4",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.750+01:00"
+            },
+            {
+              "uuid": "38e2eb48-1ea7-537b-b7f5-0c119db36f1a",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.751+01:00"
+            },
+            {
+              "uuid": "efb30af6-2603-584d-86b0-c79a9dd7cecd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.751+01:00"
+            },
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:13:21.082+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:13:21.083+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:13:21.083+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Booster",
+          "productsCatalog": [
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.751+01:00"
+            },
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.751+01:00"
+            },
+            {
+              "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T12:11:50.751+01:00"
+            },
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.452+01:00"
+            },
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.453+01:00"
+            },
+            {
+              "uuid": "2c450c29-c54b-54e7-ba96-6ed405bf4318",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.454+01:00"
+            },
+            {
+              "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.454+01:00"
+            },
+            {
+              "uuid": "ce8370c7-0cf6-5b00-adee-9cded1d02b08",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.454+01:00"
+            },
+            {
+              "uuid": "90621324-0b88-5aae-9565-4461cfee636f",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:38:05.454+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.capLevelPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "solverFor": [
+            "multipricer.capLevelPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.common",
+      "issuers.codes.wkn",
+      "issuers.codes.swx",
+      "issuers.codes.valoren",
+      "issuers.codes.ric",
+      "issuers.codes.bloomberg"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.postTrade",
+      "hours": 23
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "issuerEmail": "kid@email.com",
+        "languages": [
+          "DE",
+          "CZ",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "GB",
+          "IT",
+          "PL",
+          "PT",
+          "RU",
+          "SE"
+        ],
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.manual",
+        "observationsBarrier": {
+          "issuerEmail": "fixing@email.com",
+          "processType": "general.manual",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [
+      {
+        "productsCatalogGroup": "product.group.autocallPhoenixCallable",
+        "clientTypes": [
+          "client.type.retail"
+        ]
+      },
+      {
+        "productsCatalogGroup": "product.group.trackerOutperformerBonusBooster",
+        "clientTypes": [
+          "client.type.retail"
+        ]
+      }
+    ],
+    "valuation": {
+      "issuerEmail": "secmkt_emea@morganstanley.com",
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters",
+        "valuation.agencies.excel"
+      ]
+    },
+    "enabled": true,
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "b6621ec4-e294-4e8b-ab5e-e46b4459ee34",
+    "creationDate": "2021-11-17 12:06:16",
+    "displayName": "Morgan Stanley BV",
+    "shortName": "MS BV",
+    "technicalName": "morgan-bv",
+    "connectionType": "connection.type.email",
+    "program": "Morgan Stanley B.V.",
+    "creditDefaultSwap": 0,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "BBB+"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 5,
+        "indicativeScheduleTime": "23:59-24:00"
+      },
+      "notional": {
+        "minEur": 225000,
+        "maxEur": 20000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 1640
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Phoenix Autocall",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "51d6eb70-1d11-5e09-ab4c-d632496e51d8",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "2ea87ed7-240e-557c-9102-6366c25cd42d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "d907b802-2312-5243-892b-9e98a687e0f4",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.535+01:00"
+            },
+            {
+              "uuid": "38e2eb48-1ea7-537b-b7f5-0c119db36f1a",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "efb30af6-2603-584d-86b0-c79a9dd7cecd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Booster",
+          "productsCatalog": [
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "ce8370c7-0cf6-5b00-adee-9cded1d02b08",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "90621324-0b88-5aae-9565-4461cfee636f",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-17T13:06:16.536+01:00"
+            },
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:36:59.951+01:00"
+            },
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:36:59.955+01:00"
+            },
+            {
+              "uuid": "2c450c29-c54b-54e7-ba96-6ed405bf4318",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:36:59.955+01:00"
+            },
+            {
+              "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-12-14T11:36:59.955+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.capLevelPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "solverFor": [
+            "multipricer.capLevelPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "languages": [
+          "DE",
+          "CZ",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GR",
+          "GB",
+          "IT",
+          "PL",
+          "PT",
+          "RU",
+          "SE"
+        ],
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.manual",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.email"
+        }
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.common",
+      "issuers.codes.wkn",
+      "issuers.codes.swx",
+      "issuers.codes.valoren",
+      "issuers.codes.ric",
+      "issuers.codes.bloomberg"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.postTrade",
+      "hours": 23
+    },
+    "valuation": {
+      "issuerEmail": "secmkt_emea@morganstanley.com",
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters"
+      ]
+    },
+    "enabled": true,
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "f1a8f2df-c348-418d-a1cc-10a23e6c49fa",
+    "creationDate": "2021-11-15 11:51:08",
+    "displayName": "Banco Bilbao Vizcaya Argentaria",
+    "shortName": "BBVA",
+    "technicalName": "bbva",
+    "connectionType": "connection.type.email",
+    "program": "BBVA program",
+    "creditDefaultSwap": 38.5,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A-"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A-"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A3"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 20,
+        "indicativeScheduleTime": "04:00-24:00"
+      },
+      "trade": {
+        "toTradeScheduleTime": "23:59-24:00"
+      },
+      "notional": {
+        "minEur": 200000,
+        "maxEur": 3000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "SEK",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 6,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 49,
+          "minRiskStrikePct": 49,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 6,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 49,
+          "minRiskStrikePct": 49,
+          "coverageAmount": 1640,
+          "exchangesTickerLastNames": {
+            "XNYS": "UN",
+            "ARCX": "UP",
+            "XASE": "UA",
+            "BATS": "UF",
+            "XNMS": "UQ",
+            "XNCM": "UR",
+            "OOTC": "UV",
+            "XNGS": "UW",
+            "XETRA": "GY",
+            "BMEX": "SQ",
+            "XSWX": "SW"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocall Phoenix",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.874+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.874+01:00"
+            },
+            {
+              "uuid": "51d6eb70-1d11-5e09-ab4c-d632496e51d8",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.874+01:00"
+            },
+            {
+              "uuid": "b64613e7-87ab-57fc-a5c1-8be6292b74ff",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.874+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "29c9db21-eee4-50d7-bcdf-1d72fab3f0f9",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "fdbd7ceb-d0ac-5ee7-98ec-43e48f7a36cc",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "85b42fcf-ff0f-5da9-909e-128f423b6c4e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "2ea87ed7-240e-557c-9102-6366c25cd42d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "d907b802-2312-5243-892b-9e98a687e0f4",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "38e2eb48-1ea7-537b-b7f5-0c119db36f1a",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "efb30af6-2603-584d-86b0-c79a9dd7cecd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Booster",
+          "productsCatalog": [
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "2c450c29-c54b-54e7-ba96-6ed405bf4318",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Reverse Convertible",
+          "productsCatalog": [
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.875+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.876+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:31:09.876+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 60
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 60
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.email"
+      },
+      "kid": {
+        "issuerEmail": "kid@email.com",
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.email"
+        }
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.valoren"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.trade",
+      "hours": 1
+    },
+    "billing": {
+      "issuerEmail": "structured-solutions.group@bbva.com"
+    },
+    "valuation": {
+      "issuerEmail": "structured-solutions.group@bbva.com",
+      "issuerPhone": "+44 7408 830693, +44 20 7397 6103, +44 7408 961626,  +44 20 7397 6103",
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters"
+      ]
+    },
+    "settlement": {
+      "clearingHouses": [
+        {
+          "name": "clearingHouses.clearstream",
+          "code": "14923"
+        },
+        {
+          "name": "clearingHouses.euroclear",
+          "code": "43352"
+        }
+      ],
+      "issuerEmail": "structured-solutions.group@bbva.com",
+      "issuerPhone": "+44 7408 830693, +44 20 7397 6103, +44 7408 961626,  +44 20 7397 6103"
+    },
+    "targetMarket": [],
+    "enabled": true
+  },
+  {
+    "uuid": "ee5fdbb6-b110-4326-9858-a3a7c86fb19d",
+    "creationDate": "2022-01-03 10:30:16",
+    "displayName": "UBS Europe SE",
+    "shortName": "UBS",
+    "technicalName": "ubs",
+    "enabled": true,
+    "connectionType": "connection.type.email",
+    "program": "EMTM",
+    "creditDefaultSwap": 37.25,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "AA-"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa3"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 15,
+        "indicativeScheduleTime": "08:00-18:00"
+      },
+      "trade": {
+        "toTradeScheduleTime": "23:59-24:00"
+      },
+      "notional": {
+        "minEur": 300000,
+        "maxEur": 40000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.reutersCode",
+        "indexes": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 3,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 3,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 1640
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Fixed Coupon Autocall",
+          "productsCatalog": [
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.546+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Autocall Step Up",
+          "productsCatalog": [
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.550+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Phoenix",
+          "productsCatalog": [
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.550+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.550+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Reserve",
+          "productsCatalog": [
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Speeder",
+          "productsCatalog": [
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Perles",
+          "productsCatalog": [
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            },
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T11:30:15.551+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 60
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 60
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "issuerEmail": "diego.fernandez-sainz@ubs.com",
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "issuerEmail": "diego.fernandez-sainz@ubs.com",
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.manual",
+        "observationsBarrier": {
+          "issuerEmail": "diego.fernandez-sainz@ubs.com",
+          "processType": "general.manual",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.common",
+      "issuers.codes.valoren"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.postTrade",
+      "hours": 24
+    },
+    "targetMarket": [
+      {
+        "productsCatalogGroup": "product.group.autocallPhoenixCallable",
+        "clientTypes": [
+          "client.type.retail",
+          "client.type.professional",
+          "client.type.eligible"
+        ]
+      },
+      {
+        "productsCatalogGroup": "product.group.callput",
+        "clientTypes": [
+          "client.type.retail",
+          "client.type.professional",
+          "client.type.eligible"
+        ]
+      },
+      {
+        "productsCatalogGroup": "product.group.trackerOutperformerBonusBooster",
+        "clientTypes": [
+          "client.type.retail",
+          "client.type.professional",
+          "client.type.eligible"
+        ]
+      },
+      {
+        "productsCatalogGroup": "product.group.twinwin",
+        "clientTypes": [
+          "client.type.retail",
+          "client.type.professional",
+          "client.type.eligible"
+        ]
+      }
+    ],
+    "billing": {
+      "issuerEmail": "diego.fernandez-sainz@ubs.com"
+    },
+    "valuation": {
+      "issuerEmail": "diego.fernandez-sainz@ubs.com",
+      "issuerPhone": "0034 914369024",
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.reuters"
+      ]
+    },
+    "settlement": {
+      "clearingHouses": [],
+      "issuerEmail": "diego.fernandez-sainz@ubs.com",
+      "issuerPhone": "0034 914369024"
+    }
+  },
+  {
+    "uuid": "49033a50-bd4a-417b-97cb-4a31bd828692",
+    "creationDate": "2022-01-03 18:00:44",
+    "displayName": "Credit Agricole",
+    "shortName": "CA",
+    "technicalName": "creditagricole",
+    "enabled": true,
+    "connectionType": "connection.type.email",
+    "program": "EMTN",
+    "creditDefaultSwap": 32.5,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A+"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa3"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "A+"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 15,
+        "indicativeScheduleTime": "08:00-18:00"
+      },
+      "notional": {
+        "minEur": 500000,
+        "maxEur": 7000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 8,
+          "minTenorMonths": 3,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 5,
+          "minTenorMonths": 3,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 50,
+          "coverageAmount": 1640,
+          "exchangesTickerLastNames": {
+            "XNMS": "UQ",
+            "BMEX": "SQ"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocallable",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T19:00:43.060+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T19:00:43.065+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T19:00:43.065+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-03T19:00:43.065+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-01-12T14:39:38.885+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.continous"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "solverFor": [
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "frequencies": [
+            "1m",
+            "2m",
+            "3m",
+            "6m",
+            "12m"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.couponPct",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.riskStrikePct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.manual",
+        "observationsBarrier": {
+          "processType": "general.manual",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "ff1a789d-17f4-4b49-9980-8ef109d5ffa9",
+    "creationDate": "2021-11-12 08:46:19",
+    "technicalName": "marex",
+    "displayName": "Marex",
+    "shortName": "MX",
+    "logo": "marex.png",
+    "connectionType": "connection.type.email",
+    "program": "xxxx",
+    "creditDefaultSwap": 0,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.sp",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 5,
+        "indicativeScheduleTime": "23:59-00:00"
+      },
+      "notional": {
+        "minEur": 1,
+        "maxEur": 20000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 49,
+          "minRiskStrikePct": 49,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 10,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 49,
+          "minRiskStrikePct": 49,
+          "coverageAmount": 1640,
+          "exchangesTickerLastNames": {
+            "XNAS": "US",
+            "XNYS": "US",
+            "XCBO": "US",
+            "ARCX": "US",
+            "XASE": "US",
+            "BATS": "US",
+            "XNMS": "US",
+            "XNCM": "US",
+            "OOTC": "US",
+            "XNGS": "US",
+            "XETRA": "GY",
+            "BMEX": "SM"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocallable & BRC",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.148+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.149+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.149+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.150+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.150+01:00"
+            },
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.150+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.150+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T17:06:45.150+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 75,
+          "solverFor": [
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 75,
+          "solverFor": [
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.riskStrikePct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 6
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.common",
+      "issuers.codes.wkn",
+      "issuers.codes.swx",
+      "issuers.codes.valoren",
+      "issuers.codes.ric",
+      "issuers.codes.bloomberg"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.postTrade",
+      "hours": 23
+    },
+    "documentation": {
+      "termsheet": {
+        "issuerEmail": "termsheet@email.com",
+        "processType": "general.manual",
+        "source": "connection.type.email"
+      },
+      "kid": {
+        "issuerEmail": "kid@email.com",
+        "languages": [
+          "ES",
+          "DE",
+          "FR",
+          "GB"
+        ],
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.email"
+        }
+      }
+    },
+    "targetMarket": [],
+    "valuation": {
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters",
+        "valuation.agencies.excel"
+      ]
+    },
+    "enabled": true,
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "7c86ca1e-8307-4375-b1d8-740280bae6ff",
+    "creationDate": "2021-11-12 08:46:07",
+    "technicalName": "barclays",
+    "displayName": "Barclays",
+    "shortName": "BARCLAYS",
+    "logo": "barclays.png",
+    "connectionType": "connection.type.api",
+    "program": "Barclays Bank PLC",
+    "creditDefaultSwap": 42.5,
+    "rating": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.sp",
+          "value": "A"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.fitch",
+          "value": "A"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2021-12-12T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 5,
+        "indicativeScheduleTime": "00:00-23:59"
+      },
+      "trade": {
+        "toTradeScheduleTime": "09:00-22:00"
+      },
+      "notional": {
+        "minEur": 50000,
+        "maxEur": 3000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.reutersCode",
+        "indexes": {
+          "maxTenorYears": 6,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 60,
+          "coverageAmount": 64
+        },
+        "stocks": {
+          "maxTenorYears": 3,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 60,
+          "coverageAmount": 1640
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocallable",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:14:33.403+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:15:52.293+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:15:52.294+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:15:52.294+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:15:52.294+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Reverse Convertible Note",
+          "productsCatalog": [
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:14:33.408+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:16:27.848+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2021-11-16T16:16:27.848+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": false,
+          "minAutocallBarrierPct": 70,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 70,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.live",
+            "multipricer.minimun"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 3
+      }
+    },
+    "supportedCodes": [
+      "issuers.codes.isin",
+      "issuers.codes.common",
+      "issuers.codes.wkn",
+      "issuers.codes.swx",
+      "issuers.codes.valoren",
+      "issuers.codes.ric",
+      "issuers.codes.bloomberg"
+    ],
+    "tradeIsinReception": {
+      "at": "trade.lifecycle.postTrade",
+      "hours": 23
+    },
+    "documentation": {
+      "termsheet": {
+        "issuerEmail": "termsheet@email.com",
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "issuerEmail": "kid@email.com",
+        "languages": [
+          "DE",
+          "CZ",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "IT",
+          "PL",
+          "PT",
+          "SE"
+        ],
+        "processType": "general.manual",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "valuation": {
+      "sources": [
+        "valuation.agencies.bloomberg",
+        "valuation.agencies.telekurs",
+        "valuation.agencies.reuters",
+        "valuation.agencies.excel"
+      ]
+    },
+    "enabled": true,
+    "settlement": {
+      "clearingHouses": []
+    }
+  },
+  {
+    "uuid": "484dcd1a-866b-42a1-b5b6-2e8e4895655a",
+    "creationDate": "2022-02-24 11:19:45",
+    "displayName": "Julius Baer",
+    "shortName": "JB",
+    "technicalName": "juliusbaer",
+    "enabled": true,
+    "connectionType": "connection.type.email",
+    "program": "EMTN",
+    "rating": {
+      "lastRevisionTimestamp": "2022-02-23T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "AA"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "A1"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "AA"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2022-02-22T23:00:00.000Z",
+      "quote": {
+        "indicativeScheduleTime": "00:00-23:59"
+      },
+      "notional": {
+        "minEur": 100000,
+        "maxEur": 10000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 2,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 55
+        },
+        "stocks": {
+          "maxTenorYears": 2,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 55,
+          "exchangesTickerLastNames": {
+            "XCBO": "US",
+            "XNYS": "US",
+            "ARCX": "US",
+            "XNCM": "US",
+            "XNGS": "US",
+            "XETRA": "GR",
+            "BMEX": "SM",
+            "XSWX": "SW",
+            "XTKS": "JP",
+            "XTSE": "CN",
+            "XASX": "AU",
+            "XKRX": "KS",
+            "XASE": "US",
+            "XNAS": "US",
+            "XNMS": "US",
+            "XKOS": "KS"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocall +",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Reverse",
+          "productsCatalog": [
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Callable",
+          "productsCatalog": [
+            {
+              "uuid": "a59a1a0c-e01e-513e-8c5b-9ec116de3628",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:19:44.498+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 70,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 50,
+          "solverFor": [
+            "multipricer.autocallBarrierPct"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous",
+            "multipricer.not"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.riskBarrierLevelPct",
+            "multipricer.callParticipationPct",
+            "multipricer.capLevelPct",
+            "multipricer.bonus"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "riskBarrierTypes": [
+            "multipricer.american"
+          ],
+          "frequencies": [
+            "2m"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 4
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    },
+    "creditDefaultSwap": 37
+  },
+  {
+    "uuid": "e482566e-aaaa-4f87-8583-c04c508029cd",
+    "creationDate": "2022-02-24 11:31:28",
+    "displayName": "Goldman Sachs",
+    "shortName": "GS",
+    "technicalName": "goldmansachs",
+    "enabled": true,
+    "connectionType": "connection.type.email",
+    "rating": {
+      "lastRevisionTimestamp": "2022-02-23T23:00:00.000Z",
+      "agencies": [
+        {
+          "name": "rating.agencies.fitch",
+          "value": "AA+"
+        },
+        {
+          "name": "rating.agencies.moodys",
+          "value": "Aa1"
+        },
+        {
+          "name": "rating.agencies.sp",
+          "value": "AA"
+        }
+      ]
+    },
+    "capabilities": {
+      "lastRevisionTimestamp": "2022-02-22T23:00:00.000Z",
+      "quote": {
+        "indicativeExpirationHours": 20,
+        "indicativeScheduleTime": "00:00-23:59"
+      },
+      "notional": {
+        "minEur": 100000,
+        "maxEur": 10000000,
+        "currencies": [
+          "EUR",
+          "USD",
+          "CHF",
+          "NOK",
+          "SEK",
+          "HKD",
+          "JPY",
+          "GBP"
+        ]
+      },
+      "underlyings": {
+        "tickerType": "underlying.tickerType.bloombergCode",
+        "indexes": {
+          "maxTenorYears": 5,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 55
+        },
+        "stocks": {
+          "maxTenorYears": 5,
+          "minTenorMonths": 1,
+          "minRiskBarrierLevelPct": 50,
+          "minRiskStrikePct": 55,
+          "exchangesTickerLastNames": {
+            "XCBO": "US",
+            "ARCX": "US",
+            "XNYS": "US",
+            "XASE": "US",
+            "XNAS": "US",
+            "BMEX": "SM",
+            "XNMS": "US",
+            "XNCM": "US",
+            "XNGS": "US",
+            "XETRA": "GR",
+            "XSWX": "SW",
+            "XTKS": "JP",
+            "XTSE": "CN",
+            "XASX": "AU",
+            "XKRX": "KS",
+            "XKOS": "KS"
+          }
+        }
+      },
+      "products": [
+        {
+          "issuerName": "Autocallable",
+          "productsCatalog": [
+            {
+              "uuid": "c13f0425-2d8a-5fb3-acf0-5929d453f762",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.045+01:00"
+            },
+            {
+              "uuid": "1ac2cb9f-89ba-519f-832d-dd5cf1ad0528",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            },
+            {
+              "uuid": "395aa501-8a91-5e5f-babb-0a987be3da35",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            },
+            {
+              "uuid": "17aec8f8-834b-55ce-af0d-8d1d3c2a233d",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            },
+            {
+              "uuid": "3c30b5a1-1d43-5371-a191-7ae72c8c1cd1",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "Reverse",
+          "productsCatalog": [
+            {
+              "uuid": "c3a8f9a2-4428-5e50-b9eb-af0dc16d498e",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            },
+            {
+              "uuid": "f2593c56-c564-5e54-8e73-e8219a59a118",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            },
+            {
+              "uuid": "c1eb01b8-89cc-5b16-a873-fc84c0e5b800",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-02-24T12:31:28.047+01:00"
+            }
+          ]
+        },
+        {
+          "issuerName": "ParticipationAtRisk",
+          "productsCatalog": [
+            {
+              "uuid": "3a87aaaa-5f7d-54df-9fe5-addd10292a7c",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.996+01:00"
+            },
+            {
+              "uuid": "5cadb13c-cbdb-51c8-bfaa-ab650cb058c6",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.997+01:00"
+            },
+            {
+              "uuid": "370f8467-4530-5bf6-9b1d-d8782fba44e0",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.997+01:00"
+            },
+            {
+              "uuid": "aab14671-7ab3-54fa-bf3b-51109b8af0dd",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.997+01:00"
+            },
+            {
+              "uuid": "7606f4dd-a0e4-530a-a834-adfac13e5c0b",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.997+01:00"
+            },
+            {
+              "uuid": "fd45cd2a-fc91-592e-8d16-f1552741b5ce",
+              "healthy": false,
+              "lastRevisionTimestamp": "2022-03-07T11:05:13.997+01:00"
+            }
+          ]
+        }
+      ],
+      "productsConstraints": [
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.autocall",
+            "product.subtype.autocallrc",
+            "product.subtype.callable"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 50
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.phoenix"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ],
+          "decreasingTrigger": true,
+          "minAutocallBarrierPct": 50
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.bonusNotes"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.tracker",
+            "product.subtype.outperformer"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.booster"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "minCouponRiskBarrierType": [
+            "multipricer.american",
+            "multipricer.european",
+            "multipricer.continous"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.reverseConvertible"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.equally"
+          ],
+          "frequencies": [
+            "2m"
+          ]
+        },
+        {
+          "productCatalogSubtypes": [
+            "product.subtype.call",
+            "product.subtype.put"
+          ],
+          "strikeFixingTypes": [
+            "multipricer.todayAtClose",
+            "multipricer.issueDate",
+            "multipricer.live",
+            "multipricer.minimun",
+            "multipricer.custom"
+          ],
+          "basketTypes": [
+            "multipricer.worst",
+            "multipricer.equally"
+          ],
+          "solverFor": [
+            "multipricer.reoffer",
+            "multipricer.upfront",
+            "multipricer.callLevelCallPut",
+            "multipricer.capLevelCallPut",
+            "multipricer.putLevelCallPut",
+            "multipricer.floorLevelCallPut"
+          ]
+        }
+      ],
+      "commonConstraints": {
+        "basketAmount": 5
+      }
+    },
+    "documentation": {
+      "termsheet": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "kid": {
+        "processType": "general.auto",
+        "source": "connection.type.api"
+      },
+      "fixings": {
+        "strikeBarrierLevel": "general.termsheet",
+        "observationsBarrier": {
+          "processType": "general.auto",
+          "source": "connection.type.api"
+        }
+      }
+    },
+    "targetMarket": [],
+    "settlement": {
+      "clearingHouses": []
+    },
+    "creditDefaultSwap": 20
+  }
+]

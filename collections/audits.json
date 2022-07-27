@@ -1,0 +1,2950 @@
+[
+  {
+    "uuid": "db49844a-14e5-44c6-960c-0b749fa0128c",
+    "creationDate": "2022-01-12 19:36:50",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOnt9"
+    }
+  },
+  {
+    "uuid": "9e4adad7-8ebf-4ac9-9577-3838ef72cc05",
+    "creationDate": "2022-01-13 14:18:10",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOnVuZGVmaW5lZA=="
+    }
+  },
+  {
+    "uuid": "6a75278e-9685-4205-9c34-20e20e9dcfcc",
+    "creationDate": "2022-01-13 14:25:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOnVuZGVmaW5lZA=="
+    }
+  },
+  {
+    "uuid": "4f43f14a-3a8b-48a3-b7db-13dab6cd5b9c",
+    "creationDate": "2022-01-13 14:28:14",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOnVuZGVmaW5lZA=="
+    }
+  },
+  {
+    "uuid": "1b2ab48c-7e14-4158-b988-2cba7007686f",
+    "creationDate": "2022-01-13 14:38:27",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOnVuZGVmaW5lZA=="
+    }
+  },
+  {
+    "uuid": "81b129a2-b6a8-46b3-a333-f49ddf8a3211",
+    "creationDate": "2022-01-31 17:21:28",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "0adde1c2-4616-46af-a6f6-0f0b5a292112",
+    "creationDate": "2022-01-13 14:39:06",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOkVycm9yOiBUcmFkZSB3YXMgbm90IGluc2VydGVkCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIucHJvamVjdCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL21haW4uanM6MzA5Njo0MykKICAgIGF0IE1lcmdlTWFwU3Vic2NyaWJlci5fdHJ5TmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MzE4OTQ6MjcpCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIuX25leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxODg0OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDI3MDM1OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5vdGlmeU5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxOTIwOjI2KQogICAgYXQgU2ltcGxlSW5uZXJTdWJzY3JpYmVyLl9uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQyNjoyMSkKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzAzNToxOCkKICAgIGF0IENhdGNoU3Vic2NyaWJlci5ub3RpZnlOZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQ1ODoyNikKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5fbmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0Mjc0MjY6MjEpCiAgICBhdCBTaW1wbGVJbm5lclN1YnNjcmliZXIubmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MjcwMzU6MTgp"
+    }
+  },
+  {
+    "uuid": "dce2a5fd-dc8e-408f-b02d-81481c86d751",
+    "creationDate": "2022-01-13 14:43:28",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOkVycm9yOiBUcmFkZSB3YXMgbm90IGluc2VydGVkCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIucHJvamVjdCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL21haW4uanM6MzA5Njo0MykKICAgIGF0IE1lcmdlTWFwU3Vic2NyaWJlci5fdHJ5TmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MzE4OTQ6MjcpCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIuX25leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxODg0OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDI3MDM1OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5vdGlmeU5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxOTIwOjI2KQogICAgYXQgU2ltcGxlSW5uZXJTdWJzY3JpYmVyLl9uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQyNjoyMSkKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzAzNToxOCkKICAgIGF0IENhdGNoU3Vic2NyaWJlci5ub3RpZnlOZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQ1ODoyNikKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5fbmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0Mjc0MjY6MjEpCiAgICBhdCBTaW1wbGVJbm5lclN1YnNjcmliZXIubmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MjcwMzU6MTgp"
+    }
+  },
+  {
+    "uuid": "51402a5a-3594-4e0c-87b7-1ae16960debe",
+    "creationDate": "2022-01-13 14:46:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOkVycm9yOiBUcmFkZSB3YXMgbm90IGluc2VydGVkCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIucHJvamVjdCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL21haW4uanM6MzA5Njo0MykKICAgIGF0IE1lcmdlTWFwU3Vic2NyaWJlci5fdHJ5TmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MzE4OTQ6MjcpCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIuX25leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxODg0OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDI3MDM1OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5vdGlmeU5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxOTIwOjI2KQogICAgYXQgU2ltcGxlSW5uZXJTdWJzY3JpYmVyLl9uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQyNjoyMSkKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzAzNToxOCkKICAgIGF0IENhdGNoU3Vic2NyaWJlci5ub3RpZnlOZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQ1ODoyNikKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5fbmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0Mjc0MjY6MjEpCiAgICBhdCBTaW1wbGVJbm5lclN1YnNjcmliZXIubmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MjcwMzU6MTgp"
+    }
+  },
+  {
+    "uuid": "ee386e71-e7f9-4ba8-a7b8-2978806f4da6",
+    "creationDate": "2022-01-13 15:03:26",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "fa92ddf9-bca2-4c95-8be0-1b0ecb6d0286",
+    "creationDate": "2022-01-13 15:05:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "c5065eed-a19b-447b-9730-5b9ee8f47d9c",
+    "creationDate": "2022-01-13 14:58:14",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "RXJyb3IgaW5zZXJ0aW5nIHRyYWRlOkVycm9yOiBUcmFkZSB3YXMgbm90IGluc2VydGVkCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIucHJvamVjdCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL21haW4uanM6MzExNTo0MykKICAgIGF0IE1lcmdlTWFwU3Vic2NyaWJlci5fdHJ5TmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MzE4OTQ6MjcpCiAgICBhdCBNZXJnZU1hcFN1YnNjcmliZXIuX25leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxODg0OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDI3MDM1OjE4KQogICAgYXQgTWVyZ2VNYXBTdWJzY3JpYmVyLm5vdGlmeU5leHQgKGh0dHA6Ly9sb2NhbGhvc3Q6NDIwMC92ZW5kb3IuanM6NDMxOTIwOjI2KQogICAgYXQgU2ltcGxlSW5uZXJTdWJzY3JpYmVyLl9uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQyNjoyMSkKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5uZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzAzNToxOCkKICAgIGF0IENhdGNoU3Vic2NyaWJlci5ub3RpZnlOZXh0IChodHRwOi8vbG9jYWxob3N0OjQyMDAvdmVuZG9yLmpzOjQyNzQ1ODoyNikKICAgIGF0IFNpbXBsZUlubmVyU3Vic2NyaWJlci5fbmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0Mjc0MjY6MjEpCiAgICBhdCBTaW1wbGVJbm5lclN1YnNjcmliZXIubmV4dCAoaHR0cDovL2xvY2FsaG9zdDo0MjAwL3ZlbmRvci5qczo0MjcwMzU6MTgp"
+    }
+  },
+  {
+    "uuid": "0d793fbc-3c84-4c86-be73-138447db211f",
+    "creationDate": "2022-01-13 15:14:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "c5bb3f9a-f451-4c12-b438-78407b4e3dab",
+    "creationDate": "2022-01-13 15:22:07",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:Error: Trade was not inserted\n    at MergeMapSubscriber.project (http://localhost:4200/main.js:3118:43)\n    at MergeMapSubscriber._tryNext (http://localhost:4200/vendor.js:431894:27)\n    at MergeMapSubscriber._next (http://localhost:4200/vendor.js:431884:18)\n    at MergeMapSubscriber.next (http://localhost:4200/vendor.js:427035:18)\n    at MergeMapSubscriber.notifyNext (http://localhost:4200/vendor.js:431920:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:427426:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:427035:18)\n    at CatchSubscriber.notifyNext (http://localhost:4200/vendor.js:427458:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:427426:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:427035:18)"
+    }
+  },
+  {
+    "uuid": "54ee283a-d3aa-42a9-89c4-dec3522e10ac",
+    "creationDate": "2022-01-14 08:51:01",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:Error: Trade was not inserted\n    at p.project (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:4156643)\n    at p._tryNext (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3374675)\n    at p._next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3374593)\n    at p.next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3348186)\n    at p.notifyNext (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3375021)\n    at c._next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3352690)\n    at c.next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3348186)\n    at c.notifyNext (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3352872)\n    at c._next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3352690)\n    at c.next (https://opportal.dev.allstructurednotes.com/main.abb94dd50fb1bd7434a4.js:1:3348186)"
+    }
+  },
+  {
+    "uuid": "5ab0092f-2869-4479-97ae-08c031d14888",
+    "creationDate": "2022-01-21 12:04:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "41e89b09-5183-4ae0-b0dd-ce35bbb1d6c6",
+    "creationDate": "2022-01-21 12:05:13",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "e6fc6914-fa59-4026-a053-8c30cccf23c5",
+    "creationDate": "2022-01-21 12:10:03",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "4661ebcb-39b0-4320-972e-3149746a523f",
+    "creationDate": "2022-01-21 12:10:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "d0829218-ace1-40e8-ab2c-3a22684efa8c",
+    "creationDate": "2022-01-21 16:34:36",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "9f8b9458-7ca8-4c2b-a000-2fdb1f687f6c",
+    "creationDate": "2022-01-21 16:52:00",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "38bd5060-be67-43e5-bf30-5ac67006a1b9",
+    "creationDate": "2022-01-21 16:56:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "166a08aa-940b-4db7-ae01-29ac82312829",
+    "creationDate": "2022-01-21 17:05:19",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "86513ed2-d20a-4b1a-a0f3-fb8224284d18",
+    "creationDate": "2022-01-21 17:09:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "db2b5b11-b494-4476-ab3c-a7447789dab4",
+    "creationDate": "2022-01-21 17:32:32",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a kid for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "1e8b8c0f-bd5e-4a62-95d7-5125f13b5c46",
+    "creationDate": "2022-01-21 18:31:07",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade c3e4c23d-036e-4a60-9e79-985a1a42b5c0"
+    }
+  },
+  {
+    "uuid": "9ad65fcb-c19f-472d-af85-17eff6def1f6",
+    "creationDate": "2022-01-21 18:48:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade d4ff87de-5217-454d-8b1b-d0d92b1db79a"
+    }
+  },
+  {
+    "uuid": "99c733ac-a71d-4a68-ba01-a16a56857711",
+    "creationDate": "2022-01-25 18:33:03",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "20a5215c-86e7-4ba4-bb8d-cb5ff97a58ae",
+    "creationDate": "2022-01-26 09:08:50",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade 34545765-66aa-451c-bec1-560adceaa710"
+    }
+  },
+  {
+    "uuid": "64df88e4-8a86-46f8-8ebc-8040a8749e27",
+    "creationDate": "2022-01-26 09:14:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "WARN",
+      "message": "User 6ea52055-090e-49c6-bdfc-1c45cabbbec0 is downloading a kid for trade 34545765-66aa-451c-bec1-560adceaa710"
+    }
+  },
+  {
+    "uuid": "db88efc4-de0a-4991-a14c-c148273605a1",
+    "creationDate": "2022-01-26 09:14:15",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "WARN",
+      "message": "User 6ea52055-090e-49c6-bdfc-1c45cabbbec0 is downloading a termsheet for trade 34545765-66aa-451c-bec1-560adceaa710"
+    }
+  },
+  {
+    "uuid": "eb06cee0-39ee-4dc8-bacd-a655122a250f",
+    "creationDate": "2022-01-26 09:23:36",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "628d0ce5-aad9-4595-bbe2-643406e30ee2",
+    "creationDate": "2022-01-26 09:23:39",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "01bca176-bf3b-42f4-bc0c-39c1e8380dc1",
+    "creationDate": "2022-01-26 09:23:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a kid for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "058be47b-734d-48a8-9eba-11a97d2ee35e",
+    "creationDate": "2022-01-26 09:24:02",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a kid for trade 5f304964-be8f-4acd-913d-de0f2ffbec54"
+    }
+  },
+  {
+    "uuid": "52df6584-8ec7-44e0-b398-aa3c18e5dbc3",
+    "creationDate": "2022-01-26 09:24:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 93746ef6-7cea-4869-a15a-c698679d06f4"
+    }
+  },
+  {
+    "uuid": "7f01060a-557b-4069-8998-0d6eb8ac281a",
+    "creationDate": "2022-01-26 09:24:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 93746ef6-7cea-4869-a15a-c698679d06f4"
+    }
+  },
+  {
+    "uuid": "9ac8356d-5433-4941-b202-a2c0fe40f6c5",
+    "creationDate": "2022-01-26 14:51:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "ca14b0f4-03db-46a4-b47b-1edbc80a8427",
+    "creationDate": "2022-01-27 08:21:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "2efb0b4e-1dff-456d-944b-aade15138e1b",
+    "creationDate": "2022-01-27 08:23:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "891ee13b-9b03-4ee6-8803-3c263b877e99",
+    "creationDate": "2022-01-27 08:23:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "f8ac9b25-418b-4788-bdf0-53dbac3e1af3",
+    "creationDate": "2022-01-27 08:23:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "e38426b8-4c0c-4a2f-b63c-e7e0040bd2dd",
+    "creationDate": "2022-01-27 08:23:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "81123dde-1aa2-4c3f-8b0b-cf763b1cf075",
+    "creationDate": "2022-01-27 08:24:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 697749ad-0905-4b0d-a2cb-763406181519"
+    }
+  },
+  {
+    "uuid": "2f5f8060-642a-4b60-8f6f-8a817f779a4e",
+    "creationDate": "2022-01-27 08:24:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade bf3b5abd-b665-44c3-9dbe-594e17105392"
+    }
+  },
+  {
+    "uuid": "3cfda70b-710f-4544-a091-7c8497ebdd1f",
+    "creationDate": "2022-01-27 08:25:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 902157fe-ae47-4e0f-bcdf-715772f67853"
+    }
+  },
+  {
+    "uuid": "ab28159f-d84f-494c-a1e1-b478e5138485",
+    "creationDate": "2022-01-27 08:27:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 0205bc4e-a5bc-4b95-bcc9-329c9ed3571e"
+    }
+  },
+  {
+    "uuid": "d42c9e80-261c-44c9-a7f4-245749718ba4",
+    "creationDate": "2022-01-27 08:28:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "WARN",
+      "message": "User bc4410f7-b66d-4d72-802d-de7b21904329 is downloading a termsheet for trade 0205bc4e-a5bc-4b95-bcc9-329c9ed3571e"
+    }
+  },
+  {
+    "uuid": "f8fb4908-50d0-492b-a87e-f153b759db8d",
+    "creationDate": "2022-01-31 16:04:00",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "WARN",
+      "message": "User 6ea52055-090e-49c6-bdfc-1c45cabbbec0 is downloading a termsheet for trade 8e0309f4-a5e2-455d-8b24-50a4364f9f18"
+    }
+  },
+  {
+    "uuid": "8d015240-8fc9-40d5-a682-8da044561084",
+    "creationDate": "2022-01-31 17:24:19",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "d33c4d6c-2186-48b9-8728-6f4bbc1fee06",
+    "creationDate": "2022-01-31 17:25:20",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "36c2e451-e9ce-4f6a-a4c8-1e53401b4649",
+    "creationDate": "2022-01-31 18:22:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:Error: Trade was not inserted\n    at MergeMapSubscriber.project (http://localhost:4200/main.js:4626:43)\n    at MergeMapSubscriber._tryNext (http://localhost:4200/vendor.js:451035:27)\n    at MergeMapSubscriber._next (http://localhost:4200/vendor.js:451025:18)\n    at MergeMapSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at MergeMapSubscriber.notifyNext (http://localhost:4200/vendor.js:451061:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at CatchSubscriber.notifyNext (http://localhost:4200/vendor.js:446606:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)"
+    }
+  },
+  {
+    "uuid": "2c83e3a1-f3f1-4184-9cd5-71ae4e1f6987",
+    "creationDate": "2022-02-02 17:16:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "fde89802-d193-4081-844c-0654481b0e57",
+    "creationDate": "2022-02-02 17:16:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "0a7e71dd-dc2e-48a2-b794-d92cf39baa55",
+    "creationDate": "2022-02-02 17:31:22",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "68cc520a-9c27-4f13-b327-fabcc9a546fb",
+    "creationDate": "2022-02-02 17:31:22",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "8018a2c9-6f39-473e-8b9c-052a53da33d4",
+    "creationDate": "2022-02-10 11:21:22",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuersbarclays"
+    }
+  },
+  {
+    "uuid": "230b628d-e1ca-4afd-ae41-eeceb49f1b0d",
+    "creationDate": "2022-02-10 11:45:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is recalculating price for product:284f097a-03b4-50fd-aa08-46dc58f437d2"
+    }
+  },
+  {
+    "uuid": "a94fb415-016e-48aa-bc0f-06616a3da051",
+    "creationDate": "2022-02-10 11:48:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is recalculating price for product:284f097a-03b4-50fd-aa08-46dc58f437d2"
+    }
+  },
+  {
+    "uuid": "2cd1fd20-d471-4ba2-9792-0ceba4922ccd",
+    "creationDate": "2022-02-01 07:36:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade baa40002-601c-473b-934d-c9f565e79518"
+    }
+  },
+  {
+    "uuid": "1325d95b-b212-4e47-afb9-1e0a78a7e92c",
+    "creationDate": "2022-02-01 07:36:40",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a kid for trade baa40002-601c-473b-934d-c9f565e79518"
+    }
+  },
+  {
+    "uuid": "3db1a154-a0fd-43e7-bf95-f27026cdd41a",
+    "creationDate": "2022-02-01 07:36:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade baa40002-601c-473b-934d-c9f565e79518"
+    }
+  },
+  {
+    "uuid": "0dec480b-e8d9-49c1-9b1f-3b6d6b54a715",
+    "creationDate": "2022-02-01 07:36:51",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade baa40002-601c-473b-934d-c9f565e79518"
+    }
+  },
+  {
+    "uuid": "649d80b4-8c10-4020-b532-9662a9461b8e",
+    "creationDate": "2022-02-01 07:36:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a kid for trade baa40002-601c-473b-934d-c9f565e79518"
+    }
+  },
+  {
+    "uuid": "ea19119e-9e31-4da4-a7b4-50fe1eab5c1c",
+    "creationDate": "2022-02-02 17:34:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "c32dedf6-f304-4796-a07c-958c92f61e4a",
+    "creationDate": "2022-02-02 17:34:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "f25ed35f-b936-4472-a2de-0587478ab660",
+    "creationDate": "2022-02-02 17:47:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "2b5f9e9f-3057-4d2d-ac2b-859f1db7f1d0",
+    "creationDate": "2022-02-02 17:47:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "0e7c801e-4d23-4386-b6c9-ef8fa9e7f90f",
+    "creationDate": "2022-02-02 17:50:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "9844eeff-6db0-4e55-b9ef-0f531386ee05",
+    "creationDate": "2022-02-02 17:50:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "6d7a2705-5962-40f9-bf2f-295c7d1a914f",
+    "creationDate": "2022-02-02 17:51:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "442181ee-3d28-467f-ae60-d49154941da8",
+    "creationDate": "2022-02-02 17:51:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "6391e88d-0032-4aad-8bb3-031044b00ec1",
+    "creationDate": "2022-02-02 18:00:17",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "41435d5e-1bee-4694-9e78-9ef14eff2509",
+    "creationDate": "2022-02-02 18:12:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:Error: Trade was not inserted\n    at MergeMapSubscriber.project (http://localhost:4200/main.js:4782:35)\n    at MergeMapSubscriber._tryNext (http://localhost:4200/vendor.js:451035:27)\n    at MergeMapSubscriber._next (http://localhost:4200/vendor.js:451025:18)\n    at MergeMapSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at MergeMapSubscriber.notifyNext (http://localhost:4200/vendor.js:451061:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at CatchSubscriber.notifyNext (http://localhost:4200/vendor.js:446606:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)"
+    }
+  },
+  {
+    "uuid": "ed57d5d2-71de-4582-bb7e-a99a649b7b37",
+    "creationDate": "2022-02-03 08:32:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:Error: Trade was not inserted\n    at MergeMapSubscriber.project (http://localhost:4200/main.js:4808:35)\n    at MergeMapSubscriber._tryNext (http://localhost:4200/vendor.js:451035:27)\n    at MergeMapSubscriber._next (http://localhost:4200/vendor.js:451025:18)\n    at MergeMapSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at MergeMapSubscriber.notifyNext (http://localhost:4200/vendor.js:451061:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at CatchSubscriber.notifyNext (http://localhost:4200/vendor.js:446606:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)"
+    }
+  },
+  {
+    "uuid": "ce872bfd-0eca-4f85-ba0a-0f5203c8f63e",
+    "creationDate": "2022-02-03 08:47:24",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:Error: Trade was not inserted\n    at MergeMapSubscriber.project (http://localhost:4200/main.js:4810:35)\n    at MergeMapSubscriber._tryNext (http://localhost:4200/vendor.js:451035:27)\n    at MergeMapSubscriber._next (http://localhost:4200/vendor.js:451025:18)\n    at MergeMapSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at MergeMapSubscriber.notifyNext (http://localhost:4200/vendor.js:451061:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)\n    at CatchSubscriber.notifyNext (http://localhost:4200/vendor.js:446606:26)\n    at SimpleInnerSubscriber._next (http://localhost:4200/vendor.js:446574:21)\n    at SimpleInnerSubscriber.next (http://localhost:4200/vendor.js:446183:18)"
+    }
+  },
+  {
+    "uuid": "c271af9c-6d2e-4a7a-abdf-c4736a053c7a",
+    "creationDate": "2022-02-13 19:53:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,bbva,morgan-plc,morgan-bv,marex,ubs,barclays,creditagricole"
+    }
+  },
+  {
+    "uuid": "5e3b7f6e-3ba0-4c6f-94c2-bc6453c71db7",
+    "creationDate": "2022-02-04 10:46:00",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade 80b08163-d67d-4977-98a1-14503273b359"
+    }
+  },
+  {
+    "uuid": "cae365f3-bc97-47b0-a0d0-60048f93a314",
+    "creationDate": "2022-02-04 14:58:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is downloading a termsheet for trade 440de91c-5071-41a5-aab2-b467b2339a10"
+    }
+  },
+  {
+    "uuid": "965ae43d-9380-4bf3-a3e4-b1701625a8ba",
+    "creationDate": "2022-02-05 08:37:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "WARN",
+      "message": "User f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is downloading a termsheet for trade 62dcb904-be50-4dc3-b9b2-38bb8e9c7219"
+    }
+  },
+  {
+    "uuid": "0207984f-1796-46f2-91e6-ba66eb01df65",
+    "creationDate": "2022-02-07 11:44:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:005f2c98-3a25-40c4-9369-67682bdeea58 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "fa0b385d-3403-4404-a81f-ae308f4477e8",
+    "creationDate": "2022-02-07 11:45:37",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:005f2c98-3a25-40c4-9369-67682bdeea58 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "7d755c1e-6431-46d3-a98e-599c9c15f8e0",
+    "creationDate": "2022-02-07 11:49:47",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:005f2c98-3a25-40c4-9369-67682bdeea58 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "88709ce6-0d22-4029-8fae-2264388d676c",
+    "creationDate": "2022-02-07 11:53:43",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:005f2c98-3a25-40c4-9369-67682bdeea58 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "1545f7e1-0934-4874-8fd6-dc2f7b62fc84",
+    "creationDate": "2022-02-07 11:59:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:005f2c98-3a25-40c4-9369-67682bdeea58 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "88dd70ad-6194-4dd4-acbb-fb5510e1c180",
+    "creationDate": "2022-02-15 08:29:03",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:17aec8f8-834b-55ce-af0d-8d1d3c2a233d and for issuers: societe,morgan-plc,morgan-bv,bbva,marex,barclays,creditagricole"
+    }
+  },
+  {
+    "uuid": "3a8fe6b4-71b3-4edf-9d41-317eb32f6258",
+    "creationDate": "2022-02-15 08:32:51",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:5cadb13c-cbdb-51c8-bfaa-ab650cb058c6 and for issuers: societe,morgan-plc,morgan-bv,bbva"
+    }
+  },
+  {
+    "uuid": "4c95ce1b-11ea-4eda-8198-d18cd0864837",
+    "creationDate": "2022-02-15 08:35:41",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:2c450c29-c54b-54e7-ba96-6ed405bf4318 and for issuers: morgan-plc,morgan-bv,bbva"
+    }
+  },
+  {
+    "uuid": "1feb7bc1-587e-4a17-86d1-a90a756a9ba9",
+    "creationDate": "2022-02-15 08:52:55",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:5cadb13c-cbdb-51c8-bfaa-ab650cb058c6 and for issuers: societe,morgan-plc,morgan-bv"
+    }
+  },
+  {
+    "uuid": "d3c3b069-54e7-41a3-aa80-2d90688c2126",
+    "creationDate": "2022-02-15 15:03:24",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: barclays"
+    }
+  },
+  {
+    "uuid": "f6b257b7-0ab7-426b-8917-0ddec32a7a58",
+    "creationDate": "2022-02-15 15:05:36",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: barclays"
+    }
+  },
+  {
+    "uuid": "bad6ead5-8f29-4f26-8495-ef4348845a9a",
+    "creationDate": "2022-02-15 15:07:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: barclays"
+    }
+  },
+  {
+    "uuid": "e4340554-f82a-46ca-884f-465e4107f0e2",
+    "creationDate": "2022-02-15 15:09:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: barclays"
+    }
+  },
+  {
+    "uuid": "d552af59-1477-4bb7-86f9-aabeca0cdfd6",
+    "creationDate": "2022-02-15 17:32:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is recalculating price for product:fa8d510c-c977-59e7-a312-5babf90e0d90"
+    }
+  },
+  {
+    "uuid": "28eef971-c5f5-4f08-84fd-3cb24506b69f",
+    "creationDate": "2022-02-15 17:35:55",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is recalculating price for product:ebeca0f7-1497-538f-9da6-687cad271fbe"
+    }
+  },
+  {
+    "uuid": "d16844f2-0f92-41f9-a2c9-a28968011223",
+    "creationDate": "2022-02-18 10:37:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "bc4410f7-b66d-4d72-802d-de7b21904329",
+    "audit": {
+      "level": "INFO",
+      "message": "User :bc4410f7-b66d-4d72-802d-de7b21904329 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: societe,morgan-plc,morgan-bv,bbva,marex,barclays,creditagricole"
+    }
+  },
+  {
+    "uuid": "85b3a357-c947-4b51-9fb1-a7104fc5afdb",
+    "creationDate": "2022-02-24 11:41:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "a3cf681d-35e5-4275-97bd-51965bc5066f",
+    "creationDate": "2022-02-24 11:42:53",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "3c697ebf-d805-40d2-9038-0d8e61b646a0",
+    "creationDate": "2022-02-19 10:51:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 6136f548-d1cb-4f81-b834-275afece9b40 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "e420d661-5949-46e0-a82b-140a5c1e3559",
+    "creationDate": "2022-02-19 10:51:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 225cc382-ed8f-4d73-a58c-79cea4e14ddc by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "2c17e6e5-f7a9-42ca-8ed9-09a6c680923e",
+    "creationDate": "2022-02-21 13:47:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "d448f203-2c77-4d1f-b3d3-63d3f256e33c",
+    "creationDate": "2022-02-21 13:47:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "0018b8c7-1fdc-4704-8fa3-372cae3beb15",
+    "creationDate": "2022-02-21 14:07:43",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:84c9071a-9695-4592-9875-c0c415921e54 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "269f21e1-8389-46c3-8a14-a2d78e77e5be",
+    "creationDate": "2022-02-21 15:49:17",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:ef0c4379-1a85-4b5f-bbb4-e8b30638a1c5 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "9b0dc50d-f9be-4281-8d19-deada7e19446",
+    "creationDate": "2022-02-22 18:38:45",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:d5bfcca9-baf3-492a-8984-a27b3449c281 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "a5177fa7-b9d6-488f-9e50-9c826e35f6a4",
+    "creationDate": "2022-02-19 10:57:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members ca9bd5f8-8a4b-402a-bf85-34f136900948 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "32e0698c-a1c9-45bf-b70a-0c0746a9c77a",
+    "creationDate": "2022-02-19 11:16:10",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members ca9bd5f8-8a4b-402a-bf85-34f136900948,225cc382-ed8f-4d73-a58c-79cea4e14ddc,520f8658-a225-4ac4-bc9b-0a972f89a7bc by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "e30c6a80-b6ba-4608-a2c7-2db8fc2abca5",
+    "creationDate": "2022-02-19 11:55:31",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 69858957-2af0-4505-a354-946c6fce1130 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e21ccb94-38a9-4b40-b743-91a80c784bfb"
+    }
+  },
+  {
+    "uuid": "d6a1aec4-6a1c-49fc-8d30-a65608adf356",
+    "creationDate": "2022-02-19 12:27:31",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Subdistributor 66b6332e-54dd-4424-9cd7-a0d7ff32667a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "aaf64bd6-3d0d-41ba-af9a-482921ea2532",
+    "creationDate": "2022-02-19 13:20:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Organization Unit a54c2c3d-ef2d-4bb1-8889-49bcb69902ad by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "4a124d76-753b-4346-8e76-9c7f53681c3e",
+    "creationDate": "2022-02-19 13:20:40",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Organization Unit a54c2c3d-ef2d-4bb1-8889-49bcb69902ad by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "1ba058af-8a00-4579-ab4e-c6f1dd812471",
+    "creationDate": "2022-02-19 14:07:13",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members ca9bd5f8-8a4b-402a-bf85-34f136900948,225cc382-ed8f-4d73-a58c-79cea4e14ddc,520f8658-a225-4ac4-bc9b-0a972f89a7bc,6ea52055-090e-49c6-bdfc-1c45cabbbec0 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "14f9d7e5-18a6-4a14-85e6-c483187d9733",
+    "creationDate": "2022-02-19 14:07:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members ca9bd5f8-8a4b-402a-bf85-34f136900948,225cc382-ed8f-4d73-a58c-79cea4e14ddc,520f8658-a225-4ac4-bc9b-0a972f89a7bc by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization a54c2c3d-ef2d-4bb1-8889-49bcb69902ad"
+    }
+  },
+  {
+    "uuid": "d13c5e9a-bef0-45c1-9db3-57e20c1e0b1c",
+    "creationDate": "2022-02-21 11:02:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "58728ecb-918f-475b-96ae-eb7ecda85ff4",
+    "creationDate": "2022-02-21 11:16:58",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "76c915c0-f4a3-418d-80e2-685b644c5f00",
+    "creationDate": "2022-02-21 12:22:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "6f636516-22f4-4574-8dac-16c557b06ffb",
+    "creationDate": "2022-02-21 12:23:15",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "4503eeec-9b86-41a7-90d4-5b5e9422137a",
+    "creationDate": "2022-02-21 12:45:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "e6c14add-5b0c-4208-a1b6-cf6c1c04e7d5",
+    "creationDate": "2022-02-21 13:22:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Retrieved error from api [Quote]"
+    }
+  },
+  {
+    "uuid": "06b8302f-6bea-4c1c-bec9-d34cb46ea7f3",
+    "creationDate": "2022-02-21 13:22:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "68b1b11d-3f40-4898-a0bc-356718d2763e",
+    "creationDate": "2022-02-22 15:36:17",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Subdistributr 5889e2e3-9257-4835-85c5-68ee74a663bd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "d4abc11f-f9b1-454e-9a69-0bdb7d83665e",
+    "creationDate": "2022-02-22 15:37:37",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Subdistributr 66b6332e-54dd-4424-9cd7-a0d7ff32667a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "1255296b-2f06-4622-9401-6f5758b813aa",
+    "creationDate": "2022-02-24 12:20:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "bd0746b3-67df-47aa-9a63-29b74798f90d",
+    "creationDate": "2022-02-22 16:40:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Subdistributor e6804841-7c61-48ce-8f4c-5e31efb8775e by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "8d2dda3c-2128-42b2-b71f-294a13482453",
+    "creationDate": "2022-02-22 16:45:13",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit e310ee18-1f09-4b05-ad46-2c35da410aa4 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "9aa51cb2-5808-4cd8-a31c-4d644751a49d",
+    "creationDate": "2022-02-22 16:49:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Organization Unit e310ee18-1f09-4b05-ad46-2c35da410aa4 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "d9dbb450-f5c1-4353-9409-ddff9599aee4",
+    "creationDate": "2022-02-22 16:49:51",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Organization Unit 7f5ec9e6-bc15-4bf0-afb8-bbed6818cd2d by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "a17ad1cf-d7dc-4f8a-9266-5a824718e409",
+    "creationDate": "2022-02-22 16:50:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 20f9e02d-e939-4427-ba31-9ef19ec09dbe by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "114923a4-a040-4c96-94d9-3b56c24e0787",
+    "creationDate": "2022-02-22 16:41:32",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 7f5ec9e6-bc15-4bf0-afb8-bbed6818cd2d by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "2efafb16-b80d-4c05-9970-cea84ad67428",
+    "creationDate": "2022-02-22 16:52:10",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Organization Unit 20f9e02d-e939-4427-ba31-9ef19ec09dbe by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "3c037626-bac7-4200-9a7d-285dd538024e",
+    "creationDate": "2022-02-22 16:52:20",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit ff19d9de-ad79-4c2f-84c3-c2d1ff3ec4bb by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization e6804841-7c61-48ce-8f4c-5e31efb8775e"
+    }
+  },
+  {
+    "uuid": "32439148-ffdb-44eb-9870-9c9cc5443cc8",
+    "creationDate": "2022-02-22 16:52:41",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 48b22dcf-d67f-44cf-9ba0-8d1d2168b807 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization ff19d9de-ad79-4c2f-84c3-c2d1ff3ec4bb"
+    }
+  },
+  {
+    "uuid": "ebb00c9a-d3d0-4492-aacc-b0ae1ffcc313",
+    "creationDate": "2022-02-22 18:34:04",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:eb9ba26b-4966-4bf5-8ad0-b98bc61e2771 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "84e76de6-9ecc-49d7-8b0b-d984a10b268f",
+    "creationDate": "2022-02-24 11:19:46",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948"
+    }
+  },
+  {
+    "uuid": "b7e88b57-6bc6-4b3a-8bd8-768fa677c59f",
+    "creationDate": "2022-02-24 11:21:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948"
+    }
+  },
+  {
+    "uuid": "dd513dd1-0da2-4953-8f86-ba80aa994442",
+    "creationDate": "2022-02-24 11:23:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948"
+    }
+  },
+  {
+    "uuid": "db035bb4-f4ed-46e5-a9a5-de8254465778",
+    "creationDate": "2022-02-24 11:31:07",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "42ab101e-3260-48fc-a577-ce017e15edc6",
+    "creationDate": "2022-02-24 11:31:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user ca9bd5f8-8a4b-402a-bf85-34f136900948"
+    }
+  },
+  {
+    "uuid": "e1bf5cc9-862d-46fc-9cf8-4afe14a57b39",
+    "creationDate": "2022-02-24 11:39:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "28869215-ac34-40bf-ac72-edb2c729275f",
+    "creationDate": "2022-02-24 11:44:50",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "4caa5cd1-599c-4d40-b8ac-b4ffca54882b",
+    "creationDate": "2022-02-24 11:46:13",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "8d7526ba-cef2-449c-9c9d-5aa9de59a273",
+    "creationDate": "2022-02-24 11:47:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "c4523773-1220-44b2-8f27-2a5ddba1ac3a",
+    "creationDate": "2022-02-24 11:48:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "20fbd544-0cd5-4f18-a7e2-cb9a536ff126",
+    "creationDate": "2022-02-24 11:50:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "056c31c6-5885-4421-9856-1badc8afdf23",
+    "creationDate": "2022-02-24 11:53:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "6f097e7c-5a3e-4884-a3bc-e3ad15e3d1fa",
+    "creationDate": "2022-02-24 12:13:17",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "577e5f15-b264-46a6-bccf-848fc55203ec",
+    "creationDate": "2022-02-24 12:30:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "d1fcc757-c30f-4af5-91de-83894b117a4b",
+    "creationDate": "2022-02-24 12:30:50",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "99c7e807-cabc-491f-bb02-8a53a097a574",
+    "creationDate": "2022-02-24 12:35:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "48e3e831-be11-467f-8c58-47f8f5df3e1f",
+    "creationDate": "2022-02-24 12:35:48",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "6e0d2ced-dd72-4eb4-a4d2-9133f5cf8ba1",
+    "creationDate": "2022-02-24 12:36:13",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "2f243620-b885-4e1d-b5c5-f50ace6851a1",
+    "creationDate": "2022-02-24 12:37:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "bed76cc4-0d90-4f28-a882-06a86cb2a609",
+    "creationDate": "2022-02-24 12:38:07",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer 484dcd1a-866b-42a1-b5b6-2e8e4895655a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc"
+    }
+  },
+  {
+    "uuid": "5b903301-cd70-4550-8413-7c34796550d9",
+    "creationDate": "2022-02-24 12:40:15",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "eb2db65f-ee51-49dd-a6c5-55ec039f7d6b",
+    "creationDate": "2022-02-24 12:41:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: juliusbaer"
+    }
+  },
+  {
+    "uuid": "ceaaa631-6292-43a1-9c66-07c9d5e1d2d5",
+    "creationDate": "2022-02-24 12:45:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)484dcd1a-866b-42a1-b5b6-2e8e4895655a by user ca9bd5f8-8a4b-402a-bf85-34f136900948 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "98908c47-7b92-4d30-bdb9-47eeb60ed3c2",
+    "creationDate": "2022-02-24 12:46:39",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)e482566e-aaaa-4f87-8583-c04c508029cd by user ca9bd5f8-8a4b-402a-bf85-34f136900948 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "5175fd7d-273a-4c63-b342-9f368060572e",
+    "creationDate": "2022-02-24 12:56:07",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Organization Issuer 5af6ce87-3510-4428-ad96-78f2e8b21b8a by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "e51481ef-bdc0-45c5-9523-d2778af64873",
+    "creationDate": "2022-02-24 12:56:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "4ca9c8e8-930a-4ef5-acb0-6ac7f9f48d67",
+    "creationDate": "2022-02-24 12:59:47",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted Organization Issuer e8dfe3e1-eeaf-4a3c-9b51-e14d57142f69 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "ea33f6c6-b2f5-4636-ae6a-cb946a2afe62",
+    "creationDate": "2022-02-24 12:59:53",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization Issuer (Issuer uuid)e482566e-aaaa-4f87-8583-c04c508029cd by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "02fa4eb1-83bf-49cb-98ce-8ad9b1bfaa42",
+    "creationDate": "2022-02-24 13:01:56",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: juliusbaer"
+    }
+  },
+  {
+    "uuid": "dfa52a94-1208-41cd-8d88-0909d4047fdc",
+    "creationDate": "2022-02-24 13:06:08",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: juliusbaer"
+    }
+  },
+  {
+    "uuid": "ac594315-d817-4f28-be1e-a52e7194cab7",
+    "creationDate": "2022-02-25 09:23:56",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:a7b9ebb8-b477-4113-aa0d-163d6f343bdd Isin:undefined"
+    }
+  },
+  {
+    "uuid": "06eb8b37-47c0-4e38-9834-feec004d5533",
+    "creationDate": "2022-02-25 12:27:53",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: morgan-plc"
+    }
+  },
+  {
+    "uuid": "2538fb19-38f7-4f4a-98d7-2eb426125bde",
+    "creationDate": "2022-03-01 07:44:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "166fed76-cbe4-46fc-bc99-69e2137ad52e",
+    "creationDate": "2022-03-01 07:49:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "a2bf0ee9-150d-449d-8945-7196bad3a55f",
+    "creationDate": "2022-03-01 07:50:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "07e9ecf3-9ee6-494f-ab54-dc0e74a0244e",
+    "creationDate": "2022-03-01 09:25:03",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:2b4d86a9-3b57-4318-a711-f3e63f06985e Isin:CH1132932190"
+    }
+  },
+  {
+    "uuid": "70ca4ace-b211-4b5c-815f-8a5a6a9f538f",
+    "creationDate": "2022-03-01 11:25:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:c77d4df3-84a8-40e7-92fe-4b1e9beb0264 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "debcadac-5060-4bc6-856c-7c4f9f682444",
+    "creationDate": "2022-02-25 13:01:40",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: morgan-plc"
+    }
+  },
+  {
+    "uuid": "92e6866d-f3f1-42ff-a1a2-274d52b733db",
+    "creationDate": "2022-02-25 13:26:58",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,bbva"
+    }
+  },
+  {
+    "uuid": "b1306bd8-24d6-44aa-8c38-c6e9b494b191",
+    "creationDate": "2022-02-25 13:29:15",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:f2593c56-c564-5e54-8e73-e8219a59a118 and for issuers: societe,morgan-bv,bbva"
+    }
+  },
+  {
+    "uuid": "3ebf804c-ca8d-4791-a70f-cf1878d1c47c",
+    "creationDate": "2022-02-25 13:43:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:ce8370c7-0cf6-5b00-adee-9cded1d02b08 and for issuers: societe,morgan-bv"
+    }
+  },
+  {
+    "uuid": "444b1e4c-2680-4e53-b1ee-d746fa59f965",
+    "creationDate": "2022-02-25 13:45:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,morgan-plc,morgan-bv"
+    }
+  },
+  {
+    "uuid": "d9b2b30d-59b9-4376-b3eb-9f26ca9e20d0",
+    "creationDate": "2022-02-25 15:19:37",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,morgan-plc,morgan-bv"
+    }
+  },
+  {
+    "uuid": "e6de009a-5115-4565-9f5c-7de361fab98d",
+    "creationDate": "2022-02-25 17:42:10",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:7d7181be-3759-4f5b-af8f-432ee234795c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "3371a2c8-5211-477e-bc03-64d3446d5dec",
+    "creationDate": "2022-02-28 10:45:59",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:a7b9ebb8-b477-4113-aa0d-163d6f343bdd Isin:undefined"
+    }
+  },
+  {
+    "uuid": "d9238473-042c-48f2-8e5c-18186713fc4d",
+    "creationDate": "2022-02-28 11:23:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "b5724520-87b3-4ebe-83a1-727db59eb37a",
+    "creationDate": "2022-02-28 11:40:04",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:8fefea16-a297-4c4d-b2b8-011c644aa67c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "5ebc660b-fc44-4dc9-ae30-4a9c5e432777",
+    "creationDate": "2022-02-28 11:42:36",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:2b4d86a9-3b57-4318-a711-f3e63f06985e Isin:CH1132932190"
+    }
+  },
+  {
+    "uuid": "57ee9f3f-c4f3-4dcc-b20a-07de733cae1e",
+    "creationDate": "2022-02-28 14:27:40",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Issuer 98f0489e-7953-45c6-a822-8b3eadc274cf by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "0fd72711-5549-40fd-8847-415f76793c42",
+    "creationDate": "2022-02-28 16:48:00",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:2b4d86a9-3b57-4318-a711-f3e63f06985e Isin:CH1132932190"
+    }
+  },
+  {
+    "uuid": "e83dc32f-87b1-45bb-8352-e1764c2a17a4",
+    "creationDate": "2022-03-01 09:42:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:2b4d86a9-3b57-4318-a711-f3e63f06985e Isin:CH1132932190"
+    }
+  },
+  {
+    "uuid": "58ca5cdd-f4e0-4030-bd58-92af1f8f9ec6",
+    "creationDate": "2022-03-01 09:47:28",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade ef0c4379-1a85-4b5f-bbb4-e8b30638a1c5"
+    }
+  },
+  {
+    "uuid": "b89f88f9-9191-4413-a09e-6ef736e388ff",
+    "creationDate": "2022-03-01 09:50:16",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade ef0c4379-1a85-4b5f-bbb4-e8b30638a1c5"
+    }
+  },
+  {
+    "uuid": "96fcd33b-ff4a-4043-b72a-3dd9376ffea0",
+    "creationDate": "2022-03-01 09:51:02",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Invited users valeriodv82@gmail.com by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 8af38690-4b01-4f29-a257-cc80747efe8e"
+    }
+  },
+  {
+    "uuid": "e5a3678d-12f1-48a5-a430-36797147ab9f",
+    "creationDate": "2022-03-01 09:51:02",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 48b22dcf-d67f-44cf-9ba0-8d1d2168b807,3485308e-008f-4424-89dc-6399eb6d5df4 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 8af38690-4b01-4f29-a257-cc80747efe8e"
+    }
+  },
+  {
+    "uuid": "2afa73e2-64ec-4944-a3d6-cce708afab7a",
+    "creationDate": "2022-03-01 10:38:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade a7b9ebb8-b477-4113-aa0d-163d6f343bdd"
+    }
+  },
+  {
+    "uuid": "a326807c-6af1-40a8-9078-da5f697bf86e",
+    "creationDate": "2022-03-01 11:51:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error updating trade:undefined"
+    }
+  },
+  {
+    "uuid": "4079468f-44c1-457c-8d29-d0ae3addf380",
+    "creationDate": "2022-03-01 15:26:05",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:d5bfcca9-baf3-492a-8984-a27b3449c281 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "13309514-e4b1-4742-9437-72fb9f10c865",
+    "creationDate": "2022-03-01 15:32:44",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:d5bfcca9-baf3-492a-8984-a27b3449c281 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "6c560f97-6ea7-44e4-8c10-aec7a1a8e11d",
+    "creationDate": "2022-03-01 15:43:08",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:7d7181be-3759-4f5b-af8f-432ee234795c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "6c9c3aa0-e3fc-4ba6-8c1e-bba476ec1b40",
+    "creationDate": "2022-03-01 15:43:53",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,morgan-bv,bbva"
+    }
+  },
+  {
+    "uuid": "69f9e342-82ce-4f1d-af47-0c79440e8163",
+    "creationDate": "2022-03-01 16:04:53",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,bbva"
+    }
+  },
+  {
+    "uuid": "48d29bfd-9be5-4abd-b18e-fdb2f1c7f9c8",
+    "creationDate": "2022-03-01 16:11:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: bbva"
+    }
+  },
+  {
+    "uuid": "17ea6904-72af-4480-88b8-09da590852b1",
+    "creationDate": "2022-03-01 12:40:05",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members 3485308e-008f-4424-89dc-6399eb6d5df4 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization ff19d9de-ad79-4c2f-84c3-c2d1ff3ec4bb"
+    }
+  },
+  {
+    "uuid": "5df163b1-7c92-4b5b-a354-dd0298db088f",
+    "creationDate": "2022-03-01 14:01:02",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:dc9ce580-9704-490c-9ad0-588f338e19bf Isin:undefined"
+    }
+  },
+  {
+    "uuid": "1c9043c5-4a54-419d-8549-e679a605a516",
+    "creationDate": "2022-03-01 15:38:32",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:7d7181be-3759-4f5b-af8f-432ee234795c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "165caa2d-b05b-4e36-94d5-33e4fa8a4250",
+    "creationDate": "2022-03-01 14:50:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:7d7181be-3759-4f5b-af8f-432ee234795c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "723214ec-cbe8-4f00-8fa3-6d5f00b5a1ad",
+    "creationDate": "2022-03-01 15:28:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,morgan-plc,morgan-bv,bbva,ubs,creditagricole,marex,barclays,goldmansachs,juliusbaer"
+    }
+  },
+  {
+    "uuid": "9f52c770-30a2-4903-b22f-0a1e375f309a",
+    "creationDate": "2022-03-01 16:14:16",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: societe,morgan-plc,morgan-bv,bbva,ubs,creditagricole,marex,barclays,goldmansachs,juliusbaer"
+    }
+  },
+  {
+    "uuid": "35729bae-7c80-442d-8011-dfb079dedee3",
+    "creationDate": "2022-03-01 16:33:14",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:7d7181be-3759-4f5b-af8f-432ee234795c Isin:undefined"
+    }
+  },
+  {
+    "uuid": "019d2ab3-d437-4c66-bd82-70543e9e7a61",
+    "creationDate": "2022-03-01 16:39:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:c77d4df3-84a8-40e7-92fe-4b1e9beb0264 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "3f2a8904-e986-4494-9750-5c35fc02d8c1",
+    "creationDate": "2022-03-01 16:41:01",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:202ff215-7392-435b-9669-58d93ce0a33b Isin:undefined"
+    }
+  },
+  {
+    "uuid": "0700b236-08a8-47ab-a895-e09fed03dfe2",
+    "creationDate": "2022-03-02 08:36:39",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "ca9bd5f8-8a4b-402a-bf85-34f136900948",
+    "audit": {
+      "level": "INFO",
+      "message": "User :ca9bd5f8-8a4b-402a-bf85-34f136900948 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: societe,morgan-plc,morgan-bv,bbva,creditagricole,marex,barclays,juliusbaer"
+    }
+  },
+  {
+    "uuid": "efd631af-65b0-4e4c-86ba-be07565c88c4",
+    "creationDate": "2022-03-02 09:24:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "ff7f32d7-ab9f-41d2-bb85-a288e0f882fd",
+    "creationDate": "2022-03-02 09:24:46",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "710d83c6-14d1-4cc5-8ef0-67e9aacf661f",
+    "creationDate": "2022-03-02 10:34:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Subdistributor 687266cb-6350-4e19-86be-665bbf58782b by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "cba06617-0034-4470-82b7-ebafe4e21540",
+    "creationDate": "2022-03-02 10:34:40",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 0ff0e740-69ea-4f59-b85c-bc4b0367c8c0 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 687266cb-6350-4e19-86be-665bbf58782b"
+    }
+  },
+  {
+    "uuid": "368933a1-89c7-4d41-b2e5-d54da35bce6e",
+    "creationDate": "2022-03-02 10:35:19",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Members eab4855d-79fb-4587-a4ab-36bdd1acb505,27acda28-86a5-4d5b-9134-bb78d090ba7e by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 0ff0e740-69ea-4f59-b85c-bc4b0367c8c0"
+    }
+  },
+  {
+    "uuid": "4f22dca1-f51d-4783-a316-2e9d637e3475",
+    "creationDate": "2022-03-02 10:35:39",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Portfolio 1f693800-ee0b-471f-82b0-69bbc628ecfe by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 687266cb-6350-4e19-86be-665bbf58782b"
+    }
+  },
+  {
+    "uuid": "a2340e53-8f8c-417d-9b41-ea1e24d3540e",
+    "creationDate": "2022-03-02 10:41:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Edited Portfolio 1f693800-ee0b-471f-82b0-69bbc628ecfe by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 687266cb-6350-4e19-86be-665bbf58782b"
+    }
+  },
+  {
+    "uuid": "949a6e8c-9301-45c5-8d06-fe36b5e7acb1",
+    "creationDate": "2022-03-02 10:41:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Portfolio bfa377e3-af59-4384-87bc-c7ae8ee39fca by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 687266cb-6350-4e19-86be-665bbf58782b"
+    }
+  },
+  {
+    "uuid": "a362af4f-f61e-48f4-9b45-3417932f87de",
+    "creationDate": "2022-03-02 10:42:05",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Portfolio cad98deb-cb42-4642-b042-b6f672d11201 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 687266cb-6350-4e19-86be-665bbf58782b"
+    }
+  },
+  {
+    "uuid": "5a6357f0-0a74-416c-9966-0f9598cbf82a",
+    "creationDate": "2022-03-02 19:19:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:5375165d-0261-482a-ac4b-82e6fbeb7366 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "d0de11d9-ce23-434a-b57a-e1e09c2fe084",
+    "creationDate": "2022-03-03 08:01:27",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade dc9ce580-9704-490c-9ad0-588f338e19bf"
+    }
+  },
+  {
+    "uuid": "ccaa3085-9b42-4f56-834e-010a9d985741",
+    "creationDate": "2022-03-03 08:08:46",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade eb9ba26b-4966-4bf5-8ad0-b98bc61e2771"
+    }
+  },
+  {
+    "uuid": "e8341664-fa69-40f1-8b80-2bf79e04220d",
+    "creationDate": "2022-03-03 08:11:08",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade 202ff215-7392-435b-9669-58d93ce0a33b"
+    }
+  },
+  {
+    "uuid": "b134af7b-5afb-4794-8485-b5515f9c8ef4",
+    "creationDate": "2022-03-03 08:13:21",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade d5bfcca9-baf3-492a-8984-a27b3449c281"
+    }
+  },
+  {
+    "uuid": "69939a22-1e2b-44fd-8649-5d321127232b",
+    "creationDate": "2022-03-03 08:33:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade c77d4df3-84a8-40e7-92fe-4b1e9beb0264"
+    }
+  },
+  {
+    "uuid": "4125f65c-a2b3-4adc-b997-031260fe6892",
+    "creationDate": "2022-03-03 08:54:56",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade 60627c1c-5e71-48f8-991d-17c07fed9203"
+    }
+  },
+  {
+    "uuid": "76b2f8d9-1cf5-4409-bd4f-46382b6425e0",
+    "creationDate": "2022-03-03 09:32:58",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "05a3dae6-72e9-45f3-9aba-9dcbb4b2487a",
+    "creationDate": "2022-03-03 09:46:12",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:f983f58e-78f5-4f48-8e08-3abb75aa1b65 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "ed94d9da-7e7c-4ce7-bcee-76f16058512f",
+    "creationDate": "2022-03-03 11:08:49",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:f983f58e-78f5-4f48-8e08-3abb75aa1b65 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "0618042f-ab31-471a-9199-07e75197d3be",
+    "creationDate": "2022-03-03 11:28:50",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:f983f58e-78f5-4f48-8e08-3abb75aa1b65 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "0b863b00-f335-40b6-9c9c-d3be4d122683",
+    "creationDate": "2022-03-04 12:22:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:6cc01acd-b815-4dbe-81bd-39b86e69bf75 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "f12d27e7-96c5-4daf-8080-542fb5347daf",
+    "creationDate": "2022-03-04 18:00:05",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:659d81ea-2aa7-4fa0-a57c-04029dcf9e8e Isin:undefined"
+    }
+  },
+  {
+    "uuid": "cd1d0c2c-28b7-4a20-b81b-b42a8f3066b4",
+    "creationDate": "2022-03-07 09:45:22",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "8726f17d-c6a8-490f-a446-f2c38d022f26",
+    "creationDate": "2022-03-03 08:44:51",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "WARN",
+      "message": "User e046611a-b9b5-4f42-acef-14138012e078 is deleting trade b93885a5-b97c-4827-a2d5-64b2534999c9"
+    }
+  },
+  {
+    "uuid": "b1bceeba-56c3-4c5b-ba20-cea469b30f15",
+    "creationDate": "2022-03-03 08:48:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:60627c1c-5e71-48f8-991d-17c07fed9203 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "416e4106-ad0d-48ab-936c-18eff2d40f90",
+    "creationDate": "2022-03-03 09:04:54",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "2a70f370-b5a7-479d-958b-983b301a5a5d",
+    "creationDate": "2022-03-03 09:06:04",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "d018d681-e85e-4f51-9a2d-88f40fa524bd",
+    "creationDate": "2022-03-03 09:07:06",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "ce31b54f-08fd-4087-bde0-a0f72258aa58",
+    "creationDate": "2022-03-03 09:08:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "68a4d0ee-5721-4e35-9cf9-8b11a6a2bb2e",
+    "creationDate": "2022-03-03 09:38:05",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "ERROR",
+      "message": "Error inserting trade:undefined"
+    }
+  },
+  {
+    "uuid": "0d1478f8-8451-4bcd-88af-a285f52c09f2",
+    "creationDate": "2022-03-03 16:51:51",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: barclays"
+    }
+  },
+  {
+    "uuid": "b11c29a8-5bf2-4225-9c6e-b7aa11ee549b",
+    "creationDate": "2022-03-04 08:20:26",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "User :e046611a-b9b5-4f42-acef-14138012e078 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: societe,morgan-plc,morgan-bv,bbva,creditagricole,marex,barclays,goldmansachs,juliusbaer"
+    }
+  },
+  {
+    "uuid": "a5c11766-e943-4526-885c-d95128aa9412",
+    "creationDate": "2022-03-08 12:54:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "User :6ea52055-090e-49c6-bdfc-1c45cabbbec0 is requesting price for productCatalog:f2593c56-c564-5e54-8e73-e8219a59a118 and for issuers: societe,morgan-plc,morgan-bv,bbva,ubs,marex,barclays,goldmansachs"
+    }
+  },
+  {
+    "uuid": "7401980f-3d34-4b88-a65b-b895de95284e",
+    "creationDate": "2022-03-08 12:55:25",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "User :6ea52055-090e-49c6-bdfc-1c45cabbbec0 is requesting price for productCatalog:5cadb13c-cbdb-51c8-bfaa-ab650cb058c6 and for issuers: societe,morgan-plc,morgan-bv,bbva,ubs,goldmansachs"
+    }
+  },
+  {
+    "uuid": "e49c5571-7b9d-4d01-bd2f-9b345881fd87",
+    "creationDate": "2022-03-08 15:09:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "New user manuel.menendez+pruebaLogin@asn-global.com has been invited by user e046611a-b9b5-4f42-acef-14138012e078 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "75b48b1b-885e-4784-8b33-7a6587e1d79e",
+    "creationDate": "2022-03-08 15:11:16",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted User d02f4487-2dce-45e7-91a0-94570e2a93e5 by user e046611a-b9b5-4f42-acef-14138012e078 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "1a1ec635-8fc0-495e-8897-286c1e53f38d",
+    "creationDate": "2022-03-04 13:32:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:6cc01acd-b815-4dbe-81bd-39b86e69bf75 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "92e0769b-0363-461c-8d0a-be318fa4bf6a",
+    "creationDate": "2022-03-07 08:59:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:38e9dd53-d662-4441-a98f-6383280d7160 Isin:undefined"
+    }
+  },
+  {
+    "uuid": "bdeb5a9a-d528-48ca-8666-1f522b393698",
+    "creationDate": "2022-03-07 09:39:09",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "79c75825-e162-42f0-8136-e9c980201ce9",
+    "creationDate": "2022-03-07 09:40:57",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "e2816b9d-8a75-48c7-b6a5-ac97c06e672e",
+    "creationDate": "2022-03-07 10:05:22",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "6781d7d0-5110-49eb-b4dc-bfb610526df0",
+    "creationDate": "2022-03-07 10:07:28",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated Issuer e482566e-aaaa-4f87-8583-c04c508029cd by user 6ea52055-090e-49c6-bdfc-1c45cabbbec0"
+    }
+  },
+  {
+    "uuid": "1f19b845-6152-4c66-a544-803fc1529dc8",
+    "creationDate": "2022-03-07 10:10:29",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Updated trade:6cc01acd-b815-4dbe-81bd-39b86e69bf75 Isin:Borrar"
+    }
+  },
+  {
+    "uuid": "cd98c1d8-8cfd-428b-b169-f45d223c7c47",
+    "creationDate": "2022-03-07 16:47:34",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: barclays,societe"
+    }
+  },
+  {
+    "uuid": "3bb561ef-4510-4259-b42a-6c4dbfb6ee19",
+    "creationDate": "2022-03-08 15:58:11",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "New user manuel.menendez+PruebaEmail@asn-global.com has been invited by user e046611a-b9b5-4f42-acef-14138012e078 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "19ff215e-577e-42ee-a04e-cb745396c9e7",
+    "creationDate": "2022-03-08 16:21:35",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Deleted User 47de05f7-a178-44c6-9c6f-97ec1db771a8 by user e046611a-b9b5-4f42-acef-14138012e078 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "d98bf239-3890-464f-9d5b-5e6b6a17b832",
+    "creationDate": "2022-03-08 16:22:06",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "New user manuel.menendez+PruebaEmail@asn-global.com has been invited by user e046611a-b9b5-4f42-acef-14138012e078 into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "4f8c78da-4dea-4e75-8aae-ba5791cf7179",
+    "creationDate": "2022-03-08 18:06:46",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:f2593c56-c564-5e54-8e73-e8219a59a118 and for issuers: societe,morgan-plc"
+    }
+  },
+  {
+    "uuid": "aa64a31b-bbd0-4616-9654-960797709b67",
+    "creationDate": "2022-03-07 21:26:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "User :520f8658-a225-4ac4-bc9b-0a972f89a7bc is requesting price for productCatalog:3c30b5a1-1d43-5371-a191-7ae72c8c1cd1 and for issuers: morgan-plc,bbva"
+    }
+  },
+  {
+    "uuid": "444bd3b9-8233-4bf8-8b89-833ef6aa8ba1",
+    "creationDate": "2022-03-08 12:48:10",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "6ea52055-090e-49c6-bdfc-1c45cabbbec0",
+    "audit": {
+      "level": "INFO",
+      "message": "User :6ea52055-090e-49c6-bdfc-1c45cabbbec0 is requesting price for productCatalog:c13f0425-2d8a-5fb3-acf0-5929d453f762 and for issuers: societe,morgan-plc,morgan-bv,bbva,creditagricole,marex,goldmansachs"
+    }
+  },
+  {
+    "uuid": "0546759d-7015-4f92-97a3-3b63132e971f",
+    "creationDate": "2022-03-09 08:13:30",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Subdistributor 617b9249-e32f-4bcc-ab2d-0e4e91559160 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 6827e467-cf9e-44e8-9fbf-5c7b49c4bdf4"
+    }
+  },
+  {
+    "uuid": "02250083-ea66-4260-9dcb-e06ac905f199",
+    "creationDate": "2022-03-09 08:16:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 2fd4d515-733a-49c8-a50b-8df6bad280bc by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 617b9249-e32f-4bcc-ab2d-0e4e91559160"
+    }
+  },
+  {
+    "uuid": "b98c1add-e610-4ff6-9f8f-d9b368a67b92",
+    "creationDate": "2022-03-09 08:16:28",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 129c50fe-a678-4839-91d6-7a98541cbef1 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 617b9249-e32f-4bcc-ab2d-0e4e91559160"
+    }
+  },
+  {
+    "uuid": "1f36c500-58e5-401f-8964-ab3ad54573c9",
+    "creationDate": "2022-03-09 08:16:38",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Organization unit 96f0378f-ea2f-4869-bfec-be5515da59c4 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 617b9249-e32f-4bcc-ab2d-0e4e91559160"
+    }
+  },
+  {
+    "uuid": "6f89df38-8901-4cb5-928e-62d086fb22f9",
+    "creationDate": "2022-03-09 08:17:08",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Portfolio e2152192-02f8-4f12-adaf-93978e75ea36 by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 617b9249-e32f-4bcc-ab2d-0e4e91559160"
+    }
+  },
+  {
+    "uuid": "0ecbb79f-8537-4b6e-9293-9fc3c4e128de",
+    "creationDate": "2022-03-09 08:17:33",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "520f8658-a225-4ac4-bc9b-0a972f89a7bc",
+    "audit": {
+      "level": "INFO",
+      "message": "Added new Portfolio 88e8d50a-9b37-4d29-a925-c6ed75146efc by user 520f8658-a225-4ac4-bc9b-0a972f89a7bc into the Organization 617b9249-e32f-4bcc-ab2d-0e4e91559160"
+    }
+  },
+  {
+    "uuid": "24dd5000-ceb3-4ba3-808b-b5ad8c44ff80",
+    "creationDate": "2022-03-09 12:06:20",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "INFO",
+      "message": "User :f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is requesting price for productCatalog:1ac2cb9f-89ba-519f-832d-dd5cf1ad0528 and for issuers: societe,morgan-plc,morgan-bv,bbva,creditagricole,marex,barclays,goldmansachs"
+    }
+  },
+  {
+    "uuid": "1df65e59-d223-499b-8b06-68f7c006d474",
+    "creationDate": "2022-03-09 12:11:52",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "INFO",
+      "message": "User :f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is requesting price for productCatalog:395aa501-8a91-5e5f-babb-0a987be3da35 and for issuers: ubs"
+    }
+  },
+  {
+    "uuid": "13f91793-efe6-40d9-8108-334ac94e424f",
+    "creationDate": "2022-03-09 12:12:02",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "INFO",
+      "message": "User :f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is requesting price for productCatalog:395aa501-8a91-5e5f-babb-0a987be3da35 and for issuers: societe,morgan-plc,morgan-bv,bbva,creditagricole,marex,barclays,goldmansachs"
+    }
+  },
+  {
+    "uuid": "d919af72-b5f3-4062-a039-27ca6d302330",
+    "creationDate": "2022-03-09 14:05:23",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "INFO",
+      "message": "User :f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is requesting price for productCatalog:f2593c56-c564-5e54-8e73-e8219a59a118 and for issuers: ubs"
+    }
+  },
+  {
+    "uuid": "e8072927-ea01-4281-b5cd-918b4bfb380b",
+    "creationDate": "2022-03-09 14:05:42",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "f3573a4b-60c4-44d7-a358-3ac2c4f5ade4",
+    "audit": {
+      "level": "INFO",
+      "message": "User :f3573a4b-60c4-44d7-a358-3ac2c4f5ade4 is requesting price for productCatalog:f2593c56-c564-5e54-8e73-e8219a59a118 and for issuers: societe,morgan-plc,morgan-bv,bbva,marex,barclays,goldmansachs"
+    }
+  },
+  {
+    "uuid": "705a1437-3904-40ef-aed3-7783df7d7685",
+    "creationDate": "2022-03-09 15:06:41",
+    "tenantName": "DEV",
+    "source": "OPPORTAL",
+    "userUuid": "e046611a-b9b5-4f42-acef-14138012e078",
+    "audit": {
+      "level": "INFO",
+      "message": "Inserted trade:0c734fb0-9390-4abf-9641-053f07093309 Isin:undefined"
+    }
+  }
+]
